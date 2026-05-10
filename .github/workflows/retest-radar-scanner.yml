@@ -1,0 +1,51 @@
+name: Retest Radar Scanner
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "11 * * * *"
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Retest Radar Scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+          MIN_QUOTE_VOLUME_USDT: "7000000"
+
+          KLINE_LIMIT_4H: "140"
+          RESISTANCE_LOOKBACK_4H: "36"
+          VOL_RATIO_MIN_4H: "1.5"
+
+          KLINE_LIMIT_3D: "90"
+          MIN_3D_BARS: "15"
+
+          RS_MIN_ADVANTAGE: "3.0"
+
+          DEPTH_LIMIT: "500"
+          BOOK_BAND_PCT: "0.02"
+          MAX_SPREAD_PCT: "0.25"
+          BID_ASK_RATIO_MIN: "1.35"
+          MIN_WALL_USDT: "20000"
+          WALL_MAX_DISTANCE_PCT: "0.025"
+
+          MAX_ALERTS: "12"
+        run: python retest_radar_scanner.py
