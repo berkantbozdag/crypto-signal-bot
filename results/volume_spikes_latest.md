@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-10 00:04 UTC**
+Son tarama: **2026-05-10 04:12 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SKYUSDT    | 3.15M        | LOW        | 76.12K           | 22.95K           |           3.32 |           1.0542 | 2026-05-09 23:59 UTC |
-| MANTRAUSDT | 2.28M        | LOW        | 81.21K           | 27.11K           |           3    |           0.57   | 2026-05-09 23:59 UTC |
-| BANKUSDT   | 1.73M        | LOW        | 72.15K           | 28.15K           |           2.56 |           0.5403 | 2026-05-09 23:59 UTC |
-| ZBTUSDT    | 1.89M        | LOW        | 99.07K           | 42.96K           |           2.31 |           0.5459 | 2026-05-09 23:59 UTC |
-| CFGUSDT    | 11.93M       | OK         | 84.00K           | 36.56K           |           2.3  |           2.122  | 2026-05-09 23:59 UTC |
-| UUSDT      | 10.01M       | OK         | 381.47K          | 187.03K          |           2.04 |           0.9999 | 2026-05-09 23:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ESPUSDT       | 955.25K      | LOW        | 75.13K           | 9.41K            |           7.98 |           1.2432 | 2026-05-10 03:59 UTC |
+| NIGHTUSDT     | 1.09M        | LOW        | 70.57K           | 14.68K           |           4.81 |           0.6597 | 2026-05-10 03:59 UTC |
+| OPNUSDT       | 1.52M        | LOW        | 50.18K           | 15.78K           |           3.18 |           0.6662 | 2026-05-10 03:59 UTC |
+| SPKUSDT       | 2.45M        | LOW        | 155.16K          | 49.75K           |           3.12 |           0.903  | 2026-05-10 03:59 UTC |
+| VIRTUALUSDT   | 6.26M        | LOW        | 153.77K          | 56.07K           |           2.74 |           1.6587 | 2026-05-10 03:59 UTC |
+| BANANAS31USDT | 2.72M        | LOW        | 64.56K           | 26.19K           |           2.47 |           2.3852 | 2026-05-10 03:59 UTC |
+| CFGUSDT       | 7.64M        | OK         | 205.37K          | 84.00K           |           2.44 |           2.0896 | 2026-05-10 03:59 UTC |
