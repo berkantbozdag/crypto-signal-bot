@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-10 15:08 UTC**
+Son tarama: **2026-05-10 16:10 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,15 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| FRAXUSDT | 354.77K      | LOW        | 52.81K           | 521              |         101.39 |           0.596  | 2026-05-10 14:59 UTC |
-| 币安人生USDT | 8.38M        | OK         | 2.86M            | 78.48K           |          36.47 |           2.9986 | 2026-05-10 14:59 UTC |
-| OPNUSDT  | 1.19M        | LOW        | 147.16K          | 44.11K           |           3.34 |           0.6963 | 2026-05-10 14:59 UTC |
-| ROBOUSDT | 990.15K      | LOW        | 57.11K           | 19.85K           |           2.88 |           0.5348 | 2026-05-10 14:59 UTC |
-| KATUSDT  | 3.97M        | LOW        | 511.34K          | 195.80K          |           2.61 |           0.9858 | 2026-05-10 14:59 UTC |
-| ZBTUSDT  | 2.40M        | LOW        | 70.61K           | 28.27K           |           2.5  |           0.5371 | 2026-05-10 14:59 UTC |
+| symbol         | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| 币安人生USDT       | 19.88M       | OK         | 11.96M           | 2.86M            |           4.18 |           3.292  | 2026-05-10 15:59 UTC |
+| ZKPUSDT        | 434.19K      | LOW        | 66.13K           | 18.23K           |           3.63 |           0.5359 | 2026-05-10 15:59 UTC |
+| VIRTUALUSDT    | 6.16M        | LOW        | 563.32K          | 161.73K          |           3.48 |           1.7003 | 2026-05-10 15:59 UTC |
+| NIGHTUSDT      | 754.22K      | LOW        | 82.67K           | 24.26K           |           3.41 |           0.6686 | 2026-05-10 15:59 UTC |
+| 1000CHEEMSUSDT | 678.24K      | LOW        | 81.85K           | 27.08K           |           3.02 |           0.664  | 2026-05-10 15:59 UTC |
+| ESPUSDT        | 1.18M        | LOW        | 92.03K           | 31.50K           |           2.92 |           1.263  | 2026-05-10 15:59 UTC |
+| KITEUSDT       | 12.15M       | OK         | 882.01K          | 305.95K          |           2.88 |           2.1567 | 2026-05-10 15:59 UTC |
+| UUSDT          | 4.07M        | LOW        | 484.63K          | 169.97K          |           2.85 |           1      | 2026-05-10 15:59 UTC |
+| ZBTUSDT        | 2.40M        | LOW        | 155.77K          | 70.61K           |           2.21 |           0.5407 | 2026-05-10 15:59 UTC |
+| MORPHOUSDT     | 1.27M        | LOW        | 124.42K          | 61.47K           |           2.02 |           1.1395 | 2026-05-10 15:59 UTC |
