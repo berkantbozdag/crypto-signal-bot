@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-10 09:50 UTC**
+Son tarama: **2026-05-10 11:13 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| HYPERUSDT     | 1.24M        | LOW        | 176.42K          | 21.28K           |           8.29 |           0.5329 | 2026-05-10 08:59 UTC |
-| CFGUSDT       | 5.11M        | LOW        | 497.47K          | 152.43K          |           3.26 |           2.1467 | 2026-05-10 08:59 UTC |
-| XAUTUSDT      | 1.96M        | LOW        | 108.56K          | 33.88K           |           3.2  |           1.0493 | 2026-05-10 08:59 UTC |
-| UUSDT         | 6.24M        | LOW        | 259.47K          | 88.17K           |           2.94 |           0.9999 | 2026-05-10 08:59 UTC |
-| BANANAS31USDT | 2.20M        | LOW        | 81.58K           | 28.09K           |           2.9  |           2.3912 | 2026-05-10 08:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| HOMEUSDT | 502.81K      | LOW        | 59.27K           | 4.63K            |          12.81 |           0.5617 | 2026-05-10 10:59 UTC |
+| KITEUSDT | 11.41M       | OK         | 527.18K          | 78.27K           |           6.74 |           2.0622 | 2026-05-10 10:59 UTC |
+| SKYUSDT  | 2.06M        | LOW        | 121.38K          | 37.15K           |           3.27 |           1.0426 | 2026-05-10 10:59 UTC |
+| SPKUSDT  | 2.33M        | LOW        | 87.92K           | 29.85K           |           2.95 |           0.8971 | 2026-05-10 10:59 UTC |
