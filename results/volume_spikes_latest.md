@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-10 04:12 UTC**
+Son tarama: **2026-05-10 07:36 UTC**
 
 
 Volume spike kriteri:
@@ -10,12 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ESPUSDT       | 955.25K      | LOW        | 75.13K           | 9.41K            |           7.98 |           1.2432 | 2026-05-10 03:59 UTC |
-| NIGHTUSDT     | 1.09M        | LOW        | 70.57K           | 14.68K           |           4.81 |           0.6597 | 2026-05-10 03:59 UTC |
-| OPNUSDT       | 1.52M        | LOW        | 50.18K           | 15.78K           |           3.18 |           0.6662 | 2026-05-10 03:59 UTC |
-| SPKUSDT       | 2.45M        | LOW        | 155.16K          | 49.75K           |           3.12 |           0.903  | 2026-05-10 03:59 UTC |
-| VIRTUALUSDT   | 6.26M        | LOW        | 153.77K          | 56.07K           |           2.74 |           1.6587 | 2026-05-10 03:59 UTC |
-| BANANAS31USDT | 2.72M        | LOW        | 64.56K           | 26.19K           |           2.47 |           2.3852 | 2026-05-10 03:59 UTC |
-| CFGUSDT       | 7.64M        | OK         | 205.37K          | 84.00K           |           2.44 |           2.0896 | 2026-05-10 03:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| AWEUSDT    | 534.83K      | LOW        | 182.85K          | 9.82K            |          18.63 |           0.7927 | 2026-05-10 06:59 UTC |
+| BFUSDUSDT  | 404.54K      | LOW        | 75.97K           | 12.89K           |           5.89 |           0.9994 | 2026-05-10 06:59 UTC |
+| OPNUSDT    | 1.55M        | LOW        | 172.78K          | 50.18K           |           3.44 |           0.6675 | 2026-05-10 06:59 UTC |
+| STOUSDT    | 1.44M        | LOW        | 54.53K           | 23.01K           |           2.37 |           0.5073 | 2026-05-10 06:59 UTC |
+| ROBOUSDT   | 1.23M        | LOW        | 82.94K           | 35.46K           |           2.34 |           0.5235 | 2026-05-10 06:59 UTC |
+| MANTRAUSDT | 1.16M        | LOW        | 52.55K           | 22.85K           |           2.3  |           0.569  | 2026-05-10 06:59 UTC |
+| 币安人生USDT   | 5.27M        | LOW        | 248.84K          | 109.27K          |           2.28 |           2.759  | 2026-05-10 06:59 UTC |
