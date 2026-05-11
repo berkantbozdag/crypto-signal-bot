@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-11 08:36 UTC**
+Son tarama: **2026-05-11 12:26 UTC**
 
 
 Volume spike kriteri:
@@ -10,12 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 926.52K      | LOW        | 168.81K          | 7.79K            |          21.66 |           0.9995 | 2026-05-11 07:59 UTC |
-| SPKUSDT   | 5.40M        | LOW        | 856.90K          | 97.42K           |           8.8  |           0.7843 | 2026-05-11 07:59 UTC |
-| UUSDT     | 10.04M       | OK         | 1.55M            | 319.18K          |           4.85 |           1      | 2026-05-11 07:59 UTC |
-| HOMEUSDT  | 1.26M        | LOW        | 108.51K          | 34.77K           |           3.12 |           0.5829 | 2026-05-11 07:59 UTC |
-| KATUSDT   | 4.94M        | LOW        | 498.90K          | 165.87K          |           3.01 |           0.9782 | 2026-05-11 07:59 UTC |
-| ROBOUSDT  | 1.05M        | LOW        | 89.85K           | 32.84K           |           2.74 |           0.5368 | 2026-05-11 07:59 UTC |
-| NIGHTUSDT | 2.55M        | LOW        | 102.84K          | 40.51K           |           2.54 |           0.6888 | 2026-05-11 07:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| UUSDT         | 20.99M       | OK         | 11.23M           | 1.55M            |           7.25 |           1      | 2026-05-11 11:59 UTC |
+| AWEUSDT       | 560.98K      | LOW        | 67.37K           | 12.31K           |           5.47 |           0.8218 | 2026-05-11 11:59 UTC |
+| BANANAS31USDT | 4.09M        | LOW        | 636.65K          | 164.84K          |           3.86 |           2.6478 | 2026-05-11 11:59 UTC |
+| SKYUSDT       | 1.55M        | LOW        | 101.11K          | 38.75K           |           2.61 |           1.0157 | 2026-05-11 11:59 UTC |
+| NIGHTUSDT     | 2.97M        | LOW        | 241.76K          | 102.84K          |           2.35 |           0.6934 | 2026-05-11 11:59 UTC |
