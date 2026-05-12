@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-12 00:11 UTC**
+Son tarama: **2026-05-12 04:50 UTC**
 
 
 Volume spike kriteri:
@@ -10,12 +10,13 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| VIRTUALUSDT | 6.84M        | LOW        | 798.82K          | 109.99K          |           7.26 |           1.5912 | 2026-05-11 23:59 UTC |
-| SPKUSDT     | 6.64M        | LOW        | 151.34K          | 45.80K           |           3.3  |           0.7798 | 2026-05-11 23:59 UTC |
-| 币安人生USDT    | 18.27M       | OK         | 756.70K          | 231.73K          |           3.27 |           2.7009 | 2026-05-11 23:59 UTC |
-| XAUTUSDT    | 13.18M       | OK         | 477.33K          | 172.11K          |           2.77 |           1.0579 | 2026-05-11 23:59 UTC |
-| ZAMAUSDT    | 2.65M        | LOW        | 93.32K           | 36.56K           |           2.55 |           1.0073 | 2026-05-11 23:59 UTC |
-| KITEUSDT    | 15.05M       | OK         | 218.55K          | 88.23K           |           2.48 |           2.0518 | 2026-05-11 23:59 UTC |
-| BANKUSDT    | 1.70M        | LOW        | 306.41K          | 144.34K          |           2.12 |           0.5532 | 2026-05-11 23:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT      | 6.59M        | LOW        | 4.54M            | 251              |       18091.6  |           0.9996 | 2026-05-12 03:59 UTC |
+| MANTRAUSDT    | 1.35M        | LOW        | 308.55K          | 23.68K           |          13.03 |           0.5899 | 2026-05-12 03:59 UTC |
+| SAPIENUSDT    | 3.88M        | LOW        | 1.03M            | 156.93K          |           6.57 |           0.545  | 2026-05-12 03:59 UTC |
+| NIGHTUSDT     | 3.46M        | LOW        | 158.82K          | 37.16K           |           4.27 |           0.7293 | 2026-05-12 03:59 UTC |
+| MORPHOUSDT    | 1.23M        | LOW        | 62.13K           | 19.50K           |           3.19 |           1.1178 | 2026-05-12 03:59 UTC |
+| BANANAS31USDT | 8.18M        | OK         | 233.56K          | 86.64K           |           2.7  |           2.7849 | 2026-05-12 03:59 UTC |
+| UUSDT         | 22.85M       | OK         | 364.51K          | 152.23K          |           2.39 |           1.0001 | 2026-05-12 03:59 UTC |
+| ONDOUSDT      | 39.26M       | OK         | 1.34M            | 593.82K          |           2.26 |           0.5103 | 2026-05-12 03:59 UTC |
