@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-12 20:53 UTC**
+Son tarama: **2026-05-12 22:24 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SAHARAUSDT | 20.07M       | OK         | 1.89M            | 747.92K          |           2.52 |           0.5117 | 2026-05-12 19:59 UTC |
-| MORPHOUSDT | 1.72M        | LOW        | 94.18K           | 39.79K           |           2.37 |           1.0934 | 2026-05-12 19:59 UTC |
-| UUSDT      | 14.13M       | OK         | 762.11K          | 324.10K          |           2.35 |           1.0001 | 2026-05-12 19:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BANANAS31USDT | 5.38M        | LOW        | 429.46K          | 66.45K           |           6.46 |           2.7279 | 2026-05-12 21:59 UTC |
+| KATUSDT       | 2.46M        | LOW        | 88.17K           | 43.74K           |           2.02 |           0.9346 | 2026-05-12 21:59 UTC |
