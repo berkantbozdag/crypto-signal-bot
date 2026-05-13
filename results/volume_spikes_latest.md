@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-13 05:02 UTC**
+Son tarama: **2026-05-13 08:11 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT | 14.73M       | OK         | 124.97K          | 177              |         706.05 |           0.9997 | 2026-05-13 04:59 UTC |
-| ATUSDT   | 770.69K      | LOW        | 68.18K           | 2.59K            |          26.35 |           0.753  | 2026-05-13 04:59 UTC |
-| 币安人生USDT | 12.20M       | OK         | 1.03M            | 197.03K          |           5.23 |           2.9146 | 2026-05-13 04:59 UTC |
-| SPKUSDT  | 37.96M       | OK         | 1.36M            | 354.65K          |           3.83 |           0.8124 | 2026-05-13 04:59 UTC |
-| CFGUSDT  | 4.12M        | LOW        | 222.25K          | 60.71K           |           3.66 |           2.1262 | 2026-05-13 04:59 UTC |
-| ROBOUSDT | 2.11M        | LOW        | 52.58K           | 25.17K           |           2.09 |           0.5638 | 2026-05-13 04:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| HOMEUSDT   | 1.51M        | LOW        | 271.99K          | 40.45K           |           6.72 |           0.6455 | 2026-05-13 07:59 UTC |
+| BFUSDUSDT  | 2.06M        | LOW        | 60.31K           | 9.98K            |           6.04 |           0.9995 | 2026-05-13 07:59 UTC |
+| XAUTUSDT   | 10.29M       | OK         | 326.46K          | 59.95K           |           5.45 |           1.0458 | 2026-05-13 07:59 UTC |
+| XUSDUSDT   | 7.96M        | OK         | 345.69K          | 124.97K          |           2.77 |           0.9997 | 2026-05-13 07:59 UTC |
+| SAPIENUSDT | 6.85M        | LOW        | 133.25K          | 59.03K           |           2.26 |           0.5388 | 2026-05-13 07:59 UTC |
