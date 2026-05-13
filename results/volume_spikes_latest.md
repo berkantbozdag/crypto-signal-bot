@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-13 17:28 UTC**
+Son tarama: **2026-05-13 20:12 UTC**
 
 
 Volume spike kriteri:
@@ -12,5 +12,5 @@ Volume spike kriteri:
 
 | symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XAUTUSDT | 8.90M        | OK         | 2.43M            | 239.21K          |          10.16 |            1.046 | 2026-05-13 16:59 UTC |
-| SPKUSDT  | 54.88M       | OK         | 8.35M            | 4.16M            |           2    |            0.789 | 2026-05-13 16:59 UTC |
+| XUSDUSDT | 7.14M        | OK         | 107.33K          | 7.67K            |          14    |           0.9999 | 2026-05-13 19:59 UTC |
+| FOGOUSDT | 724.15K      | LOW        | 65.09K           | 27.44K           |           2.37 |           0.5683 | 2026-05-13 19:59 UTC |
