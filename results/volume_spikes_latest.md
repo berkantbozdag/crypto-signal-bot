@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-14 00:16 UTC**
+Son tarama: **2026-05-14 05:00 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,17 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| NIGHTUSDT  | 1.69M        | LOW        | 144.50K          | 12.43K           |          11.62 |           0.6601 | 2026-05-13 23:59 UTC |
-| ATUSDT     | 691.92K      | LOW        | 55.12K           | 14.52K           |           3.8  |           0.7754 | 2026-05-13 23:59 UTC |
-| CFGUSDT    | 4.44M        | LOW        | 208.92K          | 57.51K           |           3.63 |           1.9069 | 2026-05-13 23:59 UTC |
-| SAPIENUSDT | 2.20M        | LOW        | 102.38K          | 40.84K           |           2.51 |           0.545  | 2026-05-13 23:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| FOGOUSDT      | 673.56K      | LOW        | 78.04K           | 3.66K            |          21.32 |           0.5626 | 2026-05-14 04:59 UTC |
+| MORPHOUSDT    | 1.49M        | LOW        | 357.19K          | 17.50K           |          20.41 |           1.0414 | 2026-05-14 03:59 UTC |
+| BFUSDUSDT     | 1.31M        | LOW        | 110.97K          | 6.07K            |          18.27 |           0.9994 | 2026-05-14 03:59 UTC |
+| SKYUSDT       | 1.64M        | LOW        | 447.80K          | 28.72K           |          15.59 |           0.9599 | 2026-05-14 03:59 UTC |
+| SPKUSDT       | 111.08M      | OK         | 7.01M            | 1.20M            |           5.84 |           0.7791 | 2026-05-14 03:59 UTC |
+| KITEUSDT      | 16.00M       | OK         | 954.35K          | 175.02K          |           5.45 |           2.5426 | 2026-05-14 03:59 UTC |
+| XAUTUSDT      | 9.03M        | OK         | 614.08K          | 165.72K          |           3.71 |           1.0462 | 2026-05-14 04:59 UTC |
+| BANANAS31USDT | 2.67M        | LOW        | 166.09K          | 49.22K           |           3.37 |           2.6424 | 2026-05-14 03:59 UTC |
+| ROBOUSDT      | 1.85M        | LOW        | 62.40K           | 18.71K           |           3.34 |           0.5012 | 2026-05-14 04:59 UTC |
+| BANKUSDT      | 880.26K      | LOW        | 76.65K           | 23.51K           |           3.26 |           0.5442 | 2026-05-14 03:59 UTC |
+| UUSDT         | 13.62M       | OK         | 510.69K          | 175.77K          |           2.91 |           1.0002 | 2026-05-14 04:59 UTC |
+| KATUSDT       | 2.63M        | LOW        | 65.43K           | 27.70K           |           2.36 |           0.8626 | 2026-05-14 04:59 UTC |
