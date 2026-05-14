@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-14 18:08 UTC**
+Son tarama: **2026-05-14 20:06 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol         | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| 1000CHEEMSUSDT | 847.37K      | LOW        | 99.62K           | 38.81K           |           2.57 |           0.6569 | 2026-05-14 17:59 UTC |
-| BANANAS31USDT  | 2.80M        | LOW        | 225.13K          | 91.32K           |           2.47 |           2.4875 | 2026-05-14 17:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XAUTUSDT | 8.73M        | OK         | 928.52K          | 290.16K          |            3.2 |           1.0364 | 2026-05-14 19:59 UTC |
