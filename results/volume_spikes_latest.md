@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-14 10:35 UTC**
+Son tarama: **2026-05-14 13:05 UTC**
 
 
 Volume spike kriteri:
@@ -12,6 +12,7 @@ Volume spike kriteri:
 
 | symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT  | 5.82M        | LOW        | 144.07K          | 34.40K           |           4.19 |           0.9996 | 2026-05-14 09:59 UTC |
-| SAPIENUSDT | 3.77M        | LOW        | 220.56K          | 76.28K           |           2.89 |           0.5722 | 2026-05-14 09:59 UTC |
-| KATUSDT    | 2.82M        | LOW        | 122.42K          | 58.78K           |           2.08 |           0.8692 | 2026-05-14 09:59 UTC |
+| HYPERUSDT  | 1.94M        | LOW        | 597.39K          | 46.79K           |          12.77 |           0.5264 | 2026-05-14 12:59 UTC |
+| MORPHOUSDT | 1.46M        | LOW        | 98.82K           | 17.56K           |           5.63 |           1.0318 | 2026-05-14 12:59 UTC |
+| 币安人生USDT   | 6.04M        | LOW        | 295.48K          | 72.11K           |           4.1  |           2.8694 | 2026-05-14 12:59 UTC |
+| ROBOUSDT   | 1.53M        | LOW        | 50.68K           | 16.61K           |           3.05 |           0.5089 | 2026-05-14 12:59 UTC |
