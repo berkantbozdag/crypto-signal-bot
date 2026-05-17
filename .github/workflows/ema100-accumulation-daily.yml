@@ -1,0 +1,55 @@
+name: EMA100 Accumulation Daily Scanner
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "10 9 * * *"
+      timezone: "Europe/Istanbul"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ema100-accumulation-daily
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run EMA100 accumulation scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python scanner_ema100_accumulation_daily.py
+
+      - name: Commit report files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase || true
+
+          if [ -n "$(git status --porcelain reports_ema100/)" ]; then
+            git add reports_ema100/
+            git commit -m "Update EMA100 accumulation scanner report"
+            git push
+          else
+            echo "No report changes to commit."
+          fi
