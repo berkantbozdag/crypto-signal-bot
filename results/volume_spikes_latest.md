@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-19 23:22 UTC**
+Son tarama: **2026-05-20 04:26 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT   | 1.18M        | LOW        | 108.76K          | 327              |         332.79 |           0.9994 | 2026-05-19 22:59 UTC |
-| CFGUSDT     | 5.68M        | LOW        | 300.03K          | 65.90K           |           4.55 |           1.9048 | 2026-05-19 22:59 UTC |
-| ATUSDT      | 11.23M       | OK         | 179.03K          | 39.46K           |           4.54 |           0.5929 | 2026-05-19 22:59 UTC |
-| VIRTUALUSDT | 3.72M        | LOW        | 100.35K          | 27.34K           |           3.67 |           1.3029 | 2026-05-19 22:59 UTC |
-| XAUTUSDT    | 20.88M       | OK         | 372.04K          | 125.73K          |           2.96 |           1.0002 | 2026-05-19 22:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT | 11.39M       | OK         | 4.69M            | 166              |       28264    |           1.0007 | 2026-05-20 03:59 UTC |
+| KITEUSDT | 9.50M        | OK         | 908.64K          | 149.54K          |           6.08 |           2.8306 | 2026-05-20 03:59 UTC |
+| SKYUSDT  | 778.94K      | LOW        | 179.29K          | 32.71K           |           5.48 |           0.9074 | 2026-05-20 03:59 UTC |
+| ROBOUSDT | 1.59M        | LOW        | 125.08K          | 34.10K           |           3.67 |           0.5237 | 2026-05-20 03:59 UTC |
+| 币安人生USDT | 44.43M       | OK         | 436.75K          | 157.63K          |           2.77 |           3.1607 | 2026-05-20 03:59 UTC |
+| UUSDT    | 19.01M       | OK         | 548.73K          | 212.30K          |           2.58 |           1.0007 | 2026-05-20 03:59 UTC |
+| KATUSDT  | 1.11M        | LOW        | 63.74K           | 31.74K           |           2.01 |           0.7962 | 2026-05-20 03:59 UTC |
