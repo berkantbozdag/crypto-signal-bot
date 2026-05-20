@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-20 18:33 UTC**
+Son tarama: **2026-05-20 21:10 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| OPNUSDT  | 742.25K      | LOW        | 137.18K          | 27.24K           |           5.04 |           0.6055 | 2026-05-20 17:59 UTC |
-| ZAMAUSDT | 2.63M        | LOW        | 187.15K          | 88.81K           |           2.11 |           0.9872 | 2026-05-20 17:59 UTC |
+| symbol         | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| 1000CHEEMSUSDT | 694.76K      | LOW        | 99.07K           | 38.81K           |           2.55 |           0.6569 | 2026-05-20 20:59 UTC |
+| 币安人生USDT       | 35.98M       | OK         | 344.74K          | 138.28K          |           2.49 |           3.1327 | 2026-05-20 20:59 UTC |
+| CFGUSDT        | 4.21M        | LOW        | 278.65K          | 115.92K          |           2.4  |           2.0853 | 2026-05-20 20:59 UTC |
