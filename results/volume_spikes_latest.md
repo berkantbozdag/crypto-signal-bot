@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-21 23:19 UTC**
+Son tarama: **2026-05-22 04:30 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| KITEUSDT   | 2.85M        | LOW        | 106.16K          | 49.54K           |           2.14 |           2.6993 | 2026-05-21 22:59 UTC |
-| XAUTUSDT   | 11.87M       | OK         | 147.83K          | 70.89K           |           2.09 |           1.0106 | 2026-05-21 22:59 UTC |
-| SAPIENUSDT | 2.51M        | LOW        | 66.45K           | 31.88K           |           2.08 |           0.5544 | 2026-05-21 22:59 UTC |
-| HYPERUSDT  | 2.43M        | LOW        | 211.44K          | 102.38K          |           2.07 |           0.5653 | 2026-05-21 22:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| UUSDT    | 16.68M       | OK         | 652.39K          | 146.94K          |           4.44 |           1.0009 | 2026-05-22 03:59 UTC |
+| 币安人生USDT | 7.81M        | OK         | 318.92K          | 97.89K           |           3.26 |           3.1413 | 2026-05-22 03:59 UTC |
+| ZAMAUSDT | 7.44M        | OK         | 185.85K          | 59.11K           |           3.14 |           1.1076 | 2026-05-22 03:59 UTC |
+| SPKUSDT  | 8.27M        | OK         | 131.91K          | 55.96K           |           2.36 |           0.6967 | 2026-05-22 03:59 UTC |
+| SKYUSDT  | 1.11M        | LOW        | 100.12K          | 43.42K           |           2.31 |           0.939  | 2026-05-22 03:59 UTC |
+| ROBOUSDT | 1.40M        | LOW        | 76.18K           | 34.95K           |           2.18 |           0.5568 | 2026-05-22 03:59 UTC |
