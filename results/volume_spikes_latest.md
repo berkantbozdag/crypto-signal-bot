@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-22 15:21 UTC**
+Son tarama: **2026-05-22 18:04 UTC**
 
 
 Volume spike kriteri:
@@ -10,17 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT   | 985.94K      | LOW        | 204.98K          | 3.61K            |          56.83 |           0.9994 | 2026-05-22 14:59 UTC |
-| KITEUSDT    | 3.94M        | LOW        | 774.49K          | 84.64K           |           9.15 |           2.3952 | 2026-05-22 14:59 UTC |
-| NIGHTUSDT   | 2.28M        | LOW        | 525.74K          | 60.72K           |           8.66 |           0.6758 | 2026-05-22 14:59 UTC |
-| ZAMAUSDT    | 6.00M        | LOW        | 507.84K          | 66.14K           |           7.68 |           1.0931 | 2026-05-22 14:59 UTC |
-| HYPERUSDT   | 2.75M        | LOW        | 337.40K          | 44.29K           |           7.62 |           0.5297 | 2026-05-22 14:59 UTC |
-| XAUTUSDT    | 8.70M        | OK         | 1.36M            | 236.76K          |           5.74 |           1.0044 | 2026-05-22 14:59 UTC |
-| MORPHOUSDT  | 2.00M        | LOW        | 148.06K          | 37.05K           |           4    |           1.0637 | 2026-05-22 14:59 UTC |
-| UUSDT       | 22.68M       | OK         | 1.85M            | 483.13K          |           3.84 |           1.0007 | 2026-05-22 14:59 UTC |
-| CFGUSDT     | 4.61M        | LOW        | 415.58K          | 115.83K          |           3.59 |           2.2306 | 2026-05-22 14:59 UTC |
-| KATUSDT     | 975.05K      | LOW        | 75.85K           | 22.44K           |           3.38 |           0.8047 | 2026-05-22 14:59 UTC |
-| VIRTUALUSDT | 8.77M        | OK         | 846.88K          | 262.20K          |           3.23 |           1.4349 | 2026-05-22 14:59 UTC |
-| ROBOUSDT    | 1.58M        | LOW        | 86.23K           | 32.72K           |           2.64 |           0.5536 | 2026-05-22 14:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| AWEUSDT  | 830.51K      | LOW        | 73.10K           | 28.91K           |           2.53 |             0.71 | 2026-05-22 17:59 UTC |
