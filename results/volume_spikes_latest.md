@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-23 09:15 UTC**
+Son tarama: **2026-05-23 11:26 UTC**
 
 
 Volume spike kriteri:
@@ -10,14 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT   | 1.55M        | LOW        | 54.05K           | 5.95K            |           9.08 |           0.9994 | 2026-05-23 08:59 UTC |
-| AWEUSDT     | 968.84K      | LOW        | 93.88K           | 17.28K           |           5.43 |           0.6732 | 2026-05-23 08:59 UTC |
-| 币安人生USDT    | 7.40M        | OK         | 1.12M            | 256.95K          |           4.36 |           3.0072 | 2026-05-23 08:59 UTC |
-| BANKUSDT    | 1.05M        | LOW        | 56.79K           | 17.64K           |           3.22 |           0.5234 | 2026-05-23 08:59 UTC |
-| KATUSDT     | 1.28M        | LOW        | 89.28K           | 28.84K           |           3.1  |           0.7668 | 2026-05-23 08:59 UTC |
-| VIRTUALUSDT | 12.85M       | OK         | 737.14K          | 242.81K          |           3.04 |           1.2899 | 2026-05-23 08:59 UTC |
-| SKYUSDT     | 1.22M        | LOW        | 51.99K           | 18.01K           |           2.89 |           0.9197 | 2026-05-23 08:59 UTC |
-| NIGHTUSDT   | 4.76M        | LOW        | 158.73K          | 56.14K           |           2.83 |           0.6611 | 2026-05-23 08:59 UTC |
-| XAUTUSDT    | 7.78M        | OK         | 118.60K          | 43.43K           |           2.73 |           1.0027 | 2026-05-23 08:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KITEUSDT | 11.50M       | OK         | 924.98K          | 295.08K          |           3.13 |           2.4147 | 2026-05-23 10:59 UTC |
