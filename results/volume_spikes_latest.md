@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-23 14:04 UTC**
+Son tarama: **2026-05-23 17:18 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT      | 6.26M        | LOW        | 125.69K          | 846              |         148.6  |           1.0003 | 2026-05-23 13:59 UTC |
-| BANANAS31USDT | 5.02M        | LOW        | 343.95K          | 80.94K           |           4.25 |           2.1533 | 2026-05-23 13:59 UTC |
-| OPNUSDT       | 1.08M        | LOW        | 56.96K           | 16.05K           |           3.55 |           0.5665 | 2026-05-23 13:59 UTC |
-| NIGHTUSDT     | 4.40M        | LOW        | 120.02K          | 46.64K           |           2.57 |           0.6747 | 2026-05-23 13:59 UTC |
-| SAPIENUSDT    | 1.03M        | LOW        | 56.65K           | 22.24K           |           2.55 |           0.5325 | 2026-05-23 13:59 UTC |
-| UUSDT         | 20.44M       | OK         | 514.58K          | 213.83K          |           2.41 |           1.001  | 2026-05-23 13:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| HOMEUSDT   | 1.94M        | LOW        | 241.36K          | 21.80K           |          11.07 |           0.8397 | 2026-05-23 16:59 UTC |
+| MORPHOUSDT | 2.29M        | LOW        | 126.76K          | 43.45K           |           2.92 |           1.0801 | 2026-05-23 16:59 UTC |
+| SAPIENUSDT | 983.68K      | LOW        | 126.60K          | 56.65K           |           2.23 |           0.5236 | 2026-05-23 16:59 UTC |
