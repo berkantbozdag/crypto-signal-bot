@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-29 12:31 UTC**
+Son tarama: **2026-05-29 16:57 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| UUSDT    | 21.35M       | OK         | 733.42K          | 353.37K          |           2.08 |           1.0011 | 2026-05-29 11:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| 币安人生USDT      | 6.87M        | LOW        | 1.20M            | 148.33K          |           8.09 |           3.1793 | 2026-05-29 15:59 UTC |
+| XAUTUSDT      | 20.16M       | OK         | 3.77M            | 653.05K          |           5.77 |           1.0122 | 2026-05-29 15:59 UTC |
+| UUSDT         | 26.10M       | OK         | 2.65M            | 733.42K          |           3.61 |           1.0011 | 2026-05-29 15:59 UTC |
+| SKYUSDT       | 1.13M        | LOW        | 188.48K          | 58.31K           |           3.23 |           0.8644 | 2026-05-29 15:59 UTC |
+| BANANAS31USDT | 881.62K      | LOW        | 67.38K           | 21.01K           |           3.21 |           1.9475 | 2026-05-29 15:59 UTC |
+| VIRTUALUSDT   | 7.53M        | OK         | 796.20K          | 290.23K          |           2.74 |           1.3837 | 2026-05-29 15:59 UTC |
+| KITEUSDT      | 1.49M        | LOW        | 129.36K          | 49.06K           |           2.64 |           2.2972 | 2026-05-29 15:59 UTC |
+| SPKUSDT       | 1.69M        | LOW        | 117.56K          | 46.41K           |           2.53 |           0.5676 | 2026-05-29 15:59 UTC |
+| NIGHTUSDT     | 1.89M        | LOW        | 79.79K           | 32.52K           |           2.45 |           0.7189 | 2026-05-29 15:59 UTC |
