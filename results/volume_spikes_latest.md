@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-29 04:43 UTC**
+Son tarama: **2026-05-29 08:53 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 1.96M        | LOW        | 66.86K           | 358              |         186.78 |           0.9996 | 2026-05-29 03:59 UTC |
-| FFUSDT    | 5.03M        | LOW        | 159.22K          | 27.24K           |           5.85 |           0.5161 | 2026-05-29 03:59 UTC |
-| KITEUSDT  | 1.80M        | LOW        | 68.31K           | 14.53K           |           4.7  |           2.288  | 2026-05-29 03:59 UTC |
-| CFGUSDT   | 3.16M        | LOW        | 145.07K          | 31.77K           |           4.57 |           1.8822 | 2026-05-29 03:59 UTC |
-| UUSDT     | 25.01M       | OK         | 1.30M            | 474.53K          |           2.75 |           1.0011 | 2026-05-29 03:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT      | 5.53M        | LOW        | 983.04K          | 5.35K            |         183.64 |           1.001  | 2026-05-29 07:59 UTC |
+| MORPHOUSDT    | 1.38M        | LOW        | 100.12K          | 14.84K           |           6.75 |           1.0992 | 2026-05-29 07:59 UTC |
+| ALLOUSDT      | 104.91M      | OK         | 19.25M           | 4.29M            |           4.49 |           1.0629 | 2026-05-29 07:59 UTC |
+| 币安人生USDT      | 5.45M        | LOW        | 243.97K          | 84.72K           |           2.88 |           3.1098 | 2026-05-29 07:59 UTC |
+| BANANAS31USDT | 1.11M        | LOW        | 61.54K           | 21.80K           |           2.82 |           1.9273 | 2026-05-29 07:59 UTC |
+| ATUSDT        | 863.08K      | LOW        | 85.21K           | 39.04K           |           2.18 |           0.5805 | 2026-05-29 07:59 UTC |
+| VIRTUALUSDT   | 6.83M        | LOW        | 372.28K          | 172.08K          |           2.16 |           1.3395 | 2026-05-29 07:59 UTC |
