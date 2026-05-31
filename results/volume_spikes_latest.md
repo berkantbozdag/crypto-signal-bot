@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-05-31 14:10 UTC**
+Son tarama: **2026-05-31 16:24 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| UUSDT    | 43.60M       | OK         | 8.50M            | 303.87K          |          27.98 |            1.001 | 2026-05-31 13:59 UTC |
-| 币安人生USDT | 36.66M       | OK         | 2.03M            | 582.53K          |           3.48 |            3.957 | 2026-05-31 13:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ALLOUSDT    | 37.84M       | OK         | 12.96M           | 1.25M            |          10.33 |           1.176  | 2026-05-31 15:59 UTC |
+| HUMAUSDT    | 1.04M        | LOW        | 127.97K          | 23.62K           |           5.42 |           0.5112 | 2026-05-31 15:59 UTC |
+| VIRTUALUSDT | 3.73M        | LOW        | 236.67K          | 60.56K           |           3.91 |           1.3088 | 2026-05-31 15:59 UTC |
+| ZAMAUSDT    | 5.48M        | LOW        | 262.66K          | 68.58K           |           3.83 |           1.2201 | 2026-05-31 15:59 UTC |
+| 币安人生USDT    | 43.97M       | OK         | 6.05M            | 2.03M            |           2.99 |           4.2389 | 2026-05-31 15:59 UTC |
+| KATUSDT     | 863.34K      | LOW        | 64.55K           | 26.73K           |           2.41 |           0.6777 | 2026-05-31 15:59 UTC |
+| KITEUSDT    | 5.76M        | LOW        | 286.62K          | 127.86K          |           2.24 |           2.3906 | 2026-05-31 15:59 UTC |
