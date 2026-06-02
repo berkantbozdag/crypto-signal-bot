@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-02 15:07 UTC**
+Son tarama: **2026-06-02 18:57 UTC**
 
 
 Volume spike kriteri:
@@ -10,20 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol         | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AWEUSDT        | 411.75K      | LOW        | 70.10K           | 6.39K            |          10.97 |           0.7876 | 2026-06-02 14:59 UTC |
-| SPKUSDT        | 1.97M        | LOW        | 518.85K          | 50.88K           |          10.2  |           0.5045 | 2026-06-02 14:59 UTC |
-| SENTUSDT       | 601.12K      | LOW        | 167.58K          | 17.83K           |           9.4  |           0.5215 | 2026-06-02 14:59 UTC |
-| HOMEUSDT       | 22.84M       | OK         | 2.54M            | 328.41K          |           7.74 |           1.8787 | 2026-06-02 14:59 UTC |
-| ESPUSDT        | 307.78K      | LOW        | 55.52K           | 8.81K            |           6.3  |           0.9701 | 2026-06-02 14:59 UTC |
-| UUSDT          | 97.38M       | OK         | 4.43M            | 754.24K          |           5.87 |           1.0012 | 2026-06-02 14:59 UTC |
-| KATUSDT        | 1.22M        | LOW        | 188.72K          | 33.53K           |           5.63 |           0.6379 | 2026-06-02 14:59 UTC |
-| VIRTUALUSDT    | 13.41M       | OK         | 1.60M            | 352.40K          |           4.53 |           1.3351 | 2026-06-02 14:59 UTC |
-| BANANAS31USDT  | 741.50K      | LOW        | 60.57K           | 13.89K           |           4.36 |           2.0442 | 2026-06-02 14:59 UTC |
-| XAUTUSDT       | 20.13M       | OK         | 3.28M            | 851.45K          |           3.86 |           0.9997 | 2026-06-02 14:59 UTC |
-| MORPHOUSDT     | 2.38M        | LOW        | 220.09K          | 75.30K           |           2.92 |           1.0324 | 2026-06-02 14:59 UTC |
-| 1000CHEEMSUSDT | 704.48K      | LOW        | 69.17K           | 27.06K           |           2.56 |           0.6026 | 2026-06-02 14:59 UTC |
-| SKYUSDT        | 1.72M        | LOW        | 203.68K          | 92.04K           |           2.21 |           0.8887 | 2026-06-02 14:59 UTC |
-| CFGUSDT        | 3.04M        | LOW        | 180.33K          | 82.86K           |           2.18 |           1.7567 | 2026-06-02 14:59 UTC |
-| 币安人生USDT       | 28.98M       | OK         | 1.65M            | 823.62K          |           2    |           4.523  | 2026-06-02 14:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ALLOUSDT | 16.49M       | OK         | 1.23M            | 424.95K          |            2.9 |           0.7354 | 2026-06-02 17:59 UTC |
