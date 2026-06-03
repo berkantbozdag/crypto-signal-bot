@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-03 17:12 UTC**
+Son tarama: **2026-06-03 21:32 UTC**
 
 
 Volume spike kriteri:
@@ -10,14 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol         | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AWEUSDT        | 1.10M        | LOW        | 92.62K           | 2.28K            |          40.66 |           0.7982 | 2026-06-03 16:59 UTC |
-| ZAMAUSDT       | 2.70M        | LOW        | 660.50K          | 52.65K           |          12.55 |           1.1101 | 2026-06-03 16:59 UTC |
-| BFUSDUSDT      | 4.45M        | LOW        | 181.91K          | 39.11K           |           4.65 |           0.9993 | 2026-06-03 16:59 UTC |
-| VIRTUALUSDT    | 13.67M       | OK         | 1.52M            | 326.86K          |           4.64 |           1.3291 | 2026-06-03 16:59 UTC |
-| KITEUSDT       | 2.96M        | LOW        | 118.95K          | 34.65K           |           3.43 |           2.2293 | 2026-06-03 16:59 UTC |
-| BANANAS31USDT  | 993.77K      | LOW        | 82.41K           | 26.11K           |           3.16 |           1.908  | 2026-06-03 16:59 UTC |
-| SKYUSDT        | 1.89M        | LOW        | 172.22K          | 56.41K           |           3.05 |           0.8927 | 2026-06-03 16:59 UTC |
-| ALLOUSDT       | 10.88M       | OK         | 734.20K          | 275.02K          |           2.67 |           0.7743 | 2026-06-03 16:59 UTC |
-| 1000CHEEMSUSDT | 730.71K      | LOW        | 54.24K           | 26.79K           |           2.02 |           0.5835 | 2026-06-03 16:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT | 5.05M        | LOW        | 109.76K          | 4.19K            |          26.2  |           1.0009 | 2026-06-03 20:59 UTC |
+| KATUSDT  | 972.01K      | LOW        | 106.54K          | 51.47K           |           2.07 |           0.6341 | 2026-06-03 20:59 UTC |
