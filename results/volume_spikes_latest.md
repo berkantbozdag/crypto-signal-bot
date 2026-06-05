@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-05 16:13 UTC**
+Son tarama: **2026-06-05 19:09 UTC**
 
 
 Volume spike kriteri:
@@ -10,15 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT   | 4.84M        | LOW        | 1.02M            | 19.79K           |          51.36 |           0.9994 | 2026-06-05 15:59 UTC |
-| MORPHOUSDT  | 2.36M        | LOW        | 276.02K          | 7.82K            |          35.29 |           0.8775 | 2026-06-05 15:59 UTC |
-| ZAMAUSDT    | 3.21M        | LOW        | 402.76K          | 77.42K           |           5.2  |           1.0149 | 2026-06-05 15:59 UTC |
-| XAUTUSDT    | 24.91M       | OK         | 2.94M            | 609.28K          |           4.82 |           0.9612 | 2026-06-05 15:59 UTC |
-| ALLOUSDT    | 9.94M        | OK         | 507.96K          | 131.13K          |           3.87 |           0.7905 | 2026-06-05 15:59 UTC |
-| 币安人生USDT    | 28.71M       | OK         | 2.03M            | 779.83K          |           2.61 |           4.9197 | 2026-06-05 15:59 UTC |
-| SKYUSDT     | 2.34M        | LOW        | 133.15K          | 55.63K           |           2.39 |           0.7661 | 2026-06-05 15:59 UTC |
-| CFGUSDT     | 2.28M        | LOW        | 147.25K          | 61.95K           |           2.38 |           1.4097 | 2026-06-05 15:59 UTC |
-| UUSDT       | 38.04M       | OK         | 2.15M            | 908.20K          |           2.37 |           1.0005 | 2026-06-05 15:59 UTC |
-| VIRTUALUSDT | 10.83M       | OK         | 579.83K          | 258.98K          |           2.24 |           1.0183 | 2026-06-05 15:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ATUSDT   | 1.33M        | LOW        | 97.82K           | 20.43K           |           4.79 |           0.5872 | 2026-06-05 18:59 UTC |
+| OPNUSDT  | 69.19M       | OK         | 4.03M            | 923.35K          |           4.36 |           0.8726 | 2026-06-05 18:59 UTC |
+| CFGUSDT  | 2.78M        | LOW        | 374.62K          | 147.25K          |           2.54 |           1.3597 | 2026-06-05 18:59 UTC |
