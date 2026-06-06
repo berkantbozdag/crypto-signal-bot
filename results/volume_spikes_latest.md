@@ -1,6 +1,8 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-06 16:21 UTC**
+Son tarama: **2026-06-06 18:22 UTC**
+
+Sonuç yok.
 
 
 Volume spike kriteri:
@@ -9,10 +11,3 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
-
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 8.49M        | OK         | 195.84K          | 42.64K           |           4.59 |           0.9998 | 2026-06-06 15:59 UTC |
-| KITEUSDT  | 2.47M        | LOW        | 226.32K          | 56.45K           |           4.01 |           2.0714 | 2026-06-06 15:59 UTC |
-| HOMEUSDT  | 78.45M       | OK         | 2.16M            | 979.61K          |           2.21 |           1.9027 | 2026-06-06 15:59 UTC |
-| ZAMAUSDT  | 2.56M        | LOW        | 70.70K           | 33.82K           |           2.09 |           0.9913 | 2026-06-06 15:59 UTC |
