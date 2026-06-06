@@ -1,0 +1,56 @@
+name: Binance Volume Spike Scanner
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Her saat 7. dakikada çalışır. Saat UTC'dir.
+    - cron: "7 * * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      MIN_24H_QUOTE_VOLUME: "10000000"
+      INTERVAL: "1h"
+      AVG_VOLUME_BARS: "20"
+      VOLUME_SPIKE_MULTIPLIER: "2.0"
+      COOLDOWN_HOURS: "12"
+      MAX_ALERTS: "25"
+
+      STATE_FILE: ".scanner_state/alert_state.json"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Restore scanner state
+        uses: actions/cache@v4
+        with:
+          path: .scanner_state
+          key: volume-scanner-state-${{ github.run_id }}
+          restore-keys: |
+            volume-scanner-state-
+
+      - name: Prepare state folder
+        run: mkdir -p .scanner_state
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run volume scanner
+        run: python "volume scanner.py"
