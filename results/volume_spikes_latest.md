@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-09 04:24 UTC**
+Son tarama: **2026-06-09 08:44 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT  | 5.71M        | LOW        | 310.02K          | 5.07K            |          61.12 |           1      | 2026-06-09 03:59 UTC |
-| BFUSDUSDT | 818.31K      | LOW        | 57.85K           | 16.64K           |           3.48 |           0.9994 | 2026-06-09 03:59 UTC |
-| ESPUSDT   | 769.51K      | LOW        | 93.91K           | 27.98K           |           3.36 |           1.0584 | 2026-06-09 03:59 UTC |
-| BANKUSDT  | 3.05M        | LOW        | 97.22K           | 30.67K           |           3.17 |           0.5532 | 2026-06-09 03:59 UTC |
-| XAUTUSDT  | 14.36M       | OK         | 515.36K          | 169.72K          |           3.04 |           0.9607 | 2026-06-09 03:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT  | 2.97M        | LOW        | 1.51M            | 57.85K           |          26.12 |           0.9993 | 2026-06-09 07:59 UTC |
+| ZAMAUSDT   | 4.83M        | LOW        | 395.58K          | 40.91K           |           9.67 |           0.9872 | 2026-06-09 07:59 UTC |
+| 币安人生USDT   | 31.08M       | OK         | 2.69M            | 332.44K          |           8.1  |           4.901  | 2026-06-09 07:59 UTC |
+| MORPHOUSDT | 2.88M        | LOW        | 89.18K           | 19.05K           |           4.68 |           0.9554 | 2026-06-09 07:59 UTC |
+| BANKUSDT   | 2.84M        | LOW        | 320.37K          | 97.22K           |           3.3  |           0.5481 | 2026-06-09 07:59 UTC |
