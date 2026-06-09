@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-08 23:26 UTC**
+Son tarama: **2026-06-09 04:24 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SENTUSDT   | 2.10M        | LOW        | 310.98K          | 36.46K           |           8.53 |           0.5057 | 2026-06-08 22:59 UTC |
-| MORPHOUSDT | 2.74M        | LOW        | 93.75K           | 30.86K           |           3.04 |           0.9533 | 2026-06-08 22:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT  | 5.71M        | LOW        | 310.02K          | 5.07K            |          61.12 |           1      | 2026-06-09 03:59 UTC |
+| BFUSDUSDT | 818.31K      | LOW        | 57.85K           | 16.64K           |           3.48 |           0.9994 | 2026-06-09 03:59 UTC |
+| ESPUSDT   | 769.51K      | LOW        | 93.91K           | 27.98K           |           3.36 |           1.0584 | 2026-06-09 03:59 UTC |
+| BANKUSDT  | 3.05M        | LOW        | 97.22K           | 30.67K           |           3.17 |           0.5532 | 2026-06-09 03:59 UTC |
+| XAUTUSDT  | 14.36M       | OK         | 515.36K          | 169.72K          |           3.04 |           0.9607 | 2026-06-09 03:59 UTC |
