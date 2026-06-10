@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-09 23:30 UTC**
+Son tarama: **2026-06-10 04:44 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 7.56M        | OK         | 108.03K          | 1.57K            |          68.82 |           0.999  | 2026-06-09 22:59 UTC |
-| NIGHTUSDT | 1.94M        | LOW        | 103.57K          | 45.77K           |           2.26 |           0.6345 | 2026-06-09 22:59 UTC |
-| ZAMAUSDT  | 3.82M        | LOW        | 80.79K           | 36.99K           |           2.18 |           1.0073 | 2026-06-09 22:59 UTC |
-| 币安人生USDT  | 16.62M       | OK         | 378.24K          | 183.29K          |           2.06 |           4.8996 | 2026-06-09 22:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ROBOUSDT   | 1.84M        | LOW        | 78.87K           | 10.88K           |           7.25 |           0.5158 | 2026-06-10 03:59 UTC |
+| CFGUSDT    | 1.07M        | LOW        | 75.59K           | 21.77K           |           3.47 |           1.3237 | 2026-06-10 03:59 UTC |
+| UUSDT      | 16.36M       | OK         | 246.34K          | 105.06K          |           2.34 |           1.0006 | 2026-06-10 03:59 UTC |
+| SENTUSDT   | 13.51M       | OK         | 483.00K          | 209.98K          |           2.3  |           0.5531 | 2026-06-10 03:59 UTC |
+| MORPHOUSDT | 5.25M        | LOW        | 86.33K           | 39.92K           |           2.16 |           1.0175 | 2026-06-10 03:59 UTC |
