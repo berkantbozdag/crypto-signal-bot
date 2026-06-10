@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-10 16:47 UTC**
+Son tarama: **2026-06-10 19:47 UTC**
 
 
 Volume spike kriteri:
@@ -12,6 +12,5 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ZAMAUSDT  | 3.15M        | LOW        | 484.66K          | 130.94K          |           3.7  |           1.0767 | 2026-06-10 15:59 UTC |
-| NIGHTUSDT | 1.70M        | LOW        | 162.06K          | 62.31K           |           2.6  |           0.6263 | 2026-06-10 15:59 UTC |
-| KITEUSDT  | 1.22M        | LOW        | 88.78K           | 34.28K           |           2.59 |           2.0069 | 2026-06-10 15:59 UTC |
+| BFUSDUSDT | 8.41M        | OK         | 204.42K          | 16.40K           |          12.46 |           0.9995 | 2026-06-10 18:59 UTC |
+| XUSDUSDT  | 2.88M        | LOW        | 61.29K           | 7.03K            |           8.72 |           1.0002 | 2026-06-10 18:59 UTC |
