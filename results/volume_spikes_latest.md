@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-10 09:04 UTC**
+Son tarama: **2026-06-10 12:39 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ESPUSDT     | 786.22K      | LOW        | 67.96K           | 18.88K           |           3.6  |           1.1122 | 2026-06-10 08:59 UTC |
-| VIRTUALUSDT | 3.15M        | LOW        | 123.90K          | 35.13K           |           3.53 |           1.0298 | 2026-06-10 08:59 UTC |
-| XAUTUSDT    | 19.41M       | OK         | 1.41M            | 556.34K          |           2.53 |           0.927  | 2026-06-10 08:59 UTC |
-| HOMEUSDT    | 21.68M       | OK         | 885.98K          | 387.60K          |           2.29 |           1.0984 | 2026-06-10 08:59 UTC |
-| KITEUSDT    | 1.52M        | LOW        | 69.24K           | 31.23K           |           2.22 |           2.0634 | 2026-06-10 08:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XAUTUSDT      | 102.25M      | OK         | 58.17M           | 1.41M            |          41.35 |           0.9261 | 2026-06-10 11:59 UTC |
+| BANANAS31USDT | 1.43M        | LOW        | 152.97K          | 33.78K           |           4.53 |           1.9375 | 2026-06-10 11:59 UTC |
+| BFUSDUSDT     | 8.38M        | OK         | 74.00K           | 20.71K           |           3.57 |           0.9999 | 2026-06-10 11:59 UTC |
+| UUSDT         | 14.52M       | OK         | 1.62M            | 483.04K          |           3.35 |           1.0005 | 2026-06-10 11:59 UTC |
+| VIRTUALUSDT   | 3.49M        | LOW        | 272.90K          | 123.90K          |           2.2  |           1.0499 | 2026-06-10 11:59 UTC |
