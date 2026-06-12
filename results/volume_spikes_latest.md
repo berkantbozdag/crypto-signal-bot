@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-11 23:53 UTC**
+Son tarama: **2026-06-12 05:03 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| 币安人生USDT  | 11.68M       | OK         | 278.68K          | 100.26K          |           2.78 |           4.8063 | 2026-06-11 22:59 UTC |
-| BFUSDUSDT | 1.72M        | LOW        | 57.56K           | 22.46K           |           2.56 |           0.9995 | 2026-06-11 22:59 UTC |
-| ALLOUSDT  | 16.68M       | OK         | 981.34K          | 418.66K          |           2.34 |           1.6551 | 2026-06-11 22:59 UTC |
-| CFGUSDT   | 2.35M        | LOW        | 109.68K          | 49.22K           |           2.23 |           1.5275 | 2026-06-11 22:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ZAMAUSDT    | 3.76M        | LOW        | 202.28K          | 47.23K           |           4.28 |           1.1285 | 2026-06-12 04:59 UTC |
+| ROBOUSDT    | 3.87M        | LOW        | 120.10K          | 43.46K           |           2.76 |           0.5509 | 2026-06-12 04:59 UTC |
+| UUSDT       | 30.76M       | OK         | 862.64K          | 351.52K          |           2.45 |           1.0009 | 2026-06-12 04:59 UTC |
+| VIRTUALUSDT | 3.62M        | LOW        | 139.89K          | 62.28K           |           2.25 |           1.1139 | 2026-06-12 04:59 UTC |
+| BANKUSDT    | 4.33M        | LOW        | 79.06K           | 38.85K           |           2.04 |           0.5481 | 2026-06-12 04:59 UTC |
