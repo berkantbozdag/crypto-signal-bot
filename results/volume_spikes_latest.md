@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-13 04:47 UTC**
+Son tarama: **2026-06-13 08:36 UTC**
 
 
 Volume spike kriteri:
@@ -12,8 +12,8 @@ Volume spike kriteri:
 
 | symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ATUSDT      | 4.37M        | LOW        | 233.59K          | 48.46K           |           4.82 |           0.7444 | 2026-06-13 03:59 UTC |
-| KATUSDT     | 4.35M        | LOW        | 146.38K          | 37.22K           |           3.93 |           0.5773 | 2026-06-13 03:59 UTC |
-| ZAMAUSDT    | 3.78M        | LOW        | 54.06K           | 15.40K           |           3.51 |           1.083  | 2026-06-13 03:59 UTC |
-| VIRTUALUSDT | 5.52M        | LOW        | 110.60K          | 52.83K           |           2.09 |           1.1485 | 2026-06-13 03:59 UTC |
-| KITEUSDT    | 1.54M        | LOW        | 77.25K           | 37.80K           |           2.04 |           2.235  | 2026-06-13 03:59 UTC |
+| ROBOUSDT    | 2.03M        | LOW        | 178.67K          | 19.32K           |           9.25 |           0.5428 | 2026-06-13 07:59 UTC |
+| XAUTUSDT    | 437.15M      | OK         | 3.35M            | 504.12K          |           6.64 |           0.9372 | 2026-06-13 07:59 UTC |
+| ATUSDT      | 6.90M        | LOW        | 815.75K          | 233.59K          |           3.49 |           0.6517 | 2026-06-13 07:59 UTC |
+| NIGHTUSDT   | 38.48M       | OK         | 2.53M            | 809.87K          |           3.12 |           0.7048 | 2026-06-13 07:59 UTC |
+| VIRTUALUSDT | 5.86M        | LOW        | 319.67K          | 110.60K          |           2.89 |           1.1958 | 2026-06-13 07:59 UTC |
