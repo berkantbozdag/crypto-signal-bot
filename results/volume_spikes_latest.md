@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-15 18:06 UTC**
+Son tarama: **2026-06-15 21:21 UTC**
 
 
 Volume spike kriteri:
@@ -10,12 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ESPUSDT    | 1.80M        | LOW        | 215.12K          | 24.67K           |           8.72 |           1.221  | 2026-06-15 17:59 UTC |
-| XUSDUSDT   | 3.26M        | LOW        | 167.78K          | 19.95K           |           8.41 |           1.0002 | 2026-06-15 17:59 UTC |
-| MORPHOUSDT | 1.70M        | LOW        | 119.02K          | 24.80K           |           4.8  |           1.0398 | 2026-06-15 17:59 UTC |
-| SENTUSDT   | 1.26M        | LOW        | 63.44K           | 13.77K           |           4.61 |           0.5605 | 2026-06-15 17:59 UTC |
-| KITEUSDT   | 1.91M        | LOW        | 114.25K          | 25.11K           |           4.55 |           2.2189 | 2026-06-15 17:59 UTC |
-| 币安人生USDT   | 10.15M       | OK         | 453.05K          | 159.61K          |           2.84 |           4.8171 | 2026-06-15 17:59 UTC |
-| NIGHTUSDT  | 26.94M       | OK         | 1.27M            | 599.01K          |           2.12 |           0.6847 | 2026-06-15 17:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| HOMEUSDT | 5.55M        | LOW        | 854.14K          | 85.88K           |           9.95 |           1.0685 | 2026-06-15 20:59 UTC |
+| ZAMAUSDT | 2.68M        | LOW        | 184.11K          | 65.93K           |           2.79 |           1.0764 | 2026-06-15 20:59 UTC |
