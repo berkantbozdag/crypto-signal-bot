@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-16 00:02 UTC**
+Son tarama: **2026-06-16 05:31 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SKYUSDT  | 2.10M        | LOW        | 89.11K           | 31.45K           |           2.83 |           0.7591 | 2026-06-15 23:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT    | 3.70M        | LOW        | 421.85K          | 107              |        3939.66 |           1.0003 | 2026-06-16 04:59 UTC |
+| KATUSDT     | 1.40M        | LOW        | 137.67K          | 13.25K           |          10.39 |           0.5441 | 2026-06-16 04:59 UTC |
+| SENTUSDT    | 1.29M        | LOW        | 68.18K           | 11.70K           |           5.83 |           0.5954 | 2026-06-16 04:59 UTC |
+| UUSDT       | 14.41M       | OK         | 1.05M            | 208.44K          |           5.03 |           1.0004 | 2026-06-16 04:59 UTC |
+| ZAMAUSDT    | 3.39M        | LOW        | 165.57K          | 34.52K           |           4.8  |           1.1292 | 2026-06-16 04:59 UTC |
+| ALLOUSDT    | 18.70M       | OK         | 749.46K          | 201.32K          |           3.72 |           1.6046 | 2026-06-16 04:59 UTC |
+| CFGUSDT     | 1.76M        | LOW        | 66.93K           | 22.61K           |           2.96 |           1.5529 | 2026-06-16 04:59 UTC |
+| MORPHOUSDT  | 1.76M        | LOW        | 94.44K           | 35.68K           |           2.65 |           1.026  | 2026-06-16 04:59 UTC |
+| VIRTUALUSDT | 6.68M        | LOW        | 346.21K          | 153.16K          |           2.26 |           1.1738 | 2026-06-16 04:59 UTC |
