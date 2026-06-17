@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-17 10:06 UTC**
+Son tarama: **2026-06-17 13:56 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT  | 5.97M        | LOW        | 1.55M            | 62.95K           |          24.66 |           1.0011 | 2026-06-17 09:59 UTC |
-| XAUTUSDT  | 256.53M      | OK         | 94.19M           | 5.35M            |          17.61 |           0.9601 | 2026-06-17 09:59 UTC |
-| ESPUSDT   | 1.65M        | LOW        | 287.22K          | 34.86K           |           8.24 |           1.2069 | 2026-06-17 09:59 UTC |
-| ZAMAUSDT  | 6.25M        | LOW        | 1.01M            | 306.17K          |           3.31 |           1.2344 | 2026-06-17 09:59 UTC |
-| CFGUSDT   | 3.36M        | LOW        | 208.08K          | 90.52K           |           2.3  |           1.7031 | 2026-06-17 09:59 UTC |
-| NIGHTUSDT | 30.00M       | OK         | 4.35M            | 1.95M            |           2.23 |           0.6361 | 2026-06-17 09:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| 币安人生USDT      | 4.91M        | LOW        | 1.05M            | 94.22K           |          11.17 |           4.8494 | 2026-06-17 12:59 UTC |
+| KATUSDT       | 1.21M        | LOW        | 183.07K          | 23.57K           |           7.77 |           0.5299 | 2026-06-17 12:59 UTC |
+| BANANAS31USDT | 2.90M        | LOW        | 211.92K          | 41.06K           |           5.16 |           2.0663 | 2026-06-17 12:59 UTC |
+| MORPHOUSDT    | 1.39M        | LOW        | 132.73K          | 41.10K           |           3.23 |           1.0419 | 2026-06-17 12:59 UTC |
+| ALLOUSDT      | 8.46M        | OK         | 422.66K          | 138.12K          |           3.06 |           1.5292 | 2026-06-17 12:59 UTC |
+| KITEUSDT      | 1.43M        | LOW        | 55.62K           | 18.65K           |           2.98 |           2.1394 | 2026-06-17 12:59 UTC |
+| UUSDT         | 13.75M       | OK         | 994.95K          | 352.62K          |           2.82 |           1.0003 | 2026-06-17 12:59 UTC |
+| SKYUSDT       | 1.26M        | LOW        | 103.21K          | 38.40K           |           2.69 |           0.7818 | 2026-06-17 12:59 UTC |
+| HOMEUSDT      | 3.02M        | LOW        | 74.63K           | 36.31K           |           2.06 |           0.9621 | 2026-06-17 12:59 UTC |
