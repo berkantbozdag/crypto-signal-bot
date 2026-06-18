@@ -1,6 +1,8 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-18 14:22 UTC**
+Son tarama: **2026-06-18 18:15 UTC**
+
+Sonuç yok.
 
 
 Volume spike kriteri:
@@ -9,15 +11,3 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
-
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XAUTUSDT   | 45.60M       | OK         | 4.74M            | 331.74K          |          14.29 |           0.9425 | 2026-06-18 13:59 UTC |
-| MORPHOUSDT | 2.13M        | LOW        | 194.66K          | 39.22K           |           4.96 |           1.0382 | 2026-06-18 13:59 UTC |
-| SKYUSDT    | 1.51M        | LOW        | 95.10K           | 19.45K           |           4.89 |           0.7657 | 2026-06-18 13:59 UTC |
-| UUSDT      | 29.36M       | OK         | 4.24M            | 1.09M            |           3.88 |           1.001  | 2026-06-18 13:59 UTC |
-| AWEUSDT    | 223.76K      | LOW        | 58.96K           | 15.65K           |           3.77 |           0.7853 | 2026-06-18 13:59 UTC |
-| NIGHTUSDT  | 26.49M       | OK         | 3.79M            | 1.09M            |           3.48 |           0.6139 | 2026-06-18 13:59 UTC |
-| SENTUSDT   | 2.13M        | LOW        | 75.94K           | 22.17K           |           3.42 |           0.5936 | 2026-06-18 13:59 UTC |
-| KITEUSDT   | 1.02M        | LOW        | 77.40K           | 35.21K           |           2.2  |           2.1452 | 2026-06-18 13:59 UTC |
-| CFGUSDT    | 2.66M        | LOW        | 171.99K          | 78.41K           |           2.19 |           1.6566 | 2026-06-18 13:59 UTC |
