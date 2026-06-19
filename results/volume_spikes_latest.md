@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-19 17:30 UTC**
+Son tarama: **2026-06-19 20:04 UTC**
 
 
 Volume spike kriteri:
@@ -12,5 +12,5 @@ Volume spike kriteri:
 
 | symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SENTUSDT | 2.57M        | LOW        | 268.37K          | 41.22K           |           6.51 |           0.5925 | 2026-06-19 16:59 UTC |
-| SKYUSDT  | 1.72M        | LOW        | 81.12K           | 34.92K           |           2.32 |           0.776  | 2026-06-19 16:59 UTC |
+| CFGUSDT  | 1.85M        | LOW        | 75.75K           | 28.97K           |           2.62 |           1.6446 | 2026-06-19 19:59 UTC |
+| HOMEUSDT | 5.51M        | LOW        | 319.64K          | 135.19K          |           2.36 |           0.9257 | 2026-06-19 19:59 UTC |
