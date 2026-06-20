@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-20 04:30 UTC**
+Son tarama: **2026-06-20 08:32 UTC**
 
 
 Volume spike kriteri:
@@ -12,7 +12,5 @@ Volume spike kriteri:
 
 | symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| KATUSDT  | 4.45M        | LOW        | 161.08K          | 53.44K           |           3.01 |           0.5592 | 2026-06-20 03:59 UTC |
-| XAUTUSDT | 9.89M        | OK         | 153.58K          | 65.31K           |           2.35 |           0.9243 | 2026-06-20 03:59 UTC |
-| ZAMAUSDT | 2.98M        | LOW        | 64.30K           | 29.04K           |           2.21 |           1.1986 | 2026-06-20 03:59 UTC |
-| KITEUSDT | 1.60M        | LOW        | 66.97K           | 32.13K           |           2.08 |           1.9136 | 2026-06-20 03:59 UTC |
+| HOMEUSDT | 4.77M        | LOW        | 379.57K          | 37.02K           |          10.25 |           0.8623 | 2026-06-20 07:59 UTC |
+| ATUSDT   | 444.97K      | LOW        | 77.37K           | 7.87K            |           9.83 |           0.6718 | 2026-06-20 07:59 UTC |
