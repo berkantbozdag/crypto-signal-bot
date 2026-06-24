@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-24 15:41 UTC**
+Son tarama: **2026-06-24 18:09 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| VIRTUALUSDT | 1.71M        | LOW        | 221.32K          | 66.58K           |           3.32 |           1.0153 | 2026-06-24 14:59 UTC |
-| ZAMAUSDT    | 2.16M        | LOW        | 176.98K          | 69.84K           |           2.53 |           1.1264 | 2026-06-24 14:59 UTC |
-| UUSDT       | 13.66M       | OK         | 1.82M            | 829.20K          |           2.19 |           1.0011 | 2026-06-24 14:59 UTC |
-| ALLOUSDT    | 7.46M        | OK         | 467.39K          | 224.93K          |           2.08 |           1.6729 | 2026-06-24 14:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT | 1.47M        | LOW        | 205.94K          | 7.54K            |          27.3  |           0.9994 | 2026-06-24 17:59 UTC |
+| KITEUSDT  | 1.47M        | LOW        | 206.82K          | 42.33K           |           4.89 |           1.7085 | 2026-06-24 17:59 UTC |
+| CFGUSDT   | 1.10M        | LOW        | 157.01K          | 43.69K           |           3.59 |           1.3625 | 2026-06-24 17:59 UTC |
+| ZAMAUSDT  | 2.80M        | LOW        | 397.88K          | 176.98K          |           2.25 |           1.0733 | 2026-06-24 17:59 UTC |
