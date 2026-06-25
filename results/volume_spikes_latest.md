@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-25 04:24 UTC**
+Son tarama: **2026-06-25 08:33 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT  | 4.47M        | LOW        | 669.92K          | 9.64K            |          69.47 |           1.0009 | 2026-06-25 03:59 UTC |
-| AWEUSDT   | 600.23K      | LOW        | 69.60K           | 5.13K            |          13.57 |           0.8658 | 2026-06-25 03:59 UTC |
-| NIGHTUSDT | 1.81M        | LOW        | 111.94K          | 30.96K           |           3.61 |           0.6363 | 2026-06-25 03:59 UTC |
+| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| 币安人生USDT     | 4.70M        | LOW        | 192.46K          | 36.64K           |           5.25 |           5.109  | 2026-06-25 07:59 UTC |
+| ALLOUSDT     | 5.87M        | LOW        | 733.04K          | 159.02K          |           4.61 |           1.665  | 2026-06-25 07:59 UTC |
+| AIGENSYNUSDT | 1.52M        | LOW        | 56.18K           | 14.70K           |           3.82 |           0.6276 | 2026-06-25 07:59 UTC |
+| UUSDT        | 21.46M       | OK         | 1.70M            | 646.07K          |           2.63 |           1.0012 | 2026-06-25 07:59 UTC |
