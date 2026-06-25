@@ -1,6 +1,8 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-25 14:56 UTC**
+Son tarama: **2026-06-25 17:27 UTC**
+
+Sonuç yok.
 
 
 Volume spike kriteri:
@@ -9,22 +11,3 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
-
-| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT     | 2.81M        | LOW        | 400.90K          | 197              |        2036.22 |           0.9994 | 2026-06-25 13:59 UTC |
-| AWEUSDT       | 1.30M        | LOW        | 455.34K          | 29.60K           |          15.38 |           0.931  | 2026-06-25 13:59 UTC |
-| SKYUSDT       | 1.51M        | LOW        | 340.03K          | 31.11K           |          10.93 |           0.6895 | 2026-06-25 13:59 UTC |
-| UUSDT         | 23.86M       | OK         | 3.76M            | 345.51K          |          10.88 |           1.0011 | 2026-06-25 13:59 UTC |
-| VIRTUALUSDT   | 3.72M        | LOW        | 615.71K          | 59.10K           |          10.42 |           0.9545 | 2026-06-25 13:59 UTC |
-| CFGUSDT       | 1.68M        | LOW        | 186.31K          | 24.23K           |           7.69 |           1.4097 | 2026-06-25 13:59 UTC |
-| HOMEUSDT      | 2.25M        | LOW        | 203.37K          | 33.33K           |           6.1  |           0.7428 | 2026-06-25 13:59 UTC |
-| XAUTUSDT      | 29.60M       | OK         | 3.14M            | 516.03K          |           6.08 |           0.894  | 2026-06-25 13:59 UTC |
-| 币安人生USDT      | 4.25M        | LOW        | 632.60K          | 109.29K          |           5.79 |           5.0244 | 2026-06-25 13:59 UTC |
-| MORPHOUSDT    | 2.80M        | LOW        | 289.58K          | 51.72K           |           5.6  |           0.921  | 2026-06-25 13:59 UTC |
-| ALLOUSDT      | 6.05M        | LOW        | 613.10K          | 131.27K          |           4.67 |           1.6166 | 2026-06-25 13:59 UTC |
-| KITEUSDT      | 2.53M        | LOW        | 448.13K          | 117.99K          |           3.8  |           1.5553 | 2026-06-25 13:59 UTC |
-| BANANAS31USDT | 1.52M        | LOW        | 183.03K          | 50.03K           |           3.66 |           1.503  | 2026-06-25 13:59 UTC |
-| NIGHTUSDT     | 2.19M        | LOW        | 218.56K          | 60.12K           |           3.64 |           0.6461 | 2026-06-25 13:59 UTC |
-| ZAMAUSDT      | 3.43M        | LOW        | 356.91K          | 166.37K          |           2.15 |           1.0806 | 2026-06-25 13:59 UTC |
-| AIGENSYNUSDT  | 1.66M        | LOW        | 197.50K          | 91.67K           |           2.15 |           0.5876 | 2026-06-25 13:59 UTC |
