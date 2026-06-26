@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-26 15:33 UTC**
+Son tarama: **2026-06-26 18:04 UTC**
 
 
 Volume spike kriteri:
@@ -10,14 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT   | 5.50M        | LOW        | 107.97K          | 1.82K            |          59.16 |           0.9994 | 2026-06-26 14:59 UTC |
-| 币安人生USDT    | 7.62M        | OK         | 1.66M            | 161.10K          |          10.33 |           5.3329 | 2026-06-26 14:59 UTC |
-| CFGUSDT     | 1.06M        | LOW        | 71.86K           | 9.78K            |           7.35 |           1.4845 | 2026-06-26 14:59 UTC |
-| XAUTUSDT    | 15.43M       | OK         | 1.32M            | 238.73K          |           5.52 |           0.9078 | 2026-06-26 14:59 UTC |
-| SKYUSDT     | 1.16M        | LOW        | 106.75K          | 28.12K           |           3.8  |           0.6621 | 2026-06-26 14:59 UTC |
-| ALLOUSDT    | 5.91M        | LOW        | 453.53K          | 144.83K          |           3.13 |           1.6977 | 2026-06-26 14:59 UTC |
-| HOMEUSDT    | 1.30M        | LOW        | 78.03K           | 29.36K           |           2.66 |           0.725  | 2026-06-26 14:59 UTC |
-| VIRTUALUSDT | 2.57M        | LOW        | 179.45K          | 76.38K           |           2.35 |           0.9763 | 2026-06-26 14:59 UTC |
-| NIGHTUSDT   | 1.47M        | LOW        | 60.34K           | 26.51K           |           2.28 |           0.6202 | 2026-06-26 14:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| AWEUSDT  | 1.39M        | LOW        | 101.10K          | 40.73K           |           2.48 |           0.9517 | 2026-06-26 17:59 UTC |
