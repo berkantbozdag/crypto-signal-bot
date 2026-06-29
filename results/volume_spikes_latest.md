@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-29 16:09 UTC**
+Son tarama: **2026-06-29 18:25 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,13 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AIGENSYNUSDT | 1.82M        | LOW        | 245.64K          | 81.03K           |           3.03 |           0.672  | 2026-06-29 15:59 UTC |
-| ALLOUSDT     | 3.93M        | LOW        | 188.79K          | 62.29K           |           3.03 |           1.164  | 2026-06-29 15:59 UTC |
-| UUSDT        | 16.68M       | OK         | 731.85K          | 292.31K          |           2.5  |           1.0012 | 2026-06-29 15:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SKYUSDT       | 1.37M        | LOW        | 251.51K          | 46.92K           |           5.36 |           0.7049 | 2026-06-29 17:59 UTC |
+| VIRTUALUSDT   | 1.85M        | LOW        | 235.06K          | 57.91K           |           4.06 |           1.0196 | 2026-06-29 17:59 UTC |
+| AIGENSYNUSDT  | 3.17M        | LOW        | 745.08K          | 245.64K          |           3.03 |           0.7379 | 2026-06-29 17:59 UTC |
+| HOMEUSDT      | 1.73M        | LOW        | 154.75K          | 66.15K           |           2.34 |           0.6696 | 2026-06-29 17:59 UTC |
+| UUSDT         | 18.81M       | OK         | 1.62M            | 731.85K          |           2.21 |           1.0011 | 2026-06-29 17:59 UTC |
+| BANANAS31USDT | 1.05M        | LOW        | 79.65K           | 37.15K           |           2.14 |           1.601  | 2026-06-29 17:59 UTC |
+| ALLOUSDT      | 4.27M        | LOW        | 392.75K          | 188.79K          |           2.08 |           1.1408 | 2026-06-29 17:59 UTC |
+| CFGUSDT       | 1.35M        | LOW        | 70.74K           | 34.42K           |           2.06 |           1.4633 | 2026-06-29 17:59 UTC |
