@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-30 05:19 UTC**
+Son tarama: **2026-06-30 12:25 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| UUSDT        | 17.91M       | OK         | 1.00M            | 116.59K          |           8.59 |           1.0011 | 2026-06-30 04:59 UTC |
-| CFGUSDT      | 887.06K      | LOW        | 58.99K           | 11.78K           |           5.01 |           1.3752 | 2026-06-30 04:59 UTC |
-| ALLOUSDT     | 5.19M        | LOW        | 240.29K          | 59.75K           |           4.02 |           1.1834 | 2026-06-30 04:59 UTC |
-| AIGENSYNUSDT | 21.43M       | OK         | 3.29M            | 931.69K          |           3.53 |           1.0514 | 2026-06-30 04:59 UTC |
-| XAUTUSDT     | 15.70M       | OK         | 615.55K          | 235.34K          |           2.62 |           0.8879 | 2026-06-30 04:59 UTC |
-| 币安人生USDT     | 9.40M        | OK         | 463.79K          | 183.44K          |           2.53 |           4.9512 | 2026-06-30 04:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| VIRTUALUSDT   | 1.54M        | LOW        | 176.98K          | 22.38K           |           7.91 |           0.9575 | 2026-06-30 11:59 UTC |
+| BANANAS31USDT | 809.05K      | LOW        | 112.57K          | 22.31K           |           5.05 |           1.5959 | 2026-06-30 11:59 UTC |
+| MORPHOUSDT    | 2.08M        | LOW        | 216.00K          | 45.35K           |           4.76 |           0.9899 | 2026-06-30 11:59 UTC |
+| HOMEUSDT      | 1.66M        | LOW        | 102.25K          | 32.10K           |           3.19 |           0.6182 | 2026-06-30 11:59 UTC |
