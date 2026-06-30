@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-30 15:42 UTC**
+Son tarama: **2026-06-30 18:13 UTC**
 
 
 Volume spike kriteri:
@@ -10,13 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ESPUSDT  | 3.68M        | LOW        | 983.38K          | 30.44K           |          32.31 |           1.3416 | 2026-06-30 14:59 UTC |
-| AWEUSDT  | 350.97K      | LOW        | 112.83K          | 5.85K            |          19.29 |           0.7335 | 2026-06-30 14:59 UTC |
-| XAUTUSDT | 17.51M       | OK         | 1.33M            | 165.82K          |           8.03 |           0.897  | 2026-06-30 14:59 UTC |
-| CFGUSDT  | 1.13M        | LOW        | 67.65K           | 17.58K           |           3.85 |           1.3787 | 2026-06-30 14:59 UTC |
-| ZAMAUSDT | 3.95M        | LOW        | 401.98K          | 155.94K          |           2.58 |           1.1854 | 2026-06-30 14:59 UTC |
-| UUSDT    | 18.89M       | OK         | 1.23M            | 525.40K          |           2.34 |           1.0012 | 2026-06-30 14:59 UTC |
-| ALLOUSDT | 3.98M        | LOW        | 206.09K          | 96.34K           |           2.14 |           1.1048 | 2026-06-30 14:59 UTC |
-| SKYUSDT  | 2.02M        | LOW        | 141.73K          | 66.25K           |           2.14 |           0.713  | 2026-06-30 14:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| NIGHTUSDT | 1.43M        | LOW        | 198.97K          | 42.83K           |           4.65 |           0.6351 | 2026-06-30 17:59 UTC |
+| KITEUSDT  | 3.56M        | LOW        | 187.27K          | 91.77K           |           2.04 |           1.2615 | 2026-06-30 17:59 UTC |
