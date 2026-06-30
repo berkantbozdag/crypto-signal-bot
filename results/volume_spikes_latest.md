@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-06-30 18:13 UTC**
+Son tarama: **2026-06-30 21:07 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| NIGHTUSDT | 1.43M        | LOW        | 198.97K          | 42.83K           |           4.65 |           0.6351 | 2026-06-30 17:59 UTC |
-| KITEUSDT  | 3.56M        | LOW        | 187.27K          | 91.77K           |           2.04 |           1.2615 | 2026-06-30 17:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ALLOUSDT | 2.95M        | LOW        | 145.09K          | 65.81K           |            2.2 |            1.077 | 2026-06-30 20:59 UTC |
