@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-01 19:10 UTC**
+Son tarama: **2026-07-01 20:56 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| MORPHOUSDT | 6.04M        | LOW        | 774.43K          | 329.70K          |           2.35 |           1.1422 | 2026-07-01 18:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ALLOUSDT | 3.87M        | LOW        | 266.17K          | 112.29K          |           2.37 |            0.981 | 2026-07-01 19:59 UTC |
