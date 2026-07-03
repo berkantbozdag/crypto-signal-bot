@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-03 13:07 UTC**
+Son tarama: **2026-07-03 15:25 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ZAMAUSDT      | 2.60M        | LOW        | 288.76K          | 80.94K           |           3.57 |           1.1628 | 2026-07-03 12:59 UTC |
-| 币安人生USDT      | 4.70M        | LOW        | 146.75K          | 61.12K           |           2.4  |           4.9118 | 2026-07-03 12:59 UTC |
-| BANANAS31USDT | 955.52K      | LOW        | 92.73K           | 40.56K           |           2.29 |           1.6261 | 2026-07-03 12:59 UTC |
-| UUSDT         | 18.19M       | OK         | 1.18M            | 517.68K          |           2.28 |           1.0009 | 2026-07-03 12:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| GENIUSUSDT | 659.47K      | LOW        | 101.96K          | 25.40K           |           4.01 |           0.5406 | 2026-07-03 14:59 UTC |
