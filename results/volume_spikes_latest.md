@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-07 22:24 UTC**
+Son tarama: **2026-07-08 00:14 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| OPGUSDT  | 22.19M       | OK         | 274.63K          | 136.40K          |           2.01 |           0.5513 | 2026-07-07 21:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT | 758.86K      | LOW        | 102.07K          | 1.01K            |         100.94 |            0.999 | 2026-07-07 23:59 UTC |
