@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-10 19:52 UTC**
+Son tarama: **2026-07-10 21:19 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| VIRTUALUSDT | 3.99M        | LOW        | 1.04M            | 53.84K           |          19.33 |           1.0952 | 2026-07-10 18:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KATUSDT  | 8.55M        | OK         | 273.77K          | 113.37K          |           2.41 |           0.5299 | 2026-07-10 20:59 UTC |
