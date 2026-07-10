@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-10 00:18 UTC**
+Son tarama: **2026-07-10 05:07 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SENTUSDT   | 153.47M      | OK         | 27.98M           | 3.82M            |           7.32 |           0.6355 | 2026-07-09 23:59 UTC |
-| MORPHOUSDT | 3.95M        | LOW        | 281.93K          | 76.41K           |           3.69 |           1.1931 | 2026-07-09 23:59 UTC |
-| UUSDT      | 9.84M        | OK         | 206.17K          | 58.13K           |           3.55 |           1.0006 | 2026-07-09 23:59 UTC |
-| SKYUSDT    | 1.67M        | LOW        | 69.12K           | 26.19K           |           2.64 |           0.7438 | 2026-07-09 23:59 UTC |
+| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| OPGUSDT      | 3.58M        | LOW        | 701.73K          | 30.94K           |          22.68 |           0.563  | 2026-07-10 04:59 UTC |
+| AIGENSYNUSDT | 1.82M        | LOW        | 355.19K          | 32.85K           |          10.81 |           0.759  | 2026-07-10 04:59 UTC |
+| ZAMAUSDT     | 1.55M        | LOW        | 65.14K           | 28.95K           |           2.25 |           1.1493 | 2026-07-10 04:59 UTC |
