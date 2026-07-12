@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-12 00:10 UTC**
+Son tarama: **2026-07-12 03:56 UTC**
 
 
 Volume spike kriteri:
@@ -10,14 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT     | 730.77K      | LOW        | 100.10K          | 20               |        5001.5  |           1.0004 | 2026-07-11 23:59 UTC |
-| NIGHTUSDT    | 521.82K      | LOW        | 141.07K          | 16.55K           |           8.52 |           0.618  | 2026-07-11 23:59 UTC |
-| VIRTUALUSDT  | 10.84M       | OK         | 427.31K          | 123.27K          |           3.47 |           1.0976 | 2026-07-11 23:59 UTC |
-| KATUSDT      | 4.19M        | LOW        | 106.94K          | 30.83K           |           3.47 |           0.51   | 2026-07-11 23:59 UTC |
-| AIGENSYNUSDT | 828.55K      | LOW        | 58.29K           | 20.45K           |           2.85 |           0.7251 | 2026-07-11 23:59 UTC |
-| ZAMAUSDT     | 1.92M        | LOW        | 114.73K          | 42.85K           |           2.68 |           1.1788 | 2026-07-11 23:59 UTC |
-| UUSDT        | 7.25M        | OK         | 324.32K          | 149.03K          |           2.18 |           1.0006 | 2026-07-11 23:59 UTC |
-| 币安人生USDT     | 2.03M        | LOW        | 111.04K          | 52.29K           |           2.12 |           4.9548 | 2026-07-11 23:59 UTC |
-| CFGUSDT      | 469.79K      | LOW        | 88.67K           | 43.77K           |           2.03 |           1.2913 | 2026-07-11 23:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XAUTUSDT | 2.92M        | LOW        | 264.49K          | 121.53K          |           2.18 |           0.9136 | 2026-07-12 02:59 UTC |
+| SKYUSDT  | 1.96M        | LOW        | 269.32K          | 124.61K          |           2.16 |           0.8162 | 2026-07-12 02:59 UTC |
