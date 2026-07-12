@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-12 22:08 UTC**
+Son tarama: **2026-07-12 23:05 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XAUTUSDT | 3.14M        | LOW        | 130.27K          | 44.85K           |           2.9  |           0.9115 | 2026-07-12 21:59 UTC |
-| 币安人生USDT | 4.52M        | LOW        | 115.18K          | 42.76K           |           2.69 |           5.0854 | 2026-07-12 21:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XAUTUSDT    | 4.31M        | LOW        | 1.74M            | 130.27K          |          13.35 |           0.9063 | 2026-07-12 22:59 UTC |
+| VIRTUALUSDT | 4.34M        | LOW        | 315.20K          | 52.28K           |           6.03 |           1.0642 | 2026-07-12 22:59 UTC |
+| BANKUSDT    | 1.63M        | LOW        | 238.81K          | 45.05K           |           5.3  |           0.5247 | 2026-07-12 22:59 UTC |
+| KITEUSDT    | 1.18M        | LOW        | 232.51K          | 49.30K           |           4.72 |           1.3836 | 2026-07-12 22:59 UTC |
+| MORPHOUSDT  | 2.58M        | LOW        | 179.89K          | 58.68K           |           3.07 |           1.043  | 2026-07-12 22:59 UTC |
+| SKYUSDT     | 2.10M        | LOW        | 62.18K           | 28.33K           |           2.19 |           0.7882 | 2026-07-12 22:59 UTC |
