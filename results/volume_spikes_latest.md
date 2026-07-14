@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-14 09:18 UTC**
+Son tarama: **2026-07-14 11:44 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT | 3.24M        | LOW        | 1.32M            | 3.19K            |         413.83 |           1.0012 | 2026-07-14 08:59 UTC |
-| 币安人生USDT | 8.84M        | OK         | 1.50M            | 125.99K          |          11.88 |           5.3716 | 2026-07-14 08:59 UTC |
-| BANKUSDT | 526.48K      | LOW        | 74.47K           | 9.48K            |           7.85 |           0.5532 | 2026-07-14 08:59 UTC |
-| XAUTUSDT | 14.62M       | OK         | 692.99K          | 232.10K          |           2.99 |           0.8962 | 2026-07-14 08:59 UTC |
+| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| NIGHTUSDT    | 817.76K      | LOW        | 318.86K          | 3.18K            |         100.34 |           0.5946 | 2026-07-14 10:59 UTC |
+| BFUSDUSDT    | 841.18K      | LOW        | 96.71K           | 6.71K            |          14.4  |           0.9993 | 2026-07-14 10:59 UTC |
+| ZAMAUSDT     | 2.69M        | LOW        | 533.79K          | 87.54K           |           6.1  |           1.1278 | 2026-07-14 10:59 UTC |
+| ATUSDT       | 371.48K      | LOW        | 52.04K           | 8.74K            |           5.96 |           0.7506 | 2026-07-14 10:59 UTC |
+| AIGENSYNUSDT | 1.53M        | LOW        | 71.21K           | 31.22K           |           2.28 |           0.6382 | 2026-07-14 10:59 UTC |
