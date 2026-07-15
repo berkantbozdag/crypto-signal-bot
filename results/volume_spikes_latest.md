@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-15 00:04 UTC**
+Son tarama: **2026-07-15 03:28 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT  | 824.25K      | LOW        | 99.94K           | 123              |         813.07 |           0.9993 | 2026-07-14 23:59 UTC |
-| XUSDUSDT   | 6.42M        | LOW        | 455.97K          | 1.74K            |         262.28 |           1.0011 | 2026-07-14 23:59 UTC |
-| BANKUSDT   | 464.31K      | LOW        | 56.93K           | 2.88K            |          19.77 |           0.5701 | 2026-07-14 23:59 UTC |
-| XAUTUSDT   | 19.03M       | OK         | 1.37M            | 249.58K          |           5.51 |           0.9021 | 2026-07-14 23:59 UTC |
-| MORPHOUSDT | 1.97M        | LOW        | 57.83K           | 16.78K           |           3.45 |           1.0939 | 2026-07-14 23:59 UTC |
-| NIGHTUSDT  | 1.16M        | LOW        | 121.00K          | 39.42K           |           3.07 |           0.5865 | 2026-07-14 23:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| CFGUSDT  | 658.00K      | LOW        | 128.67K          | 5.39K            |          23.88 |           1.2292 | 2026-07-15 02:59 UTC |
+| XUSDUSDT | 8.99M        | OK         | 2.37M            | 455.97K          |           5.19 |           1.0004 | 2026-07-15 02:59 UTC |
+| ZAMAUSDT | 2.56M        | LOW        | 81.82K           | 30.99K           |           2.64 |           1.2087 | 2026-07-15 02:59 UTC |
