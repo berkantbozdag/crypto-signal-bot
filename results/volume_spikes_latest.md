@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-17 12:24 UTC**
+Son tarama: **2026-07-17 14:54 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| CFGUSDT  | 2.59M        | LOW        | 92.49K           | 12.98K           |           7.12 |           1.2729 | 2026-07-17 11:59 UTC |
-| ALLOUSDT | 6.59M        | LOW        | 409.27K          | 98.12K           |           4.17 |           1.6451 | 2026-07-17 11:59 UTC |
-| SENTUSDT | 5.35M        | LOW        | 557.96K          | 162.97K          |           3.42 |           0.5153 | 2026-07-17 11:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XAUTUSDT      | 31.55M       | OK         | 4.63M            | 764.59K          |           6.06 |           0.8901 | 2026-07-17 13:59 UTC |
+| BANANAS31USDT | 570.86K      | LOW        | 60.78K           | 12.94K           |           4.7  |           1.354  | 2026-07-17 13:59 UTC |
+| 币安人生USDT      | 3.41M        | LOW        | 274.47K          | 62.45K           |           4.39 |           5.0373 | 2026-07-17 13:59 UTC |
+| UUSDT         | 21.71M       | OK         | 1.41M            | 426.38K          |           3.32 |           1.0006 | 2026-07-17 13:59 UTC |
+| KAITOUSDT     | 9.86M        | OK         | 1.05M            | 331.16K          |           3.17 |           0.6034 | 2026-07-17 13:59 UTC |
+| MORPHOUSDT    | 2.54M        | LOW        | 181.87K          | 80.03K           |           2.27 |           1.0727 | 2026-07-17 13:59 UTC |
