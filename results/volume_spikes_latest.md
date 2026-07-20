@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-20 11:14 UTC**
+Son tarama: **2026-07-20 14:33 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT | 2.98M        | LOW        | 605.45K          | 15.01K           |          40.34 |           1.0006 | 2026-07-20 10:59 UTC |
-| UUSDT    | 8.83M        | OK         | 1.75M            | 475.50K          |           3.67 |           1.0006 | 2026-07-20 10:59 UTC |
-| ZAMAUSDT | 2.53M        | LOW        | 306.79K          | 130.04K          |           2.36 |           1.3469 | 2026-07-20 10:59 UTC |
-| BANKUSDT | 135.10M      | OK         | 4.82M            | 2.16M            |           2.23 |           3.7442 | 2026-07-20 10:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| MORPHOUSDT  | 749.87K      | LOW        | 91.31K           | 8.96K            |          10.19 |           1.0493 | 2026-07-20 13:59 UTC |
+| 币安人生USDT    | 5.58M        | LOW        | 478.62K          | 83.14K           |           5.76 |           4.6284 | 2026-07-20 13:59 UTC |
+| ZAMAUSDT    | 6.12M        | LOW        | 1.42M            | 306.79K          |           4.64 |           1.4274 | 2026-07-20 13:59 UTC |
+| VIRTUALUSDT | 3.63M        | LOW        | 843.62K          | 236.83K          |           3.56 |           1.1879 | 2026-07-20 13:59 UTC |
+| XAUTUSDT    | 13.59M       | OK         | 428.88K          | 131.60K          |           3.26 |           0.8923 | 2026-07-20 13:59 UTC |
