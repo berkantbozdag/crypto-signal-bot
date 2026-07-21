@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-21 06:41 UTC**
+Son tarama: **2026-07-21 09:39 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| VIRTUALUSDT  | 6.37M        | LOW        | 202.48K          | 62.38K           |           3.25 |           1.2202 | 2026-07-21 05:59 UTC |
-| UUSDT        | 15.15M       | OK         | 475.32K          | 151.23K          |           3.14 |           1.0005 | 2026-07-21 05:59 UTC |
-| MORPHOUSDT   | 1.04M        | LOW        | 62.83K           | 24.01K           |           2.62 |           1.0684 | 2026-07-21 05:59 UTC |
-| AIGENSYNUSDT | 1.10M        | LOW        | 111.89K          | 49.49K           |           2.26 |           0.6956 | 2026-07-21 05:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT   | 4.77M        | LOW        | 1.51M            | 8.53K            |         177.29 |           1.0008 | 2026-07-21 08:59 UTC |
+| BFUSDUSDT  | 298.54K      | LOW        | 94.53K           | 3.62K            |          26.13 |           0.9992 | 2026-07-21 08:59 UTC |
+| KAITOUSDT  | 5.05M        | LOW        | 578.23K          | 36.65K           |          15.78 |           0.6376 | 2026-07-21 08:59 UTC |
+| BANKUSDT   | 102.88M      | OK         | 23.92M           | 2.93M            |           8.15 |           1.9013 | 2026-07-21 08:59 UTC |
+| 币安人生USDT   | 3.86M        | LOW        | 172.61K          | 80.54K           |           2.14 |           4.5387 | 2026-07-21 08:59 UTC |
+| MORPHOUSDT | 1.10M        | LOW        | 132.19K          | 62.83K           |           2.1  |           1.061  | 2026-07-21 08:59 UTC |
