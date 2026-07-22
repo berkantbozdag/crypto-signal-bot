@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-22 20:24 UTC**
+Son tarama: **2026-07-22 22:19 UTC**
 
 
 Volume spike kriteri:
@@ -12,4 +12,5 @@ Volume spike kriteri:
 
 | symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| KGSTUSDT | 4.98M        | LOW        | 1.25M            | 175.97K          |           7.08 |           1.0031 | 2026-07-22 19:59 UTC |
+| SKYUSDT  | 749.35K      | LOW        | 51.12K           | 15.41K           |           3.32 |           0.8501 | 2026-07-22 21:59 UTC |
+| ZAMAUSDT | 12.13M       | OK         | 899.24K          | 322.79K          |           2.79 |           1.5733 | 2026-07-22 21:59 UTC |
