@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-22 06:43 UTC**
+Son tarama: **2026-07-22 09:39 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT | 4.46M        | LOW        | 203.92K          | 10.67K           |          19.12 |           1.0007 | 2026-07-22 05:59 UTC |
-| UUSDT    | 20.63M       | OK         | 3.05M            | 364.28K          |           8.39 |           1.0004 | 2026-07-22 05:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KAITOUSDT | 3.81M        | LOW        | 726.17K          | 62.70K           |          11.58 |           0.6057 | 2026-07-22 08:59 UTC |
+| ALLOUSDT  | 5.06M        | LOW        | 551.31K          | 96.62K           |           5.71 |           2.0795 | 2026-07-22 08:59 UTC |
+| CFGUSDT   | 1.68M        | LOW        | 93.64K           | 31.96K           |           2.93 |           1.2807 | 2026-07-22 08:59 UTC |
+| KITEUSDT  | 26.78M       | OK         | 2.73M            | 1.02M            |           2.68 |           1.3548 | 2026-07-22 08:59 UTC |
+| 币安人生USDT  | 5.34M        | LOW        | 118.71K          | 46.99K           |           2.53 |           4.1872 | 2026-07-22 08:59 UTC |
+| SENTUSDT  | 1.31M        | LOW        | 56.14K           | 24.28K           |           2.31 |           0.52   | 2026-07-22 08:59 UTC |
+| ZAMAUSDT  | 5.70M        | LOW        | 349.97K          | 173.21K          |           2.02 |           1.4302 | 2026-07-22 08:59 UTC |
