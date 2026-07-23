@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-23 10:39 UTC**
+Son tarama: **2026-07-23 12:52 UTC**
 
 
 Volume spike kriteri:
@@ -10,12 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT  | 4.60M        | LOW        | 347.30K          | 718              |         483.96 |           1.0003 | 2026-07-23 09:59 UTC |
-| MUBUSDT   | 6.80M        | LOW        | 720.30K          | 25.00K           |          28.81 |           0.9917 | 2026-07-23 09:59 UTC |
-| KAITOUSDT | 3.54M        | LOW        | 368.21K          | 60.59K           |           6.08 |           0.6526 | 2026-07-23 09:59 UTC |
-| ALLOUSDT  | 3.65M        | LOW        | 303.82K          | 62.06K           |           4.9  |           2.0625 | 2026-07-23 09:59 UTC |
-| CFGUSDT   | 1.28M        | LOW        | 82.02K           | 21.40K           |           3.83 |           1.3223 | 2026-07-23 09:59 UTC |
-| BANKUSDT  | 68.13M       | OK         | 4.01M            | 1.29M            |           3.12 |           3.2091 | 2026-07-23 09:59 UTC |
-| CRCLBUSDT | 4.34M        | LOW        | 163.51K          | 75.14K           |           2.18 |           0.8357 | 2026-07-23 09:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| VIRTUALUSDT | 4.39M        | LOW        | 343.02K          | 72.11K           |           4.76 |           1.1385 | 2026-07-23 11:59 UTC |
+| SNDKBUSDT   | 17.20M       | OK         | 1.22M            | 315.79K          |           3.85 |           0.7837 | 2026-07-23 11:59 UTC |
+| UUSDT       | 16.25M       | OK         | 928.21K          | 245.03K          |           3.79 |           1.0002 | 2026-07-23 11:59 UTC |
+| TSLABUSDT   | 3.80M        | LOW        | 282.33K          | 80.29K           |           3.52 |           0.852  | 2026-07-23 11:59 UTC |
+| SKYUSDT     | 952.54K      | LOW        | 97.69K           | 39.28K           |           2.49 |           0.8067 | 2026-07-23 11:59 UTC |
