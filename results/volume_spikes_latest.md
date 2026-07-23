@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-23 04:30 UTC**
+Son tarama: **2026-07-23 07:47 UTC**
 
 
 Volume spike kriteri:
@@ -10,12 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT     | 3.19M        | LOW        | 147.66K          | 246              |         599.7  |           1.0005 | 2026-07-23 03:59 UTC |
-| BFUSDUSDT    | 405.89K      | LOW        | 123.44K          | 3.52K            |          35.04 |           0.9991 | 2026-07-23 03:59 UTC |
-| KITEUSDT     | 68.26M       | OK         | 7.45M            | 1.95M            |           3.83 |           1.4309 | 2026-07-23 03:59 UTC |
-| UUSDT        | 16.62M       | OK         | 1.14M            | 301.23K          |           3.78 |           1.0005 | 2026-07-23 03:59 UTC |
-| SNDKBUSDT    | 18.81M       | OK         | 390.99K          | 161.63K          |           2.42 |           0.8022 | 2026-07-23 03:59 UTC |
-| AIGENSYNUSDT | 714.54K      | LOW        | 73.68K           | 34.05K           |           2.16 |           0.6901 | 2026-07-23 03:59 UTC |
-| VIRTUALUSDT  | 3.92M        | LOW        | 132.11K          | 64.92K           |           2.03 |           1.1559 | 2026-07-23 03:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| 币安人生USDT  | 3.74M        | LOW        | 329.28K          | 67.36K           |           4.89 |           4.6162 | 2026-07-23 06:59 UTC |
+| KITEUSDT  | 141.62M      | OK         | 28.96M           | 7.45M            |           3.89 |           1.3076 | 2026-07-23 06:59 UTC |
+| TSLABUSDT | 2.91M        | LOW        | 108.90K          | 36.85K           |           2.96 |           0.8787 | 2026-07-23 06:59 UTC |
