@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-24 14:09 UTC**
+Son tarama: **2026-07-24 15:47 UTC**
 
 
 Volume spike kriteri:
@@ -10,13 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SPCXBUSDT   | 15.97M       | OK         | 4.26M            | 174.72K          |          24.36 |           0.6765 | 2026-07-24 13:59 UTC |
-| MUBUSDT     | 7.11M        | OK         | 714.36K          | 30.82K           |          23.18 |           0.9335 | 2026-07-24 13:59 UTC |
-| CRCLBUSDT   | 8.97M        | OK         | 2.48M            | 174.47K          |          14.24 |           0.7527 | 2026-07-24 13:59 UTC |
-| XAUTUSDT    | 15.87M       | OK         | 2.25M            | 208.87K          |          10.79 |           0.9056 | 2026-07-24 13:59 UTC |
-| SNDKBUSDT   | 10.95M       | OK         | 2.82M            | 367.69K          |           7.66 |           0.74   | 2026-07-24 13:59 UTC |
-| VIRTUALUSDT | 2.57M        | LOW        | 387.56K          | 64.35K           |           6.02 |           1.0908 | 2026-07-24 13:59 UTC |
-| MORPHOUSDT  | 1.37M        | LOW        | 67.58K           | 23.57K           |           2.87 |           1.0302 | 2026-07-24 13:59 UTC |
-| TSLABUSDT   | 6.32M        | LOW        | 750.43K          | 328.45K          |           2.28 |           0.7766 | 2026-07-24 13:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| UUSDT     | 25.23M       | OK         | 4.85M            | 1.26M            |           3.84 |           1.0007 | 2026-07-24 14:59 UTC |
+| ALLOUSDT  | 7.20M        | OK         | 1.04M            | 282.77K          |           3.67 |           2.0248 | 2026-07-24 14:59 UTC |
+| 币安人生USDT  | 5.69M        | LOW        | 335.82K          | 102.10K          |           3.29 |           4.7209 | 2026-07-24 14:59 UTC |
+| NVDABUSDT | 489.60K      | LOW        | 87.57K           | 42.25K           |           2.07 |           1.0156 | 2026-07-24 14:59 UTC |
