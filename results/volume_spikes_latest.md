@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-24 03:39 UTC**
+Son tarama: **2026-07-24 06:39 UTC**
 
 
 Volume spike kriteri:
@@ -10,17 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT     | 4.51M        | LOW        | 200.25K          | 2.53K            |          79.29 |           1.0005 | 2026-07-24 02:59 UTC |
-| SKYUSDT      | 1.54M        | LOW        | 318.42K          | 18.06K           |          17.63 |           0.755  | 2026-07-24 02:59 UTC |
-| CFGUSDT      | 1.17M        | LOW        | 83.32K           | 4.75K            |          17.55 |           1.2941 | 2026-07-24 02:59 UTC |
-| TSLABUSDT    | 6.38M        | LOW        | 102.14K          | 11.16K           |           9.15 |           0.7919 | 2026-07-24 02:59 UTC |
-| BANKUSDT     | 59.53M       | OK         | 5.49M            | 1.21M            |           4.55 |           3.3792 | 2026-07-24 02:59 UTC |
-| CRCLBUSDT    | 6.74M        | LOW        | 125.70K          | 33.88K           |           3.71 |           0.7821 | 2026-07-24 02:59 UTC |
-| 币安人生USDT     | 7.70M        | OK         | 248.04K          | 69.47K           |           3.57 |           4.7927 | 2026-07-24 02:59 UTC |
-| ZAMAUSDT     | 30.92M       | OK         | 2.19M            | 693.75K          |           3.15 |           1.7375 | 2026-07-24 02:59 UTC |
-| XAUTUSDT     | 12.14M       | OK         | 452.35K          | 170.00K          |           2.66 |           0.8983 | 2026-07-24 02:59 UTC |
-| KITEUSDT     | 173.32M      | OK         | 210.73K          | 82.46K           |           2.56 |           1.28   | 2026-07-24 02:59 UTC |
-| AIGENSYNUSDT | 634.60K      | LOW        | 57.49K           | 25.50K           |           2.25 |           0.7001 | 2026-07-24 02:59 UTC |
-| ALLOUSDT     | 4.30M        | LOW        | 240.88K          | 115.75K          |           2.08 |           2.234  | 2026-07-24 02:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XAUTUSDT  | 15.30M       | OK         | 2.01M            | 452.35K          |           4.45 |           0.8993 | 2026-07-24 05:59 UTC |
+| UUSDT     | 15.24M       | OK         | 917.62K          | 215.12K          |           4.27 |           1.0005 | 2026-07-24 05:59 UTC |
+| KAITOUSDT | 11.69M       | OK         | 157.13K          | 78.11K           |           2.01 |           0.6662 | 2026-07-24 05:59 UTC |
