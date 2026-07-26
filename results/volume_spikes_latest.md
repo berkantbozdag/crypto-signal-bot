@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-26 09:25 UTC**
+Son tarama: **2026-07-26 11:33 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XAUTUSDT | 10.69M       | OK         | 746.73K          | 28.42K           |          26.28 |           0.9034 | 2026-07-26 08:59 UTC |
-| 币安人生USDT | 2.71M        | LOW        | 201.33K          | 67.66K           |           2.98 |           4.6248 | 2026-07-26 08:59 UTC |
-| ALLOUSDT | 26.38M       | OK         | 676.18K          | 273.69K          |           2.47 |           1.4153 | 2026-07-26 08:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SNDKBUSDT | 2.19M        | LOW        | 157.57K          | 4.46K            |          35.33 |           0.7292 | 2026-07-26 10:59 UTC |
+| TSLABUSDT | 1.24M        | LOW        | 139.57K          | 8.00K            |          17.45 |           0.7777 | 2026-07-26 10:59 UTC |
+| MUBUSDT   | 1.84M        | LOW        | 104.89K          | 10.21K           |          10.28 |           0.9496 | 2026-07-26 10:59 UTC |
+| XAUTUSDT  | 14.92M       | OK         | 3.51M            | 746.73K          |           4.7  |           0.9034 | 2026-07-26 10:59 UTC |
+| KAITOUSDT | 6.96M        | LOW        | 903.82K          | 244.03K          |           3.7  |           0.757  | 2026-07-26 10:59 UTC |
+| ESPUSDT   | 1.46M        | LOW        | 82.78K           | 27.91K           |           2.97 |           1.2975 | 2026-07-26 10:59 UTC |
