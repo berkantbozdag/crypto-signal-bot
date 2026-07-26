@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-26 13:54 UTC**
+Son tarama: **2026-07-26 15:18 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| CRCLBUSDT | 1.35M        | LOW        | 55.76K           | 9.02K            |           6.18 |           0.7908 | 2026-07-26 12:59 UTC |
-| SPCXBUSDT | 2.91M        | LOW        | 123.51K          | 32.61K           |           3.79 |           0.6595 | 2026-07-26 12:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ESPUSDT  | 8.06M        | OK         | 5.61M            | 84.29K           |          66.54 |           1.5855 | 2026-07-26 14:59 UTC |
+| CFGUSDT  | 562.41K      | LOW        | 91.26K           | 15.01K           |           6.08 |           1.2489 | 2026-07-26 14:59 UTC |
+| BANKUSDT | 45.04M       | OK         | 1.45M            | 586.52K          |           2.47 |           4.8247 | 2026-07-26 14:59 UTC |
+| 币安人生USDT | 2.89M        | LOW        | 213.60K          | 95.97K           |           2.23 |           4.7805 | 2026-07-26 14:59 UTC |
