@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-27 20:46 UTC**
+Son tarama: **2026-07-27 22:19 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT | 10.25M       | OK         | 401.06K          | 611              |         656.74 |           1.0006 | 2026-07-27 19:59 UTC |
-| KGSTUSDT | 105.89K      | LOW        | 73.72K           | 1.12K            |          66.03 |           1.0031 | 2026-07-27 19:59 UTC |
-| UUSDT    | 18.50M       | OK         | 952.92K          | 274.65K          |           3.47 |           1.0008 | 2026-07-27 19:59 UTC |
-| MUBUSDT  | 5.47M        | LOW        | 155.20K          | 67.82K           |           2.29 |           0.9031 | 2026-07-27 19:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KGSTUSDT  | 438.50K      | LOW        | 232.06K          | 73.72K           |           3.15 |           1.0031 | 2026-07-27 21:59 UTC |
+| KAITOUSDT | 10.23M       | OK         | 1.30M            | 458.92K          |           2.82 |           0.861  | 2026-07-27 21:59 UTC |
