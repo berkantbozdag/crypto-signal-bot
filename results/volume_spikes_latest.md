@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-30 06:43 UTC**
+Son tarama: **2026-07-30 09:43 UTC**
 
 
 Volume spike kriteri:
@@ -12,6 +12,8 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ALLOUSDT  | 2.60M        | LOW        | 375.87K          | 68.83K           |           5.46 |           1.287  | 2026-07-30 05:59 UTC |
-| SNDKBUSDT | 71.93M       | OK         | 3.02M            | 1.20M            |           2.53 |           0.5072 | 2026-07-30 05:59 UTC |
-| ESPUSDT   | 4.84M        | LOW        | 196.79K          | 84.39K           |           2.33 |           1.0323 | 2026-07-30 05:59 UTC |
+| ESPUSDT   | 11.29M       | OK         | 1.73M            | 196.79K          |           8.79 |           1.3528 | 2026-07-30 08:59 UTC |
+| KAITOUSDT | 18.31M       | OK         | 1.49M            | 255.13K          |           5.85 |           0.748  | 2026-07-30 08:59 UTC |
+| SPCXBUSDT | 22.82M       | OK         | 520.88K          | 133.03K          |           3.92 |           0.677  | 2026-07-30 08:59 UTC |
+| BANKUSDT  | 61.66M       | OK         | 6.17M            | 1.64M            |           3.76 |           1.2922 | 2026-07-30 08:59 UTC |
+| KITEUSDT  | 2.96M        | LOW        | 373.06K          | 142.43K          |           2.62 |           1.0657 | 2026-07-30 08:59 UTC |
