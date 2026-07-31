@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-31 00:18 UTC**
+Son tarama: **2026-07-31 04:36 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| CFGUSDT  | 694.00K      | LOW        | 52.22K           | 3.79K            |          13.79 |           1.2814 | 2026-07-30 23:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT  | 4.31M        | LOW        | 1.01M            | 125              |        8073.82 |           1.0016 | 2026-07-31 03:59 UTC |
+| TSLABUSDT | 1.71M        | LOW        | 189.98K          | 66.88K           |           2.84 |           0.772  | 2026-07-31 03:59 UTC |
+| UUSDT     | 19.67M       | OK         | 1.58M            | 681.10K          |           2.32 |           1.0007 | 2026-07-31 03:59 UTC |
+| BANKUSDT  | 80.37M       | OK         | 2.51M            | 1.20M            |           2.09 |           0.8351 | 2026-07-31 03:59 UTC |
+| NVDABUSDT | 1.02M        | LOW        | 64.84K           | 31.74K           |           2.04 |           0.9604 | 2026-07-31 03:59 UTC |
