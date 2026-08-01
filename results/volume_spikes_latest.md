@@ -1,6 +1,8 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-01 19:27 UTC**
+Son tarama: **2026-08-01 21:11 UTC**
+
+Sonuç yok.
 
 
 Volume spike kriteri:
@@ -9,16 +11,3 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
-
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| CRCLBUSDT   | 2.57M        | LOW        | 1.01M            | 25.55K           |          39.71 |           0.7545 | 2026-08-01 18:59 UTC |
-| SNDKBUSDT   | 5.67M        | LOW        | 774.95K          | 91.05K           |           8.51 |           0.5975 | 2026-08-01 18:59 UTC |
-| UUSDT       | 18.33M       | OK         | 2.55M            | 326.45K          |           7.8  |           1.0005 | 2026-08-01 18:59 UTC |
-| MORPHOUSDT  | 864.85K      | LOW        | 139.96K          | 21.32K           |           6.56 |           1.0276 | 2026-08-01 18:59 UTC |
-| ATUSDT      | 362.58K      | LOW        | 79.11K           | 13.17K           |           6.01 |           0.6871 | 2026-08-01 18:59 UTC |
-| VIRTUALUSDT | 1.40M        | LOW        | 185.48K          | 40.79K           |           4.55 |           1.0044 | 2026-08-01 18:59 UTC |
-| MUBUSDT     | 3.29M        | LOW        | 148.32K          | 38.65K           |           3.84 |           0.8192 | 2026-08-01 18:59 UTC |
-| CFGUSDT     | 478.40K      | LOW        | 59.78K           | 16.00K           |           3.74 |           1.2179 | 2026-08-01 18:59 UTC |
-| ALLOUSDT    | 2.08M        | LOW        | 116.41K          | 54.49K           |           2.14 |           1.1317 | 2026-08-01 18:59 UTC |
-| KAITOUSDT   | 10.02M       | OK         | 1.17M            | 554.13K          |           2.1  |           0.7933 | 2026-08-01 18:59 UTC |
