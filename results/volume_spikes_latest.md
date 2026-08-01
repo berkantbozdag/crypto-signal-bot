@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-07-31 23:16 UTC**
+Son tarama: **2026-08-01 03:47 UTC**
 
 
 Volume spike kriteri:
@@ -12,6 +12,6 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 1.30M        | LOW        | 101.68K          | 67               |        1518.55 |           0.9993 | 2026-07-31 22:59 UTC |
-| 币安人生USDT  | 1.99M        | LOW        | 65.65K           | 23.22K           |           2.83 |           4.5531 | 2026-07-31 22:59 UTC |
-| ZAMAUSDT  | 8.70M        | OK         | 510.68K          | 204.64K          |           2.5  |           1.8177 | 2026-07-31 22:59 UTC |
+| ALLOUSDT  | 2.42M        | LOW        | 184.62K          | 41.57K           |           4.44 |           1.159  | 2026-08-01 02:59 UTC |
+| BANKUSDT  | 29.17M       | OK         | 652.10K          | 240.75K          |           2.71 |           0.8013 | 2026-08-01 02:59 UTC |
+| KAITOUSDT | 7.89M        | OK         | 188.14K          | 69.52K           |           2.71 |           0.7178 | 2026-08-01 02:59 UTC |
