@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-02 15:17 UTC**
+Son tarama: **2026-08-02 17:17 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SENTUSDT  | 1.07M        | LOW        | 87.48K           | 17.68K           |           4.95 |           0.5039 | 2026-08-02 14:59 UTC |
-| XAUTUSDT  | 14.00M       | OK         | 577.07K          | 187.87K          |           3.07 |           0.9017 | 2026-08-02 14:59 UTC |
-| ESPUSDT   | 3.36M        | LOW        | 114.10K          | 38.64K           |           2.95 |           1.1135 | 2026-08-02 14:59 UTC |
-| ZAMAUSDT  | 7.80M        | OK         | 252.76K          | 92.29K           |           2.74 |           1.7684 | 2026-08-02 14:59 UTC |
-| KAITOUSDT | 12.21M       | OK         | 1.27M            | 518.72K          |           2.45 |           0.6956 | 2026-08-02 14:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SPCXBUSDT  | 4.56M        | LOW        | 274.70K          | 97.17K           |           2.83 |           0.646  | 2026-08-02 16:59 UTC |
+| MORPHOUSDT | 948.88K      | LOW        | 88.38K           | 38.27K           |           2.31 |           1.0249 | 2026-08-02 16:59 UTC |
+| XAUTUSDT   | 15.46M       | OK         | 1.32M            | 577.07K          |           2.28 |           0.9018 | 2026-08-02 16:59 UTC |
+| SENTUSDT   | 1.14M        | LOW        | 178.25K          | 87.48K           |           2.04 |           0.5105 | 2026-08-02 16:59 UTC |
