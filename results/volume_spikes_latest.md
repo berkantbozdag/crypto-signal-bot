@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-05 03:30 UTC**
+Son tarama: **2026-08-05 06:43 UTC**
 
 
 Volume spike kriteri:
@@ -10,15 +10,13 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT   | 7.29M        | OK         | 293.53K          | 288              |        1018.44 |           1.0004 | 2026-08-05 02:59 UTC |
-| BFUSDUSDT  | 3.24M        | LOW        | 202.81K          | 1.11K            |         183.52 |           0.9991 | 2026-08-05 02:59 UTC |
-| XAUTUSDT   | 23.97M       | OK         | 2.03M            | 247.58K          |           8.21 |           0.9166 | 2026-08-05 02:59 UTC |
-| AMDBUSDT   | 2.24M        | LOW        | 241.96K          | 33.03K           |           7.33 |           0.8974 | 2026-08-05 02:59 UTC |
-| TUTUSDT    | 7.50M        | OK         | 419.90K          | 59.40K           |           7.07 |           0.6071 | 2026-08-05 02:59 UTC |
-| MORPHOUSDT | 1.00M        | LOW        | 71.81K           | 14.49K           |           4.95 |           0.9788 | 2026-08-05 02:59 UTC |
-| EWYBUSDT   | 3.38M        | LOW        | 140.05K          | 39.20K           |           3.57 |           0.8366 | 2026-08-05 02:59 UTC |
-| INTCBUSDT  | 2.51M        | LOW        | 64.47K           | 19.72K           |           3.27 |           0.7476 | 2026-08-05 02:59 UTC |
-| BANKUSDT   | 49.14M       | OK         | 2.10M            | 690.57K          |           3.04 |           0.6688 | 2026-08-05 02:59 UTC |
-| MUBUSDT    | 18.28M       | OK         | 309.35K          | 114.80K          |           2.69 |           0.8954 | 2026-08-05 02:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| TSLABUSDT | 3.05M        | LOW        | 96.61K           | 7.28K            |          13.27 |           0.8086 | 2026-08-05 05:59 UTC |
+| AMDBUSDT  | 4.93M        | LOW        | 1.33M            | 241.96K          |           5.49 |           0.908  | 2026-08-05 05:59 UTC |
+| SKYUSDT   | 648.66K      | LOW        | 70.71K           | 15.22K           |           4.65 |           0.7473 | 2026-08-05 05:59 UTC |
+| UUSDT     | 21.74M       | OK         | 2.24M            | 502.01K          |           4.46 |           1.0002 | 2026-08-05 05:59 UTC |
+| ALLOUSDT  | 2.32M        | LOW        | 106.11K          | 25.54K           |           4.16 |           1.0952 | 2026-08-05 05:59 UTC |
+| NVDABUSDT | 3.47M        | LOW        | 136.23K          | 46.56K           |           2.93 |           1.0542 | 2026-08-05 05:59 UTC |
+| KAITOUSDT | 4.60M        | LOW        | 263.64K          | 96.91K           |           2.72 |           0.6059 | 2026-08-05 05:59 UTC |
+| MUBUSDT   | 18.27M       | OK         | 785.70K          | 309.35K          |           2.54 |           0.9088 | 2026-08-05 05:59 UTC |
