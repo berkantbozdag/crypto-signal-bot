@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-07 04:00 UTC**
+Son tarama: **2026-08-07 05:54 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ESPUSDT  | 1.76M        | LOW        | 102.34K          | 17.13K           |           5.97 |           1.0606 | 2026-08-07 02:59 UTC |
-| MUBUSDT  | 14.04M       | OK         | 232.32K          | 46.95K           |           4.95 |           0.8887 | 2026-08-07 03:59 UTC |
-| UUSDT    | 16.85M       | OK         | 556.01K          | 225.82K          |           2.46 |           1      | 2026-08-07 02:59 UTC |
-| ZAMAUSDT | 5.82M        | LOW        | 265.26K          | 119.58K          |           2.22 |           1.8097 | 2026-08-07 02:59 UTC |
-| CFGUSDT  | 769.15K      | LOW        | 64.95K           | 29.43K           |           2.21 |           1.1347 | 2026-08-07 03:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT  | 4.79M        | LOW        | 423.15K          | 1.99K            |         212.94 |           1.0006 | 2026-08-07 04:59 UTC |
+| CRCLBUSDT | 9.46M        | OK         | 141.05K          | 23.88K           |           5.91 |           0.7907 | 2026-08-07 04:59 UTC |
+| TUTUSDT   | 6.57M        | LOW        | 570.60K          | 116.89K          |           4.88 |           0.6941 | 2026-08-07 04:59 UTC |
+| SNDKBUSDT | 86.40M       | OK         | 789.65K          | 172.95K          |           4.57 |           0.6307 | 2026-08-07 04:59 UTC |
+| ESPUSDT   | 2.12M        | LOW        | 272.47K          | 102.34K          |           2.66 |           1.1116 | 2026-08-07 04:59 UTC |
+| 币安人生USDT  | 3.98M        | LOW        | 308.96K          | 143.57K          |           2.15 |           3.9892 | 2026-08-07 04:59 UTC |
