@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-07 16:10 UTC**
+Son tarama: **2026-08-07 17:09 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| INTCBUSDT   | 1.89M        | LOW        | 517.61K          | 139.31K          |           3.72 |           0.7715 | 2026-08-07 15:59 UTC |
-| KGSTUSDT    | 259.13K      | LOW        | 72.21K           | 23.19K           |           3.11 |           1.003  | 2026-08-07 15:59 UTC |
-| 币安人生USDT    | 3.41M        | LOW        | 413.15K          | 147.05K          |           2.81 |           3.8135 | 2026-08-07 15:59 UTC |
-| VIRTUALUSDT | 2.61M        | LOW        | 134.01K          | 66.41K           |           2.02 |           1.0399 | 2026-08-07 15:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BANANAS31USDT | 668.55K      | LOW        | 267.98K          | 31.80K           |           8.43 |           1.3892 | 2026-08-07 16:59 UTC |
+| TUTUSDT       | 9.03M        | OK         | 892.27K          | 369.74K          |           2.41 |           0.9263 | 2026-08-07 16:59 UTC |
+| AMDBUSDT      | 2.61M        | LOW        | 78.25K           | 33.06K           |           2.37 |           0.907  | 2026-08-07 16:59 UTC |
+| BANKUSDT      | 7.68M        | OK         | 402.53K          | 171.83K          |           2.34 |           0.5325 | 2026-08-07 16:59 UTC |
