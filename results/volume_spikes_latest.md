@@ -1,8 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-07 11:57 UTC**
-
-Sonuç yok.
+Son tarama: **2026-08-07 13:29 UTC**
 
 
 Volume spike kriteri:
@@ -11,3 +9,22 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
+
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| EWYBUSDT      | 1.16M        | LOW        | 118.82K          | 1.73K            |          68.6  |           0.823  | 2026-08-07 12:59 UTC |
+| MSTRBUSDT     | 679.65K      | LOW        | 145.07K          | 5.98K            |          24.26 |           0.9458 | 2026-08-07 12:59 UTC |
+| BFUSDUSDT     | 3.40M        | LOW        | 360.63K          | 20.77K           |          17.36 |           0.9995 | 2026-08-07 12:59 UTC |
+| AMDBUSDT      | 1.95M        | LOW        | 342.33K          | 32.34K           |          10.59 |           0.9416 | 2026-08-07 12:59 UTC |
+| NVDABUSDT     | 2.41M        | LOW        | 69.98K           | 7.46K            |           9.38 |           1.0703 | 2026-08-07 12:59 UTC |
+| XAUTUSDT      | 36.18M       | OK         | 11.24M           | 1.22M            |           9.25 |           0.9641 | 2026-08-07 12:59 UTC |
+| INTCBUSDT     | 1.08M        | LOW        | 57.14K           | 7.05K            |           8.11 |           0.7753 | 2026-08-07 12:59 UTC |
+| ESPUSDT       | 6.83M        | LOW        | 2.00M            | 256.31K          |           7.81 |           1.1941 | 2026-08-07 12:59 UTC |
+| SPCXBUSDT     | 63.22M       | OK         | 5.55M            | 724.18K          |           7.67 |           0.6861 | 2026-08-07 12:59 UTC |
+| SNDKBUSDT     | 68.83M       | OK         | 5.22M            | 740.96K          |           7.04 |           0.6516 | 2026-08-07 12:59 UTC |
+| VIRTUALUSDT   | 2.63M        | LOW        | 112.80K          | 21.91K           |           5.15 |           1.0401 | 2026-08-07 12:59 UTC |
+| MORPHOUSDT    | 775.68K      | LOW        | 56.10K           | 12.68K           |           4.42 |           1.0005 | 2026-08-07 12:59 UTC |
+| MUBUSDT       | 14.06M       | OK         | 969.54K          | 277.82K          |           3.49 |           0.9102 | 2026-08-07 12:59 UTC |
+| BANANAS31USDT | 353.58K      | LOW        | 76.52K           | 24.24K           |           3.16 |           1.3506 | 2026-08-07 12:59 UTC |
+| TSLABUSDT     | 1.17M        | LOW        | 69.92K           | 25.41K           |           2.75 |           0.7935 | 2026-08-07 12:59 UTC |
+| CRCLBUSDT     | 8.86M        | OK         | 397.24K          | 162.18K          |           2.45 |           0.8087 | 2026-08-07 12:59 UTC |
