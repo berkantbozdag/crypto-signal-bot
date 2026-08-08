@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-08 15:43 UTC**
+Son tarama: **2026-08-08 16:51 UTC**
 
 
 Volume spike kriteri:
@@ -10,14 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol         | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AIGENSYNUSDT   | 498.20K      | LOW        | 59.82K           | 5.95K            |          10.05 |           0.6162 | 2026-08-08 14:59 UTC |
-| UUSDT          | 8.91M        | OK         | 852.34K          | 166.21K          |           5.13 |           1.0001 | 2026-08-08 14:59 UTC |
-| XAUTUSDT       | 9.38M        | OK         | 277.45K          | 59.50K           |           4.66 |           0.9648 | 2026-08-08 14:59 UTC |
-| BANANAS31USDT  | 691.91K      | LOW        | 72.81K           | 16.89K           |           4.31 |           1.4088 | 2026-08-08 14:59 UTC |
-| TSLABUSDT      | 894.00K      | LOW        | 61.66K           | 15.30K           |           4.03 |           0.8137 | 2026-08-08 14:59 UTC |
-| ESPUSDT        | 2.66M        | LOW        | 98.55K           | 27.56K           |           3.58 |           1.0711 | 2026-08-08 14:59 UTC |
-| 1000CHEEMSUSDT | 281.40K      | LOW        | 74.71K           | 21.15K           |           3.53 |           0.5211 | 2026-08-08 14:59 UTC |
-| VIRTUALUSDT    | 962.64K      | LOW        | 91.75K           | 28.08K           |           3.27 |           1.0601 | 2026-08-08 14:59 UTC |
-| CRCLBUSDT      | 2.01M        | LOW        | 141.06K          | 64.66K           |           2.18 |           0.84   | 2026-08-08 14:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KGSTUSDT   | 263.45K      | LOW        | 77.41K           | 852              |          90.91 |           1.0031 | 2026-08-08 15:59 UTC |
+| MORPHOUSDT | 502.26K      | LOW        | 121.61K          | 15.12K           |           8.05 |           1.0239 | 2026-08-08 15:59 UTC |
