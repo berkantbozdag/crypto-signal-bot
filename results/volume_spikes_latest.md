@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-09 15:44 UTC**
+Son tarama: **2026-08-09 16:51 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| KGSTUSDT      | 268.33K      | LOW        | 76.42K           | 386              |         197.84 |           1.0031 | 2026-08-09 14:59 UTC |
-| BANANAS31USDT | 3.38M        | LOW        | 488.21K          | 166.67K          |           2.93 |           1.7375 | 2026-08-09 14:59 UTC |
-| KITEUSDT      | 2.32M        | LOW        | 162.30K          | 65.37K           |           2.48 |           1.1325 | 2026-08-09 14:59 UTC |
-| 币安人生USDT      | 1.51M        | LOW        | 75.80K           | 31.52K           |           2.4  |           3.731  | 2026-08-09 14:59 UTC |
-| ZAMAUSDT      | 3.48M        | LOW        | 181.59K          | 81.65K           |           2.22 |           1.5792 | 2026-08-09 14:59 UTC |
-| TUTUSDT       | 259.58M      | OK         | 15.14M           | 7.27M            |           2.08 |           3.8057 | 2026-08-09 14:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT | 1.20M        | LOW        | 210.41K          | 725              |         290.02 |           0.9994 | 2026-08-09 15:59 UTC |
+| CRCLBUSDT | 1.18M        | LOW        | 117.91K          | 50.33K           |           2.34 |           0.8533 | 2026-08-09 15:59 UTC |
+| SNDKBUSDT | 2.04M        | LOW        | 200.20K          | 99.79K           |           2.01 |           0.6094 | 2026-08-09 15:59 UTC |
