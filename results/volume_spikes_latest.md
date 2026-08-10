@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-10 18:05 UTC**
+Son tarama: **2026-08-10 19:14 UTC**
 
 
 Volume spike kriteri:
@@ -12,4 +12,4 @@ Volume spike kriteri:
 
 | symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ZAMAUSDT | 3.38M        | LOW        | 193.71K          | 80.63K           |            2.4 |           1.5806 | 2026-08-10 17:59 UTC |
+| XAUTUSDT | 21.76M       | OK         | 1.35M            | 594.49K          |           2.28 |           0.9716 | 2026-08-10 18:59 UTC |
