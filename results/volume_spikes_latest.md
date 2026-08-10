@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-10 08:52 UTC**
+Son tarama: **2026-08-10 10:32 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| NVDABUSDT     | 896.18K      | LOW        | 72.12K           | 7.68K            |           9.39 |           1.0914 | 2026-08-10 07:59 UTC |
-| UUSDT         | 7.15M        | OK         | 201.27K          | 73.81K           |           2.73 |           1.0002 | 2026-08-10 07:59 UTC |
-| BANANAS31USDT | 7.40M        | OK         | 176.82K          | 75.73K           |           2.33 |           1.601  | 2026-08-10 07:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT   | 5.80M        | LOW        | 4.51M            | 2.24K            |        2016.82 |           1.0006 | 2026-08-10 09:59 UTC |
+| UUSDT      | 8.57M        | OK         | 1.65M            | 201.27K          |           8.19 |           1.0002 | 2026-08-10 09:59 UTC |
+| SPCXBUSDT  | 13.96M       | OK         | 2.28M            | 318.88K          |           7.15 |           0.8131 | 2026-08-10 09:59 UTC |
+| MORPHOUSDT | 523.78K      | LOW        | 61.40K           | 13.53K           |           4.54 |           1.043  | 2026-08-10 09:59 UTC |
+| MSTRBUSDT  | 1.23M        | LOW        | 112.41K          | 29.78K           |           3.78 |           0.9456 | 2026-08-10 09:59 UTC |
+| ALLOUSDT   | 2.21M        | LOW        | 101.49K          | 47.16K           |           2.15 |           1.2803 | 2026-08-10 09:59 UTC |
