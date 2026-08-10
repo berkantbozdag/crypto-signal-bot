@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-10 15:14 UTC**
+Son tarama: **2026-08-10 17:08 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SNDKBUSDT | 41.77M       | OK         | 9.69M            | 1.74M            |           5.56 |           0.6173 | 2026-08-10 14:59 UTC |
-| CRCLBUSDT | 7.81M        | OK         | 847.30K          | 170.70K          |           4.96 |           0.8147 | 2026-08-10 14:59 UTC |
-| NVDABUSDT | 1.14M        | LOW        | 161.03K          | 33.03K           |           4.88 |           1.065  | 2026-08-10 14:59 UTC |
-| MUBUSDT   | 8.85M        | OK         | 1.14M            | 300.84K          |           3.8  |           0.8739 | 2026-08-10 14:59 UTC |
-| TSLABUSDT | 894.93K      | LOW        | 102.93K          | 43.09K           |           2.39 |           0.8113 | 2026-08-10 14:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KGSTUSDT   | 192.32K      | LOW        | 78.40K           | 2.09K            |          37.52 |           1.003  | 2026-08-10 16:59 UTC |
+| ALLOUSDT   | 2.97M        | LOW        | 515.06K          | 72.49K           |           7.11 |           1.3565 | 2026-08-10 16:59 UTC |
+| EWYBUSDT   | 378.64K      | LOW        | 59.92K           | 10.93K           |           5.48 |           0.8    | 2026-08-10 16:59 UTC |
+| MORPHOUSDT | 585.31K      | LOW        | 53.29K           | 10.72K           |           4.97 |           1.0233 | 2026-08-10 16:59 UTC |
+| KITEUSDT   | 3.00M        | LOW        | 433.93K          | 196.26K          |           2.21 |           1.2362 | 2026-08-10 16:59 UTC |
