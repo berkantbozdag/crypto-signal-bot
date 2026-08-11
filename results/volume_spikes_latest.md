@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-11 06:04 UTC**
+Son tarama: **2026-08-11 07:26 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SKYUSDT   | 641.91K      | LOW        | 262.96K          | 37.61K           |           6.99 |           0.6987 | 2026-08-11 05:59 UTC |
-| MSTRBUSDT | 1.64M        | LOW        | 58.98K           | 13.00K           |           4.54 |           0.9102 | 2026-08-11 05:59 UTC |
-| XAUTUSDT  | 24.36M       | OK         | 2.21M            | 638.24K          |           3.46 |           0.9706 | 2026-08-11 05:59 UTC |
-| SPCXBUSDT | 49.65M       | OK         | 270.48K          | 91.69K           |           2.95 |           0.8142 | 2026-08-11 05:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT     | 897.30K      | LOW        | 428.29K          | 18.92K           |          22.64 |           0.9996 | 2026-08-11 06:59 UTC |
+| XUSDUSDT      | 5.78M        | LOW        | 103.18K          | 7.51K            |          13.75 |           1.0006 | 2026-08-11 06:59 UTC |
+| BANANAS31USDT | 2.54M        | LOW        | 442.88K          | 49.74K           |           8.9  |           1.798  | 2026-08-11 06:59 UTC |
+| AMDBUSDT      | 681.93K      | LOW        | 78.56K           | 13.87K           |           5.66 |           0.887  | 2026-08-11 06:59 UTC |
+| CRCLBUSDT     | 6.71M        | LOW        | 106.54K          | 29.71K           |           3.59 |           0.8334 | 2026-08-11 06:59 UTC |
+| 币安人生USDT      | 2.13M        | LOW        | 107.16K          | 39.28K           |           2.73 |           3.66   | 2026-08-11 06:59 UTC |
+| VIRTUALUSDT   | 1.12M        | LOW        | 92.59K           | 36.97K           |           2.5  |           1.0209 | 2026-08-11 06:59 UTC |
+| ZAMAUSDT      | 2.82M        | LOW        | 162.65K          | 66.85K           |           2.43 |           1.6003 | 2026-08-11 06:59 UTC |
+| UUSDT         | 12.77M       | OK         | 1.20M            | 550.60K          |           2.18 |           1.0002 | 2026-08-11 06:59 UTC |
