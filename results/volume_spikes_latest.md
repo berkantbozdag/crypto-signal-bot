@@ -1,6 +1,8 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-12 22:59 UTC**
+Son tarama: **2026-08-12 23:57 UTC**
+
+Sonuç yok.
 
 
 Volume spike kriteri:
@@ -9,7 +11,3 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
-
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| 币安人生USDT | 3.92M        | LOW        | 113.90K          | 17.80K           |            6.4 |           3.4677 | 2026-08-12 21:59 UTC |
