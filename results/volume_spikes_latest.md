@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-12 02:41 UTC**
+Son tarama: **2026-08-12 05:01 UTC**
 
 
 Volume spike kriteri:
@@ -10,13 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| MSTRBUSDT | 2.04M        | LOW        | 101.70K          | 15.44K           |           6.58 |           0.9087 | 2026-08-12 01:59 UTC |
-| EWYBUSDT  | 557.76K      | LOW        | 76.60K           | 11.96K           |           6.4  |           0.8364 | 2026-08-12 01:59 UTC |
-| ESPUSDT   | 1.75M        | LOW        | 236.15K          | 41.45K           |           5.7  |           1.2201 | 2026-08-12 01:59 UTC |
-| QQQBUSDT  | 3.63M        | LOW        | 309.56K          | 63.48K           |           4.88 |           0.9944 | 2026-08-12 01:59 UTC |
-| CRCLBUSDT | 15.09M       | OK         | 103.75K          | 31.14K           |           3.33 |           0.8897 | 2026-08-12 01:59 UTC |
-| MUBUSDT   | 9.70M        | OK         | 167.94K          | 53.58K           |           3.13 |           0.8858 | 2026-08-12 01:59 UTC |
-| XAUTUSDT  | 18.94M       | OK         | 722.53K          | 261.55K          |           2.76 |           0.9758 | 2026-08-12 01:59 UTC |
-| KITEUSDT  | 2.26M        | LOW        | 134.00K          | 49.59K           |           2.7  |           1.2177 | 2026-08-12 01:59 UTC |
+| symbol        | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:--------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BANANAS31USDT | 11.33M       | OK         | 392.49K          | 117.22K          |           3.35 |           1.6244 | 2026-08-12 03:59 UTC |
