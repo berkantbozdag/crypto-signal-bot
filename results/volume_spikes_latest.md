@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-12 06:27 UTC**
+Son tarama: **2026-08-12 08:30 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| UUSDT      | 16.61M       | OK         | 1.24M            | 230.94K          |           5.39 |           1.0001 | 2026-08-12 05:59 UTC |
-| GENIUSUSDT | 1.44M        | LOW        | 53.55K           | 17.25K           |           3.1  |           0.5072 | 2026-08-12 05:59 UTC |
-| 币安人生USDT   | 2.42M        | LOW        | 215.91K          | 80.57K           |           2.68 |           3.5115 | 2026-08-12 05:59 UTC |
-| XUSDUSDT   | 2.40M        | LOW        | 57.77K           | 26.11K           |           2.21 |           1.0005 | 2026-08-12 05:59 UTC |
-| SPCXBUSDT  | 35.47M       | OK         | 373.55K          | 185.61K          |           2.01 |           0.7921 | 2026-08-12 05:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| MUBUSDT  | 10.48M       | OK         | 134.04K          | 50.79K           |           2.64 |           0.9022 | 2026-08-12 07:59 UTC |
+| ATUSDT   | 1.82M        | LOW        | 163.00K          | 69.72K           |           2.34 |           0.7391 | 2026-08-12 07:59 UTC |
+| 币安人生USDT | 2.79M        | LOW        | 459.95K          | 215.91K          |           2.13 |           3.4562 | 2026-08-12 07:59 UTC |
+| XUSDUSDT | 2.51M        | LOW        | 120.19K          | 57.77K           |           2.08 |           1.0007 | 2026-08-12 07:59 UTC |
