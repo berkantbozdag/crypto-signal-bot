@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-13 02:45 UTC**
+Son tarama: **2026-08-13 05:05 UTC**
 
 
 Volume spike kriteri:
@@ -12,8 +12,7 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| EWYBUSDT  | 2.00M        | LOW        | 203.55K          | 4.67K            |          43.61 |           0.862  | 2026-08-13 01:59 UTC |
-| CRCLBUSDT | 6.35M        | LOW        | 233.93K          | 26.96K           |           8.68 |           0.8793 | 2026-08-13 01:59 UTC |
-| XAUTUSDT  | 26.72M       | OK         | 1.12M            | 299.30K          |           3.75 |           0.9771 | 2026-08-13 01:59 UTC |
-| SNDKBUSDT | 41.66M       | OK         | 475.13K          | 155.38K          |           3.06 |           0.6806 | 2026-08-13 01:59 UTC |
-| UUSDT     | 23.66M       | OK         | 815.46K          | 273.43K          |           2.98 |           1.0004 | 2026-08-13 01:59 UTC |
+| ATUSDT    | 2.53M        | LOW        | 111.08K          | 13.86K           |           8.01 |           0.7802 | 2026-08-13 04:59 UTC |
+| TSLABUSDT | 1.25M        | LOW        | 141.53K          | 34.48K           |           4.1  |           0.8085 | 2026-08-13 04:59 UTC |
+| QQQBUSDT  | 2.48M        | LOW        | 198.46K          | 49.89K           |           3.98 |           1.0008 | 2026-08-13 04:59 UTC |
+| TUTUSDT   | 47.21M       | OK         | 1.70M            | 653.84K          |           2.6  |           1.4965 | 2026-08-13 04:59 UTC |
