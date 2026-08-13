@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-13 15:12 UTC**
+Son tarama: **2026-08-13 17:12 UTC**
 
 
 Volume spike kriteri:
@@ -10,20 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| INTCBUSDT | 1.67M        | LOW        | 213.03K          | 17.03K           |          12.51 |           0.8055 | 2026-08-13 14:59 UTC |
-| XAUTUSDT  | 25.14M       | OK         | 6.72M            | 1.08M            |           6.2  |           0.9711 | 2026-08-13 14:59 UTC |
-| MSTRBUSDT | 4.23M        | LOW        | 1.20M            | 194.00K          |           6.17 |           0.9128 | 2026-08-13 14:59 UTC |
-| BFUSDUSDT | 1.16M        | LOW        | 438.84K          | 83.36K           |           5.26 |           0.9994 | 2026-08-13 14:59 UTC |
-| SNDKBUSDT | 41.52M       | OK         | 12.22M           | 2.43M            |           5.03 |           0.7199 | 2026-08-13 14:59 UTC |
-| QQQBUSDT  | 1.70M        | LOW        | 87.44K           | 17.53K           |           4.99 |           1.012  | 2026-08-13 14:59 UTC |
-| TSLABUSDT | 1.38M        | LOW        | 169.56K          | 43.02K           |           3.94 |           0.8216 | 2026-08-13 14:59 UTC |
-| NVDABUSDT | 822.35K      | LOW        | 81.69K           | 20.89K           |           3.91 |           1.0896 | 2026-08-13 14:59 UTC |
-| TUTUSDT   | 29.80M       | OK         | 2.29M            | 611.88K          |           3.74 |           1.1597 | 2026-08-13 14:59 UTC |
-| LITEBUSDT | 1.64M        | LOW        | 133.51K          | 36.68K           |           3.64 |           1.1038 | 2026-08-13 14:59 UTC |
-| MUBUSDT   | 16.16M       | OK         | 2.64M            | 746.58K          |           3.53 |           0.9635 | 2026-08-13 14:59 UTC |
-| CRCLBUSDT | 7.21M        | OK         | 1.28M            | 511.76K          |           2.5  |           0.8952 | 2026-08-13 14:59 UTC |
-| UUSDT     | 15.89M       | OK         | 969.22K          | 406.63K          |           2.38 |           1.0002 | 2026-08-13 14:59 UTC |
-| GRAMUSDT  | 5.20M        | LOW        | 286.42K          | 123.13K          |           2.33 |           0.7583 | 2026-08-13 14:59 UTC |
-| SPCXBUSDT | 40.29M       | OK         | 4.02M            | 1.89M            |           2.13 |           0.839  | 2026-08-13 14:59 UTC |
+| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| VIRTUALUSDT  | 6.68M        | LOW        | 522.42K          | 127.48K          |           4.1  |           1.0455 | 2026-08-13 16:59 UTC |
+| AIGENSYNUSDT | 879.81K      | LOW        | 70.36K           | 17.48K           |           4.02 |           0.5587 | 2026-08-13 16:59 UTC |
+| ATUSDT       | 3.68M        | LOW        | 115.30K          | 36.55K           |           3.15 |           0.7277 | 2026-08-13 16:59 UTC |
+| MORPHOUSDT   | 787.48K      | LOW        | 59.42K           | 21.12K           |           2.81 |           1.0361 | 2026-08-13 16:59 UTC |
+| SKYUSDT      | 625.76K      | LOW        | 56.45K           | 20.12K           |           2.8  |           0.6978 | 2026-08-13 16:59 UTC |
+| 币安人生USDT     | 1.60M        | LOW        | 109.61K          | 40.07K           |           2.74 |           3.4204 | 2026-08-13 16:59 UTC |
