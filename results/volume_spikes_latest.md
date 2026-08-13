@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-13 10:22 UTC**
+Son tarama: **2026-08-13 11:59 UTC**
 
 
 Volume spike kriteri:
@@ -10,14 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AIGENSYNUSDT | 1.10M        | LOW        | 64.35K           | 7.05K            |           9.13 |           0.5757 | 2026-08-13 09:59 UTC |
-| VIRTUALUSDT  | 12.26M       | OK         | 620.24K          | 135.42K          |           4.58 |           1.0758 | 2026-08-13 09:59 UTC |
-| MSTRBUSDT    | 3.16M        | LOW        | 81.83K           | 24.92K           |           3.28 |           0.8954 | 2026-08-13 09:59 UTC |
-| ESPUSDT      | 2.16M        | LOW        | 179.20K          | 60.96K           |           2.94 |           1.2655 | 2026-08-13 09:59 UTC |
-| ALLOUSDT     | 54.78M       | OK         | 2.71M            | 1.02M            |           2.65 |           1.1789 | 2026-08-13 09:59 UTC |
-| XUSDUSDT     | 2.01M        | LOW        | 528.04K          | 201.30K          |           2.62 |           1.0005 | 2026-08-13 09:59 UTC |
-| QQQBUSDT     | 2.70M        | LOW        | 118.54K          | 49.12K           |           2.41 |           1.0004 | 2026-08-13 09:59 UTC |
-| CRCLBUSDT    | 6.56M        | LOW        | 131.69K          | 56.39K           |           2.34 |           0.8859 | 2026-08-13 09:59 UTC |
-| BANKUSDT     | 13.73M       | OK         | 807.74K          | 357.35K          |           2.26 |           0.539  | 2026-08-13 09:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KGSTUSDT  | 257.44K      | LOW        | 50.69K           | 4.56K            |          11.11 |           1.0015 | 2026-08-13 10:59 UTC |
+| BFUSDUSDT | 640.57K      | LOW        | 108.09K          | 25.42K           |           4.25 |           0.9999 | 2026-08-13 10:59 UTC |
+| ESPUSDT   | 2.61M        | LOW        | 504.24K          | 179.20K          |           2.81 |           1.2932 | 2026-08-13 10:59 UTC |
+| BANKUSDT  | 16.87M       | OK         | 1.84M            | 807.74K          |           2.27 |           0.5688 | 2026-08-13 10:59 UTC |
