@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-14 11:59 UTC**
+Son tarama: **2026-08-14 13:32 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,13 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| TUTUSDT  | 44.86M       | OK         | 2.72M            | 594.42K          |           4.57 |           0.8829 | 2026-08-14 10:59 UTC |
-| XUSDUSDT | 7.77M        | OK         | 797.21K          | 218.47K          |           3.65 |           1.0009 | 2026-08-14 10:59 UTC |
-| 币安人生USDT | 1.86M        | LOW        | 273.17K          | 110.58K          |           2.47 |           3.4175 | 2026-08-14 10:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| EWYBUSDT    | 872.23K      | LOW        | 105.26K          | 7.87K            |          13.38 |           0.8888 | 2026-08-14 12:59 UTC |
+| XAUTUSDT    | 30.99M       | OK         | 3.82M            | 530.49K          |           7.21 |           0.9725 | 2026-08-14 12:59 UTC |
+| SPCXBUSDT   | 21.54M       | OK         | 935.37K          | 201.56K          |           4.64 |           0.8511 | 2026-08-14 12:59 UTC |
+| VIRTUALUSDT | 3.31M        | LOW        | 240.10K          | 60.13K           |           3.99 |           1.0394 | 2026-08-14 12:59 UTC |
+| GRAMUSDT    | 4.69M        | LOW        | 348.01K          | 102.65K          |           3.39 |           0.7499 | 2026-08-14 12:59 UTC |
+| KITEUSDT    | 1.77M        | LOW        | 229.45K          | 74.93K           |           3.06 |           1.0945 | 2026-08-14 12:59 UTC |
+| SNDKBUSDT   | 87.01M       | OK         | 5.17M            | 2.07M            |           2.5  |           0.8176 | 2026-08-14 12:59 UTC |
+| MUBUSDT     | 16.76M       | OK         | 838.29K          | 408.39K          |           2.05 |           0.9824 | 2026-08-14 12:59 UTC |
