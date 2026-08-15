@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-15 05:40 UTC**
+Son tarama: **2026-08-15 07:42 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 1.59M        | LOW        | 544.70K          | 14.76K           |          36.9  |           0.9999 | 2026-08-15 04:59 UTC |
-| SPCXBUSDT | 19.06M       | OK         | 814.64K          | 171.89K          |           4.74 |           0.8273 | 2026-08-15 04:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT | 3.91M        | LOW        | 1.01M            | 242              |        4169.69 |           1.0007 | 2026-08-15 06:59 UTC |
+| UUSDT    | 24.99M       | OK         | 1.82M            | 284.38K          |           6.4  |           1.0004 | 2026-08-15 06:59 UTC |
