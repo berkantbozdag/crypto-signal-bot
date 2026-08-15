@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-15 01:50 UTC**
+Son tarama: **2026-08-15 03:04 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| QQQBUSDT   | 3.39M        | LOW        | 99.30K           | 2.15K            |          46.18 |           1.0106 | 2026-08-15 00:59 UTC |
-| GENIUSUSDT | 1.20M        | LOW        | 107.66K          | 18.60K           |           5.79 |           0.5152 | 2026-08-15 00:59 UTC |
-| 币安人生USDT   | 1.96M        | LOW        | 67.04K           | 12.81K           |           5.24 |           3.4727 | 2026-08-15 00:59 UTC |
-| MUBUSDT    | 10.17M       | OK         | 167.78K          | 44.06K           |           3.81 |           0.9778 | 2026-08-15 00:59 UTC |
-| TUTUSDT    | 31.64M       | OK         | 721.32K          | 259.90K          |           2.78 |           0.7503 | 2026-08-15 00:59 UTC |
-| ALLOUSDT   | 85.59M       | OK         | 427.54K          | 167.56K          |           2.55 |           1.101  | 2026-08-15 00:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ALLOUSDT  | 87.49M       | OK         | 3.10M            | 427.54K          |           7.24 |           1.111  | 2026-08-15 02:59 UTC |
+| ATUSDT    | 1.66M        | LOW        | 125.97K          | 47.53K           |           2.65 |           0.7769 | 2026-08-15 02:59 UTC |
+| 币安人生USDT  | 2.09M        | LOW        | 159.90K          | 67.04K           |           2.39 |           3.4778 | 2026-08-15 02:59 UTC |
+| NVDABUSDT | 1.21M        | LOW        | 58.73K           | 25.73K           |           2.28 |           1.0901 | 2026-08-15 02:59 UTC |
