@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-14 23:36 UTC**
+Son tarama: **2026-08-15 01:50 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 1.19M        | LOW        | 101.06K          | 11.21K           |           9.01 |           0.9994 | 2026-08-14 22:59 UTC |
-| SPCXBUSDT | 18.52M       | OK         | 301.80K          | 96.10K           |           3.14 |           0.8355 | 2026-08-14 22:59 UTC |
-| ATUSDT    | 1.60M        | LOW        | 70.27K           | 22.35K           |           3.14 |           0.7578 | 2026-08-14 22:59 UTC |
-| XAUTUSDT  | 24.92M       | OK         | 365.50K          | 178.76K          |           2.04 |           0.9714 | 2026-08-14 22:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| QQQBUSDT   | 3.39M        | LOW        | 99.30K           | 2.15K            |          46.18 |           1.0106 | 2026-08-15 00:59 UTC |
+| GENIUSUSDT | 1.20M        | LOW        | 107.66K          | 18.60K           |           5.79 |           0.5152 | 2026-08-15 00:59 UTC |
+| 币安人生USDT   | 1.96M        | LOW        | 67.04K           | 12.81K           |           5.24 |           3.4727 | 2026-08-15 00:59 UTC |
+| MUBUSDT    | 10.17M       | OK         | 167.78K          | 44.06K           |           3.81 |           0.9778 | 2026-08-15 00:59 UTC |
+| TUTUSDT    | 31.64M       | OK         | 721.32K          | 259.90K          |           2.78 |           0.7503 | 2026-08-15 00:59 UTC |
+| ALLOUSDT   | 85.59M       | OK         | 427.54K          | 167.56K          |           2.55 |           1.101  | 2026-08-15 00:59 UTC |
