@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-16 04:49 UTC**
+Son tarama: **2026-08-16 05:41 UTC**
 
 
 Volume spike kriteri:
@@ -12,8 +12,8 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT  | 2.33M        | LOW        | 304.23K          | 19               |       15993.8  |           1.0008 | 2026-08-16 03:59 UTC |
-| SPCXBUSDT | 2.25M        | LOW        | 103.37K          | 19.67K           |           5.26 |           0.8301 | 2026-08-16 03:59 UTC |
-| ZAMAUSDT  | 2.97M        | LOW        | 351.63K          | 71.77K           |           4.9  |           1.4681 | 2026-08-16 03:59 UTC |
-| XAUTUSDT  | 3.08M        | LOW        | 85.97K           | 28.85K           |           2.98 |           0.9715 | 2026-08-16 03:59 UTC |
-| ALLOUSDT  | 53.79M       | OK         | 3.26M            | 1.44M            |           2.27 |           1.099  | 2026-08-16 03:59 UTC |
+| BFUSDUSDT | 926.03K      | LOW        | 61.45K           | 1.34K            |          46.02 |           0.9999 | 2026-08-16 04:59 UTC |
+| QQQBUSDT  | 2.62M        | LOW        | 290.63K          | 72.95K           |           3.98 |           1.0124 | 2026-08-16 04:59 UTC |
+| KITEUSDT  | 1.06M        | LOW        | 71.78K           | 24.63K           |           2.91 |           1.0806 | 2026-08-16 04:59 UTC |
+| GRAMUSDT  | 2.80M        | LOW        | 79.96K           | 36.89K           |           2.17 |           0.7566 | 2026-08-16 04:59 UTC |
+| ZAMAUSDT  | 2.99M        | LOW        | 747.02K          | 351.63K          |           2.12 |           1.4556 | 2026-08-16 04:59 UTC |
