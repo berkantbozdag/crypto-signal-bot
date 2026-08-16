@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-16 14:39 UTC**
+Son tarama: **2026-08-16 15:35 UTC**
 
 
 Volume spike kriteri:
@@ -12,5 +12,8 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| CRCLBUSDT | 1.09M        | LOW        | 166.94K          | 14.54K           |          11.48 |           0.8998 | 2026-08-16 13:59 UTC |
-| XAUTUSDT  | 2.83M        | LOW        | 263.87K          | 97.54K           |           2.71 |           0.9713 | 2026-08-16 13:59 UTC |
+| LITEBUSDT | 167.24K      | LOW        | 69.69K           | 1.91K            |          36.48 |           1.0923 | 2026-08-16 14:59 UTC |
+| 币安人生USDT  | 4.20M        | LOW        | 1.61M            | 75.98K           |          21.24 |           3.627  | 2026-08-16 14:59 UTC |
+| ZAMAUSDT  | 2.57M        | LOW        | 138.91K          | 50.22K           |           2.77 |           1.4326 | 2026-08-16 14:59 UTC |
+| GRAMUSDT  | 2.70M        | LOW        | 226.07K          | 82.38K           |           2.74 |           0.7623 | 2026-08-16 14:59 UTC |
+| KITEUSDT  | 916.39K      | LOW        | 75.77K           | 32.28K           |           2.35 |           1.0887 | 2026-08-16 14:59 UTC |
