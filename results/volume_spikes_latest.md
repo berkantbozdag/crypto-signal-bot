@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-17 21:38 UTC**
+Son tarama: **2026-08-17 22:38 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| VIRTUALUSDT | 2.48M        | LOW        | 177.68K          | 33.36K           |           5.33 |           1.0666 | 2026-08-17 20:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| CRCLBUSDT | 5.80M        | LOW        | 67.61K           | 21.31K           |           3.17 |           0.9333 | 2026-08-17 21:59 UTC |
