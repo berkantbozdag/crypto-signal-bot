@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-17 10:47 UTC**
+Son tarama: **2026-08-17 11:41 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| 币安人生USDT    | 3.94M        | LOW        | 72.04K           | 26.43K           |           2.73 |           3.3687 | 2026-08-17 09:59 UTC |
-| UUSDT       | 18.81M       | OK         | 1.05M            | 420.60K          |           2.5  |           1.0004 | 2026-08-17 09:59 UTC |
-| MORPHOUSDT  | 1.84M        | LOW        | 420.73K          | 190.60K          |           2.21 |           1.1125 | 2026-08-17 09:59 UTC |
-| VIRTUALUSDT | 994.76K      | LOW        | 90.69K           | 41.00K           |           2.21 |           1.0381 | 2026-08-17 09:59 UTC |
-| BFUSDUSDT   | 17.07M       | OK         | 7.05M            | 3.25M            |           2.17 |           0.999  | 2026-08-17 09:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT  | 1.63M        | LOW        | 547.01K          | 28.31K           |          19.32 |           1.0008 | 2026-08-17 10:59 UTC |
+| CFGUSDT   | 571.93K      | LOW        | 92.56K           | 30.15K           |           3.07 |           1.1291 | 2026-08-17 10:59 UTC |
+| XAUTUSDT  | 19.41M       | OK         | 2.53M            | 851.17K          |           2.97 |           0.977  | 2026-08-17 10:59 UTC |
+| LITEBUSDT | 574.62K      | LOW        | 70.79K           | 25.32K           |           2.8  |           1.1102 | 2026-08-17 10:59 UTC |
