@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-17 09:00 UTC**
+Son tarama: **2026-08-17 09:58 UTC**
 
 
 Volume spike kriteri:
@@ -10,13 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SPCXBUSDT  | 6.23M        | LOW        | 1.17M            | 152.80K          |           7.63 |           0.8434 | 2026-08-17 08:59 UTC |
-| MSTRBUSDT  | 2.27M        | LOW        | 611.13K          | 131.34K          |           4.65 |           0.8797 | 2026-08-17 08:59 UTC |
-| INTCBUSDT  | 542.85K      | LOW        | 94.64K           | 21.99K           |           4.3  |           0.7976 | 2026-08-17 08:59 UTC |
-| XAUTUSDT   | 15.00M       | OK         | 2.64M            | 667.51K          |           3.95 |           0.975  | 2026-08-17 07:59 UTC |
-| MORPHOUSDT | 1.44M        | LOW        | 188.52K          | 69.90K           |           2.7  |           1.0981 | 2026-08-17 07:59 UTC |
-| EWYBUSDT   | 765.64K      | LOW        | 130.54K          | 58.34K           |           2.24 |           0.9016 | 2026-08-17 08:59 UTC |
-| MUBUSDT    | 4.17M        | LOW        | 599.93K          | 283.35K          |           2.12 |           1.0117 | 2026-08-17 07:59 UTC |
-| ALLOUSDT   | 32.84M       | OK         | 1.53M            | 733.31K          |           2.08 |           1.1193 | 2026-08-17 07:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT  | 967.96K      | LOW        | 393.82K          | 51               |        7713.42 |           1.0007 | 2026-08-17 08:59 UTC |
+| BFUSDUSDT | 9.34M        | OK         | 3.25M            | 14.25K           |         227.94 |           0.9991 | 2026-08-17 08:59 UTC |
+| KITEUSDT  | 1.26M        | LOW        | 85.81K           | 33.06K           |           2.6  |           1.0668 | 2026-08-17 08:59 UTC |
