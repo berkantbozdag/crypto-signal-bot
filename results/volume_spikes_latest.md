@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-18 04:49 UTC**
+Son tarama: **2026-08-18 05:44 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SPYBUSDT   | 2.24M        | LOW        | 454.76K          | 101.26K          |           4.49 |           1.0256 | 2026-08-18 03:59 UTC |
-| MSTRBUSDT  | 6.93M        | LOW        | 558.66K          | 131.05K          |           4.26 |           0.9103 | 2026-08-18 03:59 UTC |
-| KITEUSDT   | 866.23K      | LOW        | 110.95K          | 34.43K           |           3.22 |           1.0829 | 2026-08-18 03:59 UTC |
-| GOOGLBUSDT | 2.70M        | LOW        | 134.76K          | 48.20K           |           2.8  |           0.9347 | 2026-08-18 03:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| NBISBUSDT | 895.77K      | LOW        | 171.72K          | 15.05K           |          11.41 |           1.2381 | 2026-08-18 04:59 UTC |
+| DRAMBUSDT | 4.06M        | LOW        | 248.91K          | 93.97K           |           2.65 |           0.8904 | 2026-08-18 04:59 UTC |
+| INTCBUSDT | 2.15M        | LOW        | 79.40K           | 34.99K           |           2.27 |           0.7692 | 2026-08-18 04:59 UTC |
+| UUSDT     | 16.87M       | OK         | 1.36M            | 615.30K          |           2.21 |           1.0002 | 2026-08-18 04:59 UTC |
+| ZAMAUSDT  | 2.34M        | LOW        | 117.43K          | 57.37K           |           2.05 |           1.4139 | 2026-08-18 04:59 UTC |
