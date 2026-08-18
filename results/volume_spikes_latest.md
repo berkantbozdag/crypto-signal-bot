@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-18 20:38 UTC**
+Son tarama: **2026-08-18 21:36 UTC**
 
 
 Volume spike kriteri:
@@ -10,15 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SOXLBUSDT | 8.21M        | OK         | 1.45M            | 42.38K           |          34.26 |           0.6643 | 2026-08-18 19:59 UTC |
-| NBISBUSDT | 2.96M        | LOW        | 249.56K          | 17.73K           |          14.08 |           1.1616 | 2026-08-18 19:59 UTC |
-| XAUTUSDT  | 30.36M       | OK         | 5.75M            | 465.49K          |          12.36 |           0.9656 | 2026-08-18 19:59 UTC |
-| INTCBUSDT | 2.46M        | LOW        | 81.61K           | 13.30K           |           6.14 |           0.734  | 2026-08-18 19:59 UTC |
-| QQQBUSDT  | 3.79M        | LOW        | 110.45K          | 22.80K           |           4.85 |           0.9919 | 2026-08-18 19:59 UTC |
-| SNDKBUSDT | 46.24M       | OK         | 2.26M            | 470.84K          |           4.79 |           0.8079 | 2026-08-18 19:59 UTC |
-| DRAMBUSDT | 2.39M        | LOW        | 76.49K           | 18.06K           |           4.24 |           0.8451 | 2026-08-18 19:59 UTC |
-| TSLABUSDT | 1.67M        | LOW        | 58.32K           | 25.56K           |           2.28 |           0.8276 | 2026-08-18 19:59 UTC |
-| MUBUSDT   | 10.19M       | OK         | 544.14K          | 247.74K          |           2.2  |           0.9442 | 2026-08-18 19:59 UTC |
-| SPCXBUSDT | 21.85M       | OK         | 1.16M            | 567.35K          |           2.05 |           0.8508 | 2026-08-18 19:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| VIRTUALUSDT | 2.18M        | LOW        | 107.82K          | 31.98K           |           3.37 |           1.069  | 2026-08-18 20:59 UTC |
+| UUSDT       | 21.78M       | OK         | 437.37K          | 187.31K          |           2.34 |           1.0001 | 2026-08-18 20:59 UTC |
+| MORPHOUSDT  | 2.13M        | LOW        | 60.13K           | 28.44K           |           2.11 |           1.1247 | 2026-08-18 20:59 UTC |
