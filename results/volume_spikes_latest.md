@@ -1,8 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-18 03:57 UTC**
-
-Sonuç yok.
+Son tarama: **2026-08-18 04:49 UTC**
 
 
 Volume spike kriteri:
@@ -11,3 +9,10 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
+
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SPYBUSDT   | 2.24M        | LOW        | 454.76K          | 101.26K          |           4.49 |           1.0256 | 2026-08-18 03:59 UTC |
+| MSTRBUSDT  | 6.93M        | LOW        | 558.66K          | 131.05K          |           4.26 |           0.9103 | 2026-08-18 03:59 UTC |
+| KITEUSDT   | 866.23K      | LOW        | 110.95K          | 34.43K           |           3.22 |           1.0829 | 2026-08-18 03:59 UTC |
+| GOOGLBUSDT | 2.70M        | LOW        | 134.76K          | 48.20K           |           2.8  |           0.9347 | 2026-08-18 03:59 UTC |
