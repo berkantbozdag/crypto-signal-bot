@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-18 05:44 UTC**
+Son tarama: **2026-08-18 07:52 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| NBISBUSDT | 895.77K      | LOW        | 171.72K          | 15.05K           |          11.41 |           1.2381 | 2026-08-18 04:59 UTC |
-| DRAMBUSDT | 4.06M        | LOW        | 248.91K          | 93.97K           |           2.65 |           0.8904 | 2026-08-18 04:59 UTC |
-| INTCBUSDT | 2.15M        | LOW        | 79.40K           | 34.99K           |           2.27 |           0.7692 | 2026-08-18 04:59 UTC |
-| UUSDT     | 16.87M       | OK         | 1.36M            | 615.30K          |           2.21 |           1.0002 | 2026-08-18 04:59 UTC |
-| ZAMAUSDT  | 2.34M        | LOW        | 117.43K          | 57.37K           |           2.05 |           1.4139 | 2026-08-18 04:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT   | 24.24M       | OK         | 362.38K          | 2.97K            |         121.97 |           0.9994 | 2026-08-18 06:59 UTC |
+| XUSDUSDT    | 4.06M        | LOW        | 2.00M            | 21.77K           |          92.1  |           1.0008 | 2026-08-18 06:59 UTC |
+| CFGUSDT     | 1.80M        | LOW        | 203.07K          | 27.97K           |           7.26 |           1.1523 | 2026-08-18 06:59 UTC |
+| VIRTUALUSDT | 2.89M        | LOW        | 94.08K           | 21.19K           |           4.44 |           1.0636 | 2026-08-18 06:59 UTC |
+| SOXLBUSDT   | 5.13M        | LOW        | 226.94K          | 72.17K           |           3.14 |           0.7386 | 2026-08-18 06:59 UTC |
