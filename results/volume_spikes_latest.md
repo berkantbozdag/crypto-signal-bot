@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-19 08:55 UTC**
+Son tarama: **2026-08-19 09:49 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SPYBUSDT  | 1.06M        | LOW        | 84.40K           | 11.82K           |           7.14 |           1.0231 | 2026-08-19 07:59 UTC |
-| CBRSBUSDT | 874.87K      | LOW        | 73.78K           | 14.83K           |           4.98 |           1.1096 | 2026-08-19 07:59 UTC |
-| UUSDT     | 18.31M       | OK         | 1.27M            | 306.76K          |           4.13 |           1.0002 | 2026-08-19 07:59 UTC |
-| ESPUSDT   | 663.22K      | LOW        | 113.14K          | 39.64K           |           2.85 |           1.2554 | 2026-08-19 07:59 UTC |
-| SNDKBUSDT | 65.57M       | OK         | 6.30M            | 2.42M            |           2.6  |           0.8315 | 2026-08-19 07:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| CFGUSDT    | 2.23M        | LOW        | 331.36K          | 45.82K           |           7.23 |           0.9584 | 2026-08-19 08:59 UTC |
+| GOOGLBUSDT | 1.98M        | LOW        | 210.93K          | 32.52K           |           6.49 |           0.9367 | 2026-08-19 08:59 UTC |
+| NVDABUSDT  | 617.35K      | LOW        | 87.50K           | 26.71K           |           3.28 |           1.0694 | 2026-08-19 08:59 UTC |
+| MSTRBUSDT  | 6.29M        | LOW        | 272.64K          | 126.17K          |           2.16 |           0.871  | 2026-08-19 08:59 UTC |
