@@ -1,8 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-20 04:53 UTC**
-
-Sonuç yok.
+Son tarama: **2026-08-20 05:43 UTC**
 
 
 Volume spike kriteri:
@@ -11,3 +9,11 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
+
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| NVDABUSDT | 1.25M        | LOW        | 140.82K          | 21.18K           |           6.65 |           1.0618 | 2026-08-20 04:59 UTC |
+| LITEBUSDT | 1.78M        | LOW        | 56.04K           | 13.29K           |           4.22 |           0.9902 | 2026-08-20 04:59 UTC |
+| MSTRBUSDT | 8.25M        | OK         | 140.68K          | 49.82K           |           2.82 |           1.0126 | 2026-08-20 04:59 UTC |
+| ALLOUSDT  | 91.01M       | OK         | 166.53K          | 61.86K           |           2.69 |           1.1954 | 2026-08-20 04:59 UTC |
+| SNDKBUSDT | 75.79M       | OK         | 329.18K          | 153.19K          |           2.15 |           0.8001 | 2026-08-20 04:59 UTC |
