@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-20 19:42 UTC**
+Son tarama: **2026-08-20 20:44 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| GLWBUSDT   | 291.76K      | LOW        | 156.26K          | 5.73K            |          27.29 |           0.7745 | 2026-08-20 18:59 UTC |
-| MORPHOUSDT | 3.89M        | LOW        | 240.91K          | 93.07K           |           2.59 |           1.2488 | 2026-08-20 18:59 UTC |
-| SKYUSDT    | 2.29M        | LOW        | 50.28K           | 20.84K           |           2.41 |           0.8174 | 2026-08-20 18:59 UTC |
-| MSTRBUSDT  | 8.91M        | OK         | 250.49K          | 115.10K          |           2.18 |           1.0507 | 2026-08-20 18:59 UTC |
-| QQQBUSDT   | 3.76M        | LOW        | 139.41K          | 66.84K           |           2.09 |           0.9828 | 2026-08-20 18:59 UTC |
-| GOOGLBUSDT | 3.38M        | LOW        | 141.40K          | 70.36K           |           2.01 |           0.9309 | 2026-08-20 18:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| LITEBUSDT | 878.27K      | LOW        | 107.27K          | 11.49K           |           9.34 |           1.0287 | 2026-08-20 19:59 UTC |
+| INTCBUSDT | 1.56M        | LOW        | 138.46K          | 25.62K           |           5.4  |           0.6999 | 2026-08-20 19:59 UTC |
+| MUBUSDT   | 9.47M        | OK         | 883.20K          | 202.26K          |           4.37 |           0.9751 | 2026-08-20 19:59 UTC |
+| NBISBUSDT | 2.20M        | LOW        | 152.92K          | 47.69K           |           3.21 |           1.0192 | 2026-08-20 19:59 UTC |
+| TUTUSDT   | 14.80M       | OK         | 1.72M            | 710.31K          |           2.42 |           0.8669 | 2026-08-20 19:59 UTC |
+| TSLABUSDT | 2.02M        | LOW        | 62.83K           | 28.82K           |           2.18 |           0.8538 | 2026-08-20 19:59 UTC |
