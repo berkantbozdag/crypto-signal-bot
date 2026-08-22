@@ -1,8 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-22 03:56 UTC**
-
-Sonuç yok.
+Son tarama: **2026-08-22 04:46 UTC**
 
 
 Volume spike kriteri:
@@ -11,3 +9,16 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
+
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT   | 5.00M        | LOW        | 2.03M            | 3.77K            |         537.15 |           1.0002 | 2026-08-22 03:59 UTC |
+| METUSDT    | 2.28M        | LOW        | 305.29K          | 54.70K           |           5.58 |           0.5197 | 2026-08-22 03:59 UTC |
+| UUSDT      | 51.69M       | OK         | 5.07M            | 909.73K          |           5.57 |           0.9997 | 2026-08-22 03:59 UTC |
+| SOXLBUSDT  | 6.07M        | LOW        | 150.70K          | 29.20K           |           5.16 |           0.6127 | 2026-08-22 03:59 UTC |
+| TSLABUSDT  | 2.04M        | LOW        | 71.57K           | 14.75K           |           4.85 |           0.8938 | 2026-08-22 03:59 UTC |
+| SENTUSDT   | 1.01M        | LOW        | 63.41K           | 18.89K           |           3.36 |           0.5241 | 2026-08-22 03:59 UTC |
+| CRCLBUSDT  | 19.20M       | OK         | 533.79K          | 199.43K          |           2.68 |           1.1392 | 2026-08-22 03:59 UTC |
+| CFGUSDT    | 4.61M        | LOW        | 574.32K          | 260.91K          |           2.2  |           1.1135 | 2026-08-22 03:59 UTC |
+| ALLOUSDT   | 4.09M        | LOW        | 248.38K          | 118.12K          |           2.1  |           1.2841 | 2026-08-22 03:59 UTC |
+| MORPHOUSDT | 8.05M        | OK         | 424.62K          | 206.23K          |           2.06 |           1.2971 | 2026-08-22 03:59 UTC |
