@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-22 01:50 UTC**
+Son tarama: **2026-08-22 03:08 UTC**
 
 
 Volume spike kriteri:
@@ -10,13 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| REUSDT       | 144.72M      | OK         | 4.44M            | 938.83K          |           4.73 |           0.6048 | 2026-08-22 00:59 UTC |
-| QQQBUSDT     | 3.11M        | LOW        | 176.11K          | 39.49K           |           4.46 |           0.9869 | 2026-08-22 00:59 UTC |
-| SPYBUSDT     | 3.56M        | LOW        | 460.96K          | 109.42K          |           4.21 |           1.0204 | 2026-08-22 00:59 UTC |
-| MUBUSDT      | 8.50M        | OK         | 299.96K          | 79.90K           |           3.75 |           0.9674 | 2026-08-22 00:59 UTC |
-| AIGENSYNUSDT | 1.55M        | LOW        | 79.84K           | 24.14K           |           3.31 |           0.622  | 2026-08-22 00:59 UTC |
-| ZAMAUSDT     | 7.28M        | OK         | 704.29K          | 264.75K          |           2.66 |           1.8094 | 2026-08-22 00:59 UTC |
-| VIRTUALUSDT  | 10.75M       | OK         | 581.16K          | 224.32K          |           2.59 |           1.3665 | 2026-08-22 00:59 UTC |
-| PUMPUSDT     | 53.76M       | OK         | 2.64M            | 1.12M            |           2.35 |           0.5591 | 2026-08-22 00:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| QCOMBUSDT | 244.19K      | LOW        | 58.49K           | 353              |         165.86 |           0.8415 | 2026-08-22 02:59 UTC |
+| AWEUSDT   | 383.04K      | LOW        | 95.46K           | 1.73K            |          55.04 |           0.9808 | 2026-08-22 02:59 UTC |
+| INTCBUSDT | 2.06M        | LOW        | 76.25K           | 5.45K            |          13.99 |           0.6828 | 2026-08-22 02:59 UTC |
+| BFUSDUSDT | 5.56M        | LOW        | 112.95K          | 18.46K           |           6.12 |           0.9998 | 2026-08-22 02:59 UTC |
+| ATUSDT    | 1.19M        | LOW        | 81.11K           | 16.86K           |           4.81 |           0.7688 | 2026-08-22 02:59 UTC |
+| NVDABUSDT | 2.71M        | LOW        | 92.88K           | 20.46K           |           4.54 |           1.0458 | 2026-08-22 02:59 UTC |
+| SPCXBUSDT | 23.48M       | OK         | 584.29K          | 148.48K          |           3.94 |           0.8077 | 2026-08-22 02:59 UTC |
+| SKYUSDT   | 3.44M        | LOW        | 247.09K          | 96.47K           |           2.56 |           0.8926 | 2026-08-22 02:59 UTC |
+| MSTRBUSDT | 10.13M       | OK         | 424.46K          | 190.52K          |           2.23 |           1.1452 | 2026-08-22 02:59 UTC |
