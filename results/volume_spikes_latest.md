@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-22 17:34 UTC**
+Son tarama: **2026-08-22 18:46 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 3.24M        | LOW        | 181.08K          | 32.03K           |           5.65 |           1      | 2026-08-22 16:59 UTC |
-| 币安人生USDT  | 9.35M        | OK         | 313.38K          | 62.17K           |           5.04 |           3.6521 | 2026-08-22 16:59 UTC |
-| SNDKBUSDT | 5.51M        | LOW        | 125.95K          | 29.98K           |           4.2  |           0.7946 | 2026-08-22 16:59 UTC |
-| REUSDT    | 115.85M      | OK         | 12.82M           | 3.19M            |           4.02 |           0.5182 | 2026-08-22 16:59 UTC |
-| SPCXBUSDT | 8.77M        | OK         | 311.80K          | 128.45K          |           2.43 |           0.801  | 2026-08-22 16:59 UTC |
-| ZAMAUSDT  | 31.98M       | OK         | 551.24K          | 265.61K          |           2.08 |           1.8719 | 2026-08-22 16:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| GRAMUSDT | 17.33M       | OK         | 1.40M            | 267.41K          |           5.23 |           0.8234 | 2026-08-22 17:59 UTC |
