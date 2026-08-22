@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-22 20:40 UTC**
+Son tarama: **2026-08-22 21:35 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SNDKBUSDT  | 4.39M        | LOW        | 89.06K           | 12.67K           |           7.03 |           0.7953 | 2026-08-22 19:59 UTC |
-| MORPHOUSDT | 6.07M        | LOW        | 124.28K          | 31.61K           |           3.93 |           1.1973 | 2026-08-22 19:59 UTC |
-| QQQBUSDT   | 4.52M        | LOW        | 170.03K          | 70.79K           |           2.4  |           0.9831 | 2026-08-22 19:59 UTC |
-| GRAMUSDT   | 17.51M       | OK         | 494.42K          | 210.54K          |           2.35 |           0.8229 | 2026-08-22 19:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| CRCLBUSDT | 7.22M        | OK         | 721.03K          | 39.25K           |          18.37 |           1.0929 | 2026-08-22 20:59 UTC |
+| SKYUSDT   | 3.19M        | LOW        | 109.79K          | 28.35K           |           3.87 |           0.866  | 2026-08-22 20:59 UTC |
+| TUTUSDT   | 46.00M       | OK         | 13.36M           | 3.56M            |           3.76 |           1.742  | 2026-08-22 20:59 UTC |
+| PUMPUSDT  | 111.21M      | OK         | 4.39M            | 1.45M            |           3.04 |           0.6626 | 2026-08-22 20:59 UTC |
