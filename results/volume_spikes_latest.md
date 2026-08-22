@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-22 13:00 UTC**
+Son tarama: **2026-08-22 13:45 UTC**
 
 
 Volume spike kriteri:
@@ -12,7 +12,8 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| MSFTBUSDT | 369.99K      | LOW        | 114.85K          | 20.47K           |           5.61 |           1.2302 | 2026-08-22 11:59 UTC |
-| SPYBUSDT  | 3.92M        | LOW        | 125.49K          | 34.48K           |           3.64 |           1.0183 | 2026-08-22 11:59 UTC |
-| QQQBUSDT  | 4.10M        | LOW        | 189.85K          | 69.11K           |           2.75 |           0.9826 | 2026-08-22 11:59 UTC |
-| TUTUSDT   | 30.30M       | OK         | 1.50M            | 604.37K          |           2.49 |           1.0978 | 2026-08-22 11:59 UTC |
+| MSTRBUSDT | 6.73M        | LOW        | 108.19K          | 20.95K           |           5.17 |           1.1266 | 2026-08-22 12:59 UTC |
+| SPCXBUSDT | 17.86M       | OK         | 184.20K          | 54.88K           |           3.36 |           0.8043 | 2026-08-22 12:59 UTC |
+| CRCLBUSDT | 15.64M       | OK         | 96.20K           | 34.55K           |           2.78 |           1.0902 | 2026-08-22 12:59 UTC |
+| SKYUSDT   | 3.04M        | LOW        | 75.56K           | 32.70K           |           2.31 |           0.8935 | 2026-08-22 12:59 UTC |
+| PUMPUSDT  | 98.42M       | OK         | 7.92M            | 3.47M            |           2.28 |           0.6387 | 2026-08-22 12:59 UTC |
