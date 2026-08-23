@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-23 03:18 UTC**
+Son tarama: **2026-08-23 04:52 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| TSLABUSDT   | 1.02M        | LOW        | 182.84K          | 3.36K            |          54.48 |           0.8925 | 2026-08-23 02:59 UTC |
-| SOXLBUSDT   | 2.03M        | LOW        | 64.83K           | 15.73K           |           4.12 |           0.6097 | 2026-08-23 02:59 UTC |
-| ATUSDT      | 1.30M        | LOW        | 88.22K           | 24.66K           |           3.58 |           0.6894 | 2026-08-23 02:59 UTC |
-| KITEUSDT    | 2.83M        | LOW        | 146.03K          | 50.69K           |           2.88 |           1.2442 | 2026-08-23 02:59 UTC |
-| VIRTUALUSDT | 9.68M        | OK         | 291.09K          | 130.35K          |           2.23 |           1.2513 | 2026-08-23 02:59 UTC |
-| TUTUSDT     | 65.20M       | OK         | 4.24M            | 2.06M            |           2.06 |           1.6657 | 2026-08-23 02:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT | 3.34M        | LOW        | 179.97K          | 12.18K           |          14.77 |           1.0001 | 2026-08-23 03:59 UTC |
+| XAUTUSDT  | 9.32M        | OK         | 333.98K          | 108.82K          |           3.07 |           1.0207 | 2026-08-23 03:59 UTC |
+| ZAMAUSDT  | 27.90M       | OK         | 871.79K          | 291.33K          |           2.99 |           1.7958 | 2026-08-23 03:59 UTC |
+| REUSDT    | 126.72M      | OK         | 9.76M            | 4.04M            |           2.41 |           0.518  | 2026-08-23 03:59 UTC |
+| CRCLBUSDT | 5.51M        | LOW        | 253.43K          | 119.27K          |           2.12 |           1.0846 | 2026-08-23 03:59 UTC |
