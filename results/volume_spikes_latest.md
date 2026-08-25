@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-25 16:53 UTC**
+Son tarama: **2026-08-25 17:44 UTC**
 
 
 Volume spike kriteri:
@@ -12,5 +12,5 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 3.83M        | LOW        | 630.53K          | 12.20K           |          51.67 |           1.0002 | 2026-08-25 15:59 UTC |
-| AMDBUSDT  | 465.45K      | LOW        | 67.99K           | 27.78K           |           2.45 |           0.8989 | 2026-08-25 15:59 UTC |
+| INTCBUSDT | 2.12M        | LOW        | 168.06K          | 71.29K           |           2.36 |           0.6656 | 2026-08-25 16:59 UTC |
+| MUBUSDT   | 9.39M        | OK         | 250.36K          | 124.30K          |           2.01 |           0.9289 | 2026-08-25 16:59 UTC |
