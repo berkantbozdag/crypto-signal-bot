@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-27 20:26 UTC**
+Son tarama: **2026-08-28 05:22 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| LITEBUSDT | 836.73K      | LOW        | 70.82K           | 20.26K           |           3.5  |           1.106  | 2026-08-27 19:59 UTC |
-| CBRSBUSDT | 826.88K      | LOW        | 127.16K          | 42.65K           |           2.98 |           0.9286 | 2026-08-27 19:59 UTC |
-| MUBUSDT   | 12.78M       | OK         | 947.05K          | 397.13K          |           2.38 |           0.9302 | 2026-08-27 19:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| GOOGLBUSDT  | 7.39M        | OK         | 701.24K          | 26.06K           |          26.91 |           0.9319 | 2026-08-28 04:59 UTC |
+| ATUSDT      | 1.08M        | LOW        | 83.81K           | 9.35K            |           8.97 |           0.6512 | 2026-08-28 04:59 UTC |
+| VIRTUALUSDT | 8.43M        | OK         | 423.45K          | 134.99K          |           3.14 |           1.3138 | 2026-08-28 04:59 UTC |
+| 币安人生USDT    | 1.66M        | LOW        | 53.47K           | 18.40K           |           2.91 |           3.5875 | 2026-08-28 04:59 UTC |
+| UUSDT       | 27.40M       | OK         | 1.87M            | 842.91K          |           2.21 |           0.9995 | 2026-08-28 04:59 UTC |
