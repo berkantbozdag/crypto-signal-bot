@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-29 18:27 UTC**
+Son tarama: **2026-08-29 21:47 UTC**
 
 
 Volume spike kriteri:
@@ -12,6 +12,5 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| CRCLBUSDT | 4.91M        | LOW        | 145.19K          | 28.67K           |           5.06 |           1.0994 | 2026-08-29 17:59 UTC |
-| MSTRBUSDT | 2.53M        | LOW        | 78.40K           | 19.34K           |           4.05 |           1.205  | 2026-08-29 17:59 UTC |
-| XAUTUSDT  | 19.25M       | OK         | 403.08K          | 168.32K          |           2.39 |           0.9929 | 2026-08-29 17:59 UTC |
+| SKHYBUSDT | 753.27K      | LOW        | 177.88K          | 13.57K           |          13.11 |           0.9611 | 2026-08-29 20:59 UTC |
+| UUSDT     | 12.75M       | OK         | 957.10K          | 240.67K          |           3.98 |           0.9996 | 2026-08-29 20:59 UTC |
