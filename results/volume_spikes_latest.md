@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-30 00:15 UTC**
+Son tarama: **2026-08-30 06:38 UTC**
 
 
 Volume spike kriteri:
@@ -12,8 +12,8 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT  | 1.97M        | LOW        | 360.71K          | 3.60K            |         100.16 |           1.0011 | 2026-08-29 23:59 UTC |
-| CFGUSDT   | 894.38K      | LOW        | 122.26K          | 14.83K           |           8.24 |           0.8667 | 2026-08-29 23:59 UTC |
-| XAUTUSDT  | 9.70M        | OK         | 1.00M            | 131.27K          |           7.65 |           0.993  | 2026-08-29 23:59 UTC |
-| PUMPUSDT  | 27.59M       | OK         | 1.78M            | 588.43K          |           3.02 |           0.6738 | 2026-08-29 23:59 UTC |
-| CRCLBUSDT | 3.25M        | LOW        | 89.57K           | 38.70K           |           2.31 |           1.099  | 2026-08-29 23:59 UTC |
+| HOODBUSDT | 262.35K      | LOW        | 79.54K           | 1.02K            |          77.67 |           0.9388 | 2026-08-30 05:59 UTC |
+| ATUSDT    | 1.07M        | LOW        | 77.91K           | 2.14K            |          36.45 |           0.6369 | 2026-08-30 05:59 UTC |
+| QQQBUSDT  | 1.37M        | LOW        | 95.21K           | 17.45K           |           5.46 |           0.9917 | 2026-08-30 05:59 UTC |
+| SPCXBUSDT | 1.60M        | LOW        | 98.80K           | 28.85K           |           3.42 |           0.8348 | 2026-08-30 05:59 UTC |
+| SNDKBUSDT | 1.87M        | LOW        | 96.29K           | 35.23K           |           2.73 |           0.7463 | 2026-08-30 05:59 UTC |
