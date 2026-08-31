@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-31 05:26 UTC**
+Son tarama: **2026-08-31 13:36 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 2.14M        | LOW        | 465.85K          | 23.86K           |          19.53 |           1.0002 | 2026-08-31 04:59 UTC |
-| ATUSDT    | 1.32M        | LOW        | 89.64K           | 8.60K            |          10.42 |           0.645  | 2026-08-31 04:59 UTC |
-| DRAMBUSDT | 1.03M        | LOW        | 64.21K           | 14.45K           |           4.44 |           0.8563 | 2026-08-31 04:59 UTC |
-| INTCBUSDT | 1.81M        | LOW        | 118.56K          | 32.38K           |           3.66 |           0.6839 | 2026-08-31 04:59 UTC |
-| SPCXBUSDT | 3.29M        | LOW        | 135.22K          | 41.12K           |           3.29 |           0.8342 | 2026-08-31 04:59 UTC |
-| TSLABUSDT | 1.68M        | LOW        | 99.67K           | 32.08K           |           3.11 |           0.8581 | 2026-08-31 04:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| HOODBUSDT  | 1.20M        | LOW        | 202.33K          | 2.62K            |          77.2  |           0.9076 | 2026-08-31 12:59 UTC |
+| SPYBUSDT   | 884.73K      | LOW        | 103.83K          | 16.35K           |           6.35 |           1.0216 | 2026-08-31 12:59 UTC |
+| MORPHOUSDT | 3.08M        | LOW        | 247.30K          | 59.62K           |           4.15 |           1.3788 | 2026-08-31 12:59 UTC |
+| AVGOBUSDT  | 328.79K      | LOW        | 69.64K           | 17.25K           |           4.04 |           0.955  | 2026-08-31 12:59 UTC |
+| SOXLBUSDT  | 3.79M        | LOW        | 213.43K          | 58.81K           |           3.63 |           0.5865 | 2026-08-31 12:59 UTC |
+| MRVLBUSDT  | 1.11M        | LOW        | 72.58K           | 27.83K           |           2.61 |           0.9737 | 2026-08-31 12:59 UTC |
+| SNDKBUSDT  | 21.98M       | OK         | 691.87K          | 271.20K          |           2.55 |           0.7496 | 2026-08-31 12:59 UTC |
+| 币安人生USDT   | 1.59M        | LOW        | 84.66K           | 37.96K           |           2.23 |           3.4412 | 2026-08-31 12:59 UTC |
+| XAUTUSDT   | 40.12M       | OK         | 1.03M            | 483.27K          |           2.13 |           0.9884 | 2026-08-31 12:59 UTC |
