@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-08-31 20:04 UTC**
+Son tarama: **2026-08-31 23:50 UTC**
 
 
 Volume spike kriteri:
@@ -10,18 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| GOOGLBUSDT | 1.55M        | LOW        | 219.92K          | 5.68K            |          38.74 |           0.9275 | 2026-08-31 19:59 UTC |
-| COINBUSDT  | 823.03K      | LOW        | 113.45K          | 3.64K            |          31.13 |           1.1141 | 2026-08-31 19:59 UTC |
-| CBRSBUSDT  | 482.27K      | LOW        | 106.33K          | 9.29K            |          11.45 |           0.9212 | 2026-08-31 19:59 UTC |
-| QQQBUSDT   | 4.20M        | LOW        | 498.86K          | 46.99K           |          10.62 |           0.9902 | 2026-08-31 19:59 UTC |
-| SNDKBUSDT  | 40.29M       | OK         | 6.68M            | 691.87K          |           9.66 |           0.7812 | 2026-08-31 19:59 UTC |
-| SPCXBUSDT  | 11.59M       | OK         | 1.01M            | 119.11K          |           8.47 |           0.853  | 2026-08-31 19:59 UTC |
-| LITEBUSDT  | 1.56M        | LOW        | 194.96K          | 32.51K           |           6    |           1.0724 | 2026-08-31 19:59 UTC |
-| NBISBUSDT  | 959.25K      | LOW        | 86.10K           | 17.96K           |           4.79 |           0.9576 | 2026-08-31 19:59 UTC |
-| METABUSDT  | 427.28K      | LOW        | 56.99K           | 13.09K           |           4.35 |           0.9789 | 2026-08-31 19:59 UTC |
-| NVDABUSDT  | 1.59M        | LOW        | 155.25K          | 45.60K           |           3.4  |           1.0699 | 2026-08-31 19:59 UTC |
-| GRAMUSDT   | 15.94M       | OK         | 952.56K          | 280.75K          |           3.39 |           0.7787 | 2026-08-31 19:59 UTC |
-| CRCLBUSDT  | 19.62M       | OK         | 1.08M            | 358.11K          |           3.02 |           1.1916 | 2026-08-31 19:59 UTC |
-| TSLABUSDT  | 3.28M        | LOW        | 149.66K          | 71.14K           |           2.1  |           0.9072 | 2026-08-31 19:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| MORPHOUSDT  | 6.11M        | LOW        | 1.15M            | 236.58K          |           4.84 |           1.3363 | 2026-08-31 22:59 UTC |
+| VIRTUALUSDT | 2.59M        | LOW        | 186.78K          | 80.99K           |           2.31 |           1.2883 | 2026-08-31 22:59 UTC |
