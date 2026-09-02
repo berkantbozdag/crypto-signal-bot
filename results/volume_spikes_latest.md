@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-01 21:49 UTC**
+Son tarama: **2026-09-02 00:06 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| TSLABUSDT  | 1.24M        | LOW        | 75.61K           | 9.43K            |           8.01 |           0.875  | 2026-09-01 20:59 UTC |
-| SKHYBUSDT  | 4.02M        | LOW        | 111.56K          | 36.76K           |           3.04 |           0.9391 | 2026-09-01 20:59 UTC |
-| SOXLBUSDT  | 6.90M        | LOW        | 354.46K          | 137.59K          |           2.58 |           0.5405 | 2026-09-01 20:59 UTC |
-| MORPHOUSDT | 4.89M        | LOW        | 132.69K          | 64.67K           |           2.05 |           1.3592 | 2026-09-01 20:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| NVDABUSDT | 1.41M        | LOW        | 70.06K           | 5.99K            |          11.7  |           1.0551 | 2026-09-01 23:59 UTC |
+| CFGUSDT   | 1.85M        | LOW        | 295.67K          | 37.90K           |           7.8  |           0.7821 | 2026-09-01 23:59 UTC |
+| XAUTUSDT  | 35.65M       | OK         | 2.44M            | 583.74K          |           4.18 |           0.9653 | 2026-09-01 23:59 UTC |
+| INTCBUSDT | 1.44M        | LOW        | 50.75K           | 13.29K           |           3.82 |           0.6752 | 2026-09-01 23:59 UTC |
+| SKYUSDT   | 5.67M        | LOW        | 79.62K           | 28.84K           |           2.76 |           0.9697 | 2026-09-01 23:59 UTC |
+| UUSDT     | 48.85M       | OK         | 546.65K          | 253.67K          |           2.15 |           0.9997 | 2026-09-01 23:59 UTC |
