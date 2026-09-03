@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-03 00:11 UTC**
+Son tarama: **2026-09-03 04:23 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,15 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ZAMAUSDT | 2.89M        | LOW        | 283.56K          | 78.56K           |           3.61 |           1.8639 | 2026-09-02 23:59 UTC |
-| 币安人生USDT | 1.22M        | LOW        | 95.83K           | 47.56K           |           2.02 |           3.5086 | 2026-09-02 23:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BABABUSDT | 286.04K      | LOW        | 85.78K           | 334              |         256.92 |           0.964  | 2026-09-03 03:59 UTC |
+| XUSDUSDT  | 5.25M        | LOW        | 100.58K          | 735              |         136.78 |           1.0001 | 2026-09-03 03:59 UTC |
+| QQQBUSDT  | 2.76M        | LOW        | 85.51K           | 4.96K            |          17.23 |           0.9817 | 2026-09-03 03:59 UTC |
+| AEROUSDT  | 1.28M        | LOW        | 171.76K          | 14.67K           |          11.71 |           1.0176 | 2026-09-03 03:59 UTC |
+| SOXLBUSDT | 6.62M        | LOW        | 163.86K          | 16.84K           |           9.73 |           0.5523 | 2026-09-03 03:59 UTC |
+| EWYBUSDT  | 419.11K      | LOW        | 80.30K           | 8.86K            |           9.06 |           0.8782 | 2026-09-03 03:59 UTC |
+| SNXXBUSDT | 4.47M        | LOW        | 59.73K           | 12.34K           |           4.84 |           0.7851 | 2026-09-03 03:59 UTC |
+| UUSDT     | 24.00M       | OK         | 799.72K          | 167.17K          |           4.78 |           0.9996 | 2026-09-03 03:59 UTC |
+| XAUTUSDT  | 25.27M       | OK         | 1.16M            | 272.61K          |           4.26 |           0.9855 | 2026-09-03 03:59 UTC |
+| HOODBUSDT | 1.35M        | LOW        | 73.72K           | 19.82K           |           3.72 |           0.9703 | 2026-09-03 03:59 UTC |
