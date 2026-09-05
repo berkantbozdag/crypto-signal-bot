@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-05 12:43 UTC**
+Son tarama: **2026-09-05 16:04 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| GOOGLBUSDT  | 738.31K      | LOW        | 71.88K           | 4.39K            |          16.39 |           0.9266 | 2026-09-05 11:59 UTC |
-| TUTUSDT     | 24.71M       | OK         | 5.35M            | 859.22K          |           6.23 |           0.6886 | 2026-09-05 11:59 UTC |
-| FFUSDT      | 5.26M        | LOW        | 245.80K          | 44.05K           |           5.58 |           0.5845 | 2026-09-05 11:59 UTC |
-| VIRTUALUSDT | 4.47M        | LOW        | 384.31K          | 136.59K          |           2.81 |           1.284  | 2026-09-05 11:59 UTC |
-| KITEUSDT    | 1.51M        | LOW        | 84.99K           | 40.45K           |           2.1  |           1.4977 | 2026-09-05 11:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| HOODBUSDT | 530.56K      | LOW        | 72.92K           | 736              |          99.06 |           1.0799 | 2026-09-05 15:59 UTC |
+| 币安人生USDT  | 6.09M        | LOW        | 1.31M            | 143.57K          |           9.14 |           4.2145 | 2026-09-05 15:59 UTC |
+| TSLABUSDT | 1.66M        | LOW        | 168.98K          | 32.17K           |           5.25 |           0.8747 | 2026-09-05 15:59 UTC |
+| SPCXBUSDT | 4.87M        | LOW        | 356.73K          | 95.38K           |           3.74 |           0.8891 | 2026-09-05 15:59 UTC |
+| SNDKBUSDT | 16.02M       | OK         | 728.59K          | 228.73K          |           3.19 |           0.8784 | 2026-09-05 15:59 UTC |
+| ZAMAUSDT  | 2.14M        | LOW        | 149.38K          | 53.75K           |           2.78 |           1.7545 | 2026-09-05 15:59 UTC |
+| PUMPUSDT  | 22.81M       | OK         | 1.27M            | 619.45K          |           2.05 |           0.5389 | 2026-09-05 15:59 UTC |
