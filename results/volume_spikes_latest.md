@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-07 20:35 UTC**
+Son tarama: **2026-09-07 23:33 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,15 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| KORUBUSDT | 1.10M        | LOW        | 167.83K          | 15.29K           |          10.97 |           1.2895 | 2026-09-07 19:59 UTC |
-| FFUSDT    | 1.15M        | LOW        | 83.51K           | 41.75K           |           2    |           0.5957 | 2026-09-07 19:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SPCXBUSDT   | 2.30M        | LOW        | 214.67K          | 24.24K           |           8.86 |           0.8909 | 2026-09-07 22:59 UTC |
+| SKYUSDT     | 1.16M        | LOW        | 68.09K           | 10.06K           |           6.77 |           0.9086 | 2026-09-07 22:59 UTC |
+| SNDKBUSDT   | 3.69M        | LOW        | 87.56K           | 19.36K           |           4.52 |           0.8869 | 2026-09-07 22:59 UTC |
+| INTCBUSDT   | 1.27M        | LOW        | 74.21K           | 17.85K           |           4.16 |           0.7396 | 2026-09-07 22:59 UTC |
+| SOXLBUSDT   | 2.97M        | LOW        | 112.37K          | 27.70K           |           4.06 |           0.6405 | 2026-09-07 22:59 UTC |
+| CRCLBUSDT   | 7.89M        | OK         | 215.57K          | 53.70K           |           4.01 |           1.2718 | 2026-09-07 22:59 UTC |
+| ZAMAUSDT    | 5.84M        | LOW        | 363.58K          | 91.56K           |           3.97 |           1.7597 | 2026-09-07 22:59 UTC |
+| KITEUSDT    | 1.69M        | LOW        | 112.96K          | 32.16K           |           3.51 |           1.371  | 2026-09-07 22:59 UTC |
+| MORPHOUSDT  | 4.22M        | LOW        | 243.29K          | 88.68K           |           2.74 |           1.3034 | 2026-09-07 22:59 UTC |
+| VIRTUALUSDT | 9.01M        | OK         | 162.70K          | 79.21K           |           2.05 |           1.3393 | 2026-09-07 22:59 UTC |
