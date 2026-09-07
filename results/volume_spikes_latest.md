@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-07 16:28 UTC**
+Son tarama: **2026-09-07 20:35 UTC**
 
 
 Volume spike kriteri:
@@ -10,20 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| DRAMBUSDT  | 552.37K      | LOW        | 292.70K          | 3.87K            |          75.59 |           0.9351 | 2026-09-07 15:59 UTC |
-| AEROUSDT   | 4.88M        | LOW        | 2.31M            | 34.41K           |          67.2  |           1.2024 | 2026-09-07 15:59 UTC |
-| AXTIBUSDT  | 592.92K      | LOW        | 81.13K           | 5.51K            |          14.71 |           1.155  | 2026-09-07 15:59 UTC |
-| GRAMUSDT   | 9.41M        | OK         | 3.96M            | 300.85K          |          13.15 |           0.7906 | 2026-09-07 15:59 UTC |
-| BFUSDUSDT  | 2.70M        | LOW        | 167.12K          | 15.76K           |          10.6  |           0.9999 | 2026-09-07 15:59 UTC |
-| SKYUSDT    | 1.04M        | LOW        | 297.25K          | 33.47K           |           8.88 |           0.8989 | 2026-09-07 15:59 UTC |
-| TSLABUSDT  | 903.42K      | LOW        | 72.61K           | 8.85K            |           8.2  |           0.8744 | 2026-09-07 15:59 UTC |
-| ZAMAUSDT   | 7.00M        | OK         | 589.14K          | 85.88K           |           6.86 |           1.7708 | 2026-09-07 15:59 UTC |
-| MORPHOUSDT | 4.74M        | LOW        | 562.83K          | 105.70K          |           5.32 |           1.3082 | 2026-09-07 15:59 UTC |
-| 币安人生USDT   | 2.17M        | LOW        | 188.60K          | 38.98K           |           4.84 |           3.6958 | 2026-09-07 15:59 UTC |
-| SPCXBUSDT  | 2.13M        | LOW        | 238.81K          | 58.25K           |           4.1  |           0.8887 | 2026-09-07 15:59 UTC |
-| ALLOUSDT   | 1.40M        | LOW        | 155.94K          | 42.99K           |           3.63 |           1.0153 | 2026-09-07 15:59 UTC |
-| INTCBUSDT  | 1.13M        | LOW        | 110.77K          | 44.88K           |           2.47 |           0.7409 | 2026-09-07 15:59 UTC |
-| XAUTUSDT   | 14.05M       | OK         | 598.02K          | 278.39K          |           2.15 |           0.9827 | 2026-09-07 15:59 UTC |
-| SNDKBUSDT  | 4.44M        | LOW        | 94.07K           | 44.56K           |           2.11 |           0.8895 | 2026-09-07 15:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| KORUBUSDT | 1.10M        | LOW        | 167.83K          | 15.29K           |          10.97 |           1.2895 | 2026-09-07 19:59 UTC |
+| FFUSDT    | 1.15M        | LOW        | 83.51K           | 41.75K           |           2    |           0.5957 | 2026-09-07 19:59 UTC |
