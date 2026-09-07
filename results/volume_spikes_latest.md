@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-07 04:30 UTC**
+Son tarama: **2026-09-07 10:13 UTC**
 
 
 Volume spike kriteri:
@@ -10,15 +10,15 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| XUSDUSDT  | 2.03M        | LOW        | 120.39K          | 3.23K            |          37.23 |           1.0002 | 2026-09-07 03:59 UTC |
-| CFGUSDT   | 5.25M        | LOW        | 2.43M            | 105.02K          |          23.13 |           0.909  | 2026-09-07 03:59 UTC |
-| INTCBUSDT | 592.05K      | LOW        | 51.99K           | 3.97K            |          13.09 |           0.7509 | 2026-09-07 03:59 UTC |
-| BFUSDUSDT | 4.44M        | LOW        | 148.43K          | 16.07K           |           9.24 |           0.9995 | 2026-09-07 03:59 UTC |
-| CHIPUSDT  | 5.31M        | LOW        | 186.94K          | 40.72K           |           4.59 |           0.5522 | 2026-09-07 03:59 UTC |
-| MSTRBUSDT | 6.31M        | LOW        | 1.42M            | 349.69K          |           4.06 |           1.3524 | 2026-09-07 03:59 UTC |
-| EWYBUSDT  | 462.30K      | LOW        | 60.49K           | 15.17K           |           3.99 |           0.9228 | 2026-09-07 03:59 UTC |
-| SOXLBUSDT | 4.07M        | LOW        | 145.38K          | 49.50K           |           2.94 |           0.652  | 2026-09-07 03:59 UTC |
-| UUSDT     | 16.76M       | OK         | 1.33M            | 469.21K          |           2.82 |           0.9994 | 2026-09-07 03:59 UTC |
-| KITEUSDT  | 968.79K      | LOW        | 54.33K           | 25.41K           |           2.14 |           1.447  | 2026-09-07 03:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| MUBUSDT     | 3.92M        | LOW        | 458.33K          | 38.04K           |          12.05 |           1.0466 | 2026-09-07 09:59 UTC |
+| SPYBUSDT    | 569.15K      | LOW        | 74.58K           | 16.44K           |           4.54 |           1.0247 | 2026-09-07 09:59 UTC |
+| SKHYBUSDT   | 1.57M        | LOW        | 137.89K          | 34.29K           |           4.02 |           1.0589 | 2026-09-07 09:59 UTC |
+| ESPUSDT     | 936.36K      | LOW        | 84.50K           | 23.76K           |           3.56 |           1.5186 | 2026-09-07 09:59 UTC |
+| CHIPUSDT    | 5.35M        | LOW        | 605.57K          | 186.94K          |           3.24 |           0.5174 | 2026-09-07 09:59 UTC |
+| KITEUSDT    | 1.28M        | LOW        | 172.27K          | 54.33K           |           3.17 |           1.3952 | 2026-09-07 09:59 UTC |
+| PUMPUSDT    | 38.79M       | OK         | 1.81M            | 673.95K          |           2.68 |           0.5469 | 2026-09-07 09:59 UTC |
+| VIRTUALUSDT | 9.60M        | OK         | 596.36K          | 254.80K          |           2.34 |           1.3523 | 2026-09-07 09:59 UTC |
+| QQQBUSDT    | 4.32M        | LOW        | 137.08K          | 65.06K           |           2.11 |           0.9945 | 2026-09-07 09:59 UTC |
+| GRAMUSDT    | 5.34M        | LOW        | 300.85K          | 143.30K          |           2.1  |           0.8036 | 2026-09-07 09:59 UTC |
