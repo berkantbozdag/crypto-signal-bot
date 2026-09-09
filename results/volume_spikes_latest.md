@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-08 21:54 UTC**
+Son tarama: **2026-09-09 00:10 UTC**
 
 
 Volume spike kriteri:
@@ -10,13 +10,7 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AXTIBUSDT | 865.71K      | LOW        | 98.03K           | 12.07K           |           8.12 |           1.2235 | 2026-09-08 20:59 UTC |
-| UUSDT     | 20.83M       | OK         | 2.96M            | 372.76K          |           7.95 |           0.9994 | 2026-09-08 20:59 UTC |
-| SOXLBUSDT | 4.52M        | LOW        | 155.38K          | 23.00K           |           6.76 |           0.636  | 2026-09-08 20:59 UTC |
-| QQQBUSDT  | 7.56M        | OK         | 91.08K           | 17.38K           |           5.24 |           0.9924 | 2026-09-08 20:59 UTC |
-| XAUTUSDT  | 14.84M       | OK         | 1.16M            | 275.16K          |           4.22 |           0.9724 | 2026-09-08 20:59 UTC |
-| FFUSDT    | 13.27M       | OK         | 1.05M            | 338.57K          |           3.1  |           0.7466 | 2026-09-08 20:59 UTC |
-| MUBUSDT   | 7.01M        | OK         | 59.66K           | 25.16K           |           2.37 |           1.0095 | 2026-09-08 20:59 UTC |
-| AMDBUSDT  | 890.24K      | LOW        | 60.44K           | 29.62K           |           2.04 |           0.9532 | 2026-09-08 20:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| MUBUSDT  | 6.35M        | LOW        | 230.78K          | 59.66K           |           3.87 |           1.0098 | 2026-09-08 23:59 UTC |
+| ALLOUSDT | 1.24M        | LOW        | 96.88K           | 38.56K           |           2.51 |           1.0427 | 2026-09-08 23:59 UTC |
