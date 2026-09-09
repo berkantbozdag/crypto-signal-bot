@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-09 00:10 UTC**
+Son tarama: **2026-09-09 04:39 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,17 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| MUBUSDT  | 6.35M        | LOW        | 230.78K          | 59.66K           |           3.87 |           1.0098 | 2026-09-08 23:59 UTC |
-| ALLOUSDT | 1.24M        | LOW        | 96.88K           | 38.56K           |           2.51 |           1.0427 | 2026-09-08 23:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| XUSDUSDT    | 4.25M        | LOW        | 302.13K          | 6.72K            |          44.99 |           0.9999 | 2026-09-09 03:59 UTC |
+| SKHYBUSDT   | 6.54M        | LOW        | 134.27K          | 14.16K           |           9.48 |           1.1044 | 2026-09-09 03:59 UTC |
+| LITEBUSDT   | 1.25M        | LOW        | 59.64K           | 11.02K           |           5.41 |           1.1519 | 2026-09-09 03:59 UTC |
+| AAOIBUSDT   | 1.26M        | LOW        | 123.49K          | 27.37K           |           4.51 |           0.8916 | 2026-09-09 03:59 UTC |
+| BABABUSDT   | 622.25K      | LOW        | 50.55K           | 11.89K           |           4.25 |           0.9748 | 2026-09-09 03:59 UTC |
+| QQQBUSDT    | 6.77M        | LOW        | 161.05K          | 43.22K           |           3.73 |           0.994  | 2026-09-09 03:59 UTC |
+| CRCLBUSDT   | 10.60M       | OK         | 654.92K          | 210.74K          |           3.11 |           1.2104 | 2026-09-09 03:59 UTC |
+| TUTUSDT     | 7.25M        | OK         | 244.45K          | 102.18K          |           2.39 |           0.5945 | 2026-09-09 03:59 UTC |
+| MORPHOUSDT  | 3.22M        | LOW        | 109.91K          | 48.85K           |           2.25 |           1.2446 | 2026-09-09 03:59 UTC |
+| VIRTUALUSDT | 5.77M        | LOW        | 135.09K          | 63.42K           |           2.13 |           1.3025 | 2026-09-09 03:59 UTC |
+| UUSDT       | 19.81M       | OK         | 350.49K          | 166.95K          |           2.1  |           0.9995 | 2026-09-09 03:59 UTC |
+| GRAMUSDT    | 7.99M        | OK         | 303.70K          | 151.05K          |           2.01 |           0.7855 | 2026-09-09 03:59 UTC |
