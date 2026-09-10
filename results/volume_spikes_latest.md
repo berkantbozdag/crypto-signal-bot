@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-10 18:26 UTC**
+Son tarama: **2026-09-10 21:39 UTC**
 
 
 Volume spike kriteri:
@@ -10,6 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AEROUSDT | 3.54M        | LOW        | 526.07K          | 125.49K          |           4.19 |           1.1647 | 2026-09-10 17:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ORCLBUSDT | 1.13M        | LOW        | 777.01K          | 5.88K            |         132.08 |           1.2736 | 2026-09-10 20:59 UTC |
+| AXTIBUSDT | 694.84K      | LOW        | 86.63K           | 7.49K            |          11.57 |           1.1414 | 2026-09-10 20:59 UTC |
+| HOODBUSDT | 1.13M        | LOW        | 82.10K           | 14.05K           |           5.84 |           0.9885 | 2026-09-10 20:59 UTC |
+| AAOIBUSDT | 544.82K      | LOW        | 59.95K           | 10.81K           |           5.54 |           0.8246 | 2026-09-10 20:59 UTC |
+| MRVLBUSDT | 1.47M        | LOW        | 72.47K           | 22.89K           |           3.17 |           1.0216 | 2026-09-10 20:59 UTC |
+| MUBUSDT   | 5.49M        | LOW        | 108.24K          | 52.10K           |           2.08 |           0.9829 | 2026-09-10 20:59 UTC |
