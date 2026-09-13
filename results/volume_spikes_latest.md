@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-12 22:18 UTC**
+Son tarama: **2026-09-13 00:58 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SPCXBUSDT | 2.12M        | LOW        | 371.66K          | 90.04K           |           4.13 |           0.891  | 2026-09-12 21:59 UTC |
-| NVDABUSDT | 3.15M        | LOW        | 233.99K          | 80.94K           |           2.89 |           1.0586 | 2026-09-12 21:59 UTC |
-| UUSDT     | 8.22M        | OK         | 470.23K          | 183.26K          |           2.57 |           0.9996 | 2026-09-12 21:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SOXLBUSDT  | 1.10M        | LOW        | 171.95K          | 11.96K           |          14.37 |           0.6224 | 2026-09-12 23:59 UTC |
+| AEROUSDT   | 1.54M        | LOW        | 85.39K           | 26.93K           |           3.17 |           1.199  | 2026-09-12 23:59 UTC |
+| AAPLBUSDT  | 740.30K      | LOW        | 120.89K          | 40.62K           |           2.98 |           0.9794 | 2026-09-12 23:59 UTC |
+| MORPHOUSDT | 2.02M        | LOW        | 136.66K          | 47.48K           |           2.88 |           1.1729 | 2026-09-12 23:59 UTC |
