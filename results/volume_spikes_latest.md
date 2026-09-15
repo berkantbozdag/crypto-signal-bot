@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-15 13:33 UTC**
+Son tarama: **2026-09-15 18:14 UTC**
 
 
 Volume spike kriteri:
@@ -10,18 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AXTIBUSDT | 529.26K      | LOW        | 144.97K          | 3.71K            |          39.12 |           1.0246 | 2026-09-15 12:59 UTC |
-| SNXXBUSDT | 3.18M        | LOW        | 141.20K          | 7.33K            |          19.25 |           0.7834 | 2026-09-15 12:59 UTC |
-| SKHYBUSDT | 2.95M        | LOW        | 194.62K          | 21.89K           |           8.89 |           1.0475 | 2026-09-15 12:59 UTC |
-| ZAMAUSDT  | 3.64M        | LOW        | 211.85K          | 29.83K           |           7.1  |           1.6451 | 2026-09-15 12:59 UTC |
-| QQQBUSDT  | 5.11M        | LOW        | 286.82K          | 50.06K           |           5.73 |           0.9794 | 2026-09-15 12:59 UTC |
-| MUBUSDT   | 6.94M        | LOW        | 336.06K          | 60.53K           |           5.55 |           0.9393 | 2026-09-15 12:59 UTC |
-| UUSDT     | 43.90M       | OK         | 5.31M            | 1.01M            |           5.28 |           1.0003 | 2026-09-15 12:59 UTC |
-| SNDKBUSDT | 17.36M       | OK         | 608.00K          | 121.43K          |           5.01 |           0.7814 | 2026-09-15 12:59 UTC |
-| KORUBUSDT | 2.79M        | LOW        | 67.53K           | 16.04K           |           4.21 |           1.0158 | 2026-09-15 12:59 UTC |
-| INTCBUSDT | 992.41K      | LOW        | 66.64K           | 16.61K           |           4.01 |           0.7499 | 2026-09-15 12:59 UTC |
-| XAUTUSDT  | 15.92M       | OK         | 1.29M            | 368.55K          |           3.51 |           0.9568 | 2026-09-15 12:59 UTC |
-| LITEBUSDT | 1.65M        | LOW        | 62.86K           | 19.67K           |           3.2  |           0.9946 | 2026-09-15 12:59 UTC |
-| DRAMBUSDT | 889.73K      | LOW        | 140.53K          | 48.77K           |           2.88 |           0.854  | 2026-09-15 12:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SPCXBUSDT  | 11.56M       | OK         | 1.40M            | 175.60K          |           7.97 |           0.8542 | 2026-09-15 17:59 UTC |
+| GOOGLBUSDT | 7.82M        | OK         | 442.89K          | 91.05K           |           4.86 |           0.938  | 2026-09-15 17:59 UTC |
+| KITEUSDT   | 1.27M        | LOW        | 90.12K           | 21.39K           |           4.21 |           1.1993 | 2026-09-15 17:59 UTC |
+| CFGUSDT    | 1.48M        | LOW        | 79.89K           | 20.14K           |           3.97 |           0.7419 | 2026-09-15 17:59 UTC |
+| TSLABUSDT  | 2.48M        | LOW        | 320.20K          | 91.85K           |           3.49 |           0.8802 | 2026-09-15 17:59 UTC |
+| AVGOBUSDT  | 1.44M        | LOW        | 180.37K          | 52.16K           |           3.46 |           0.8714 | 2026-09-15 17:59 UTC |
+| SKYUSDT    | 1.29M        | LOW        | 74.68K           | 32.43K           |           2.3  |           0.8298 | 2026-09-15 17:59 UTC |
+| MSTRBUSDT  | 4.28M        | LOW        | 233.86K          | 104.62K          |           2.24 |           1.2378 | 2026-09-15 17:59 UTC |
+| NVDABUSDT  | 5.97M        | LOW        | 605.38K          | 296.68K          |           2.04 |           1.0283 | 2026-09-15 17:59 UTC |
