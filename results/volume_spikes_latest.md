@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-19 00:15 UTC**
+Son tarama: **2026-09-19 05:50 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| MORPHOUSDT | 7.29M        | OK         | 279.07K          | 81.12K           |           3.44 |           1.3332 | 2026-09-18 23:59 UTC |
-| 币安人生USDT   | 3.79M        | LOW        | 53.68K           | 21.28K           |           2.52 |           3.7023 | 2026-09-18 23:59 UTC |
-| UUSDT      | 31.06M       | OK         | 1.59M            | 635.48K          |           2.5  |           1.0002 | 2026-09-18 23:59 UTC |
-| ALLOUSDT   | 1.34M        | LOW        | 140.30K          | 62.50K           |           2.24 |           0.9499 | 2026-09-18 23:59 UTC |
-| AEROUSDT   | 6.52M        | LOW        | 619.09K          | 278.21K          |           2.23 |           1.3609 | 2026-09-18 23:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ESPUSDT     | 2.44M        | LOW        | 81.16K           | 21.05K           |           3.85 |           1.5338 | 2026-09-19 04:59 UTC |
+| BFUSDUSDT   | 2.84M        | LOW        | 237.41K          | 68.65K           |           3.46 |           0.9998 | 2026-09-19 04:59 UTC |
+| BABABUSDT   | 651.38K      | LOW        | 57.82K           | 17.31K           |           3.34 |           0.9945 | 2026-09-19 04:59 UTC |
+| VIRTUALUSDT | 4.48M        | LOW        | 178.26K          | 66.47K           |           2.68 |           1.2371 | 2026-09-19 04:59 UTC |
+| MORPHOUSDT  | 11.08M       | OK         | 596.70K          | 279.07K          |           2.14 |           1.4345 | 2026-09-19 04:59 UTC |
+| PUMPUSDT    | 25.26M       | OK         | 1.36M            | 643.28K          |           2.11 |           0.5504 | 2026-09-19 04:59 UTC |
