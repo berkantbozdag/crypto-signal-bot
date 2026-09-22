@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-22 18:50 UTC**
+Son tarama: **2026-09-22 22:05 UTC**
 
 
 Volume spike kriteri:
@@ -10,12 +10,8 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol          | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SOXLBUSDT       | 11.86M       | OK         | 3.57M            | 484.60K          |           7.36 |           0.767  | 2026-09-22 17:59 UTC |
-| METUSDT         | 2.45M        | LOW        | 358.47K          | 103.52K          |           3.46 |           0.6544 | 2026-09-22 17:59 UTC |
-| PLTRBUSDT       | 748.03K      | LOW        | 57.84K           | 18.89K           |           3.06 |           1.4183 | 2026-09-22 17:59 UTC |
-| TUTUSDT         | 7.94M        | OK         | 1.09M            | 394.45K          |           2.76 |           0.6354 | 2026-09-22 17:59 UTC |
-| BROCCOLI714USDT | 13.18M       | OK         | 1.48M            | 635.67K          |           2.33 |           0.5282 | 2026-09-22 17:59 UTC |
-| DRAMBUSDT       | 793.33K      | LOW        | 140.58K          | 62.07K           |           2.26 |           0.9695 | 2026-09-22 17:59 UTC |
-| ALLOUSDT        | 1.35M        | LOW        | 53.28K           | 25.60K           |           2.08 |           1.1023 | 2026-09-22 17:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SENTUSDT | 1.73M        | LOW        | 226.06K          | 43.09K           |           5.25 |           0.7878 | 2026-09-22 21:59 UTC |
+| ALLOUSDT | 1.47M        | LOW        | 226.37K          | 53.28K           |           4.25 |           1.1768 | 2026-09-22 21:59 UTC |
+| AMDBUSDT | 1.42M        | LOW        | 51.93K           | 25.06K           |           2.07 |           1.1687 | 2026-09-22 21:59 UTC |
