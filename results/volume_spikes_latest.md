@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-21 23:19 UTC**
+Son tarama: **2026-09-22 04:48 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,20 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SKYUSDT  | 2.67M        | LOW        | 200.78K          | 28.95K           |           6.93 |           0.941  | 2026-09-21 22:59 UTC |
-| 币安人生USDT | 2.09M        | LOW        | 103.95K          | 24.03K           |           4.32 |           3.6793 | 2026-09-21 22:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| MUUBUSDT  | 887.30K      | LOW        | 212.31K          | 12.62K           |          16.82 |           1.0736 | 2026-09-22 03:59 UTC |
+| BABABUSDT | 631.95K      | LOW        | 121.23K          | 14.32K           |           8.46 |           1.0245 | 2026-09-22 03:59 UTC |
+| SOXLBUSDT | 10.14M       | OK         | 728.10K          | 102.80K          |           7.08 |           0.7204 | 2026-09-22 03:59 UTC |
+| COINBUSDT | 1.53M        | LOW        | 86.40K           | 13.98K           |           6.18 |           1.1647 | 2026-09-22 03:59 UTC |
+| AVGOBUSDT | 1.40M        | LOW        | 62.86K           | 12.39K           |           5.07 |           0.9354 | 2026-09-22 03:59 UTC |
+| KORUBUSDT | 4.16M        | LOW        | 117.97K          | 28.58K           |           4.13 |           1.1842 | 2026-09-22 03:59 UTC |
+| OPGUSDT   | 8.46M        | OK         | 135.55K          | 32.91K           |           4.12 |           0.5652 | 2026-09-22 03:59 UTC |
+| XAUTUSDT  | 24.52M       | OK         | 1.45M            | 362.14K          |           4.01 |           0.9676 | 2026-09-22 03:59 UTC |
+| INTCBUSDT | 4.86M        | LOW        | 215.98K          | 55.15K           |           3.92 |           0.9185 | 2026-09-22 03:59 UTC |
+| CFGUSDT   | 2.73M        | LOW        | 102.55K          | 26.34K           |           3.89 |           0.9612 | 2026-09-22 03:59 UTC |
+| KITEUSDT  | 1.85M        | LOW        | 161.28K          | 44.78K           |           3.6  |           1.409  | 2026-09-22 03:59 UTC |
+| QQQBUSDT  | 6.23M        | LOW        | 246.64K          | 69.39K           |           3.55 |           1.0255 | 2026-09-22 03:59 UTC |
+| PUMPUSDT  | 27.55M       | OK         | 1.42M            | 504.60K          |           2.81 |           0.5984 | 2026-09-22 03:59 UTC |
+| UUSDT     | 52.17M       | OK         | 1.07M            | 406.46K          |           2.63 |           0.9999 | 2026-09-22 03:59 UTC |
+| CRCLBUSDT | 34.93M       | OK         | 973.96K          | 387.01K          |           2.52 |           1.1448 | 2026-09-22 03:59 UTC |
