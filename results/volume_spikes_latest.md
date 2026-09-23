@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-23 20:16 UTC**
+Son tarama: **2026-09-23 23:42 UTC**
 
 
 Volume spike kriteri:
@@ -12,9 +12,6 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AXTIBUSDT | 512.54K      | LOW        | 72.61K           | 8.29K            |           8.76 |           1.2865 | 2026-09-23 19:59 UTC |
-| AVGOBUSDT | 1.38M        | LOW        | 107.38K          | 35.66K           |           3.01 |           0.9123 | 2026-09-23 19:59 UTC |
-| SNXXBUSDT | 3.01M        | LOW        | 246.64K          | 101.91K          |           2.42 |           1.0309 | 2026-09-23 19:59 UTC |
-| SPCXBUSDT | 12.42M       | OK         | 1.38M            | 601.72K          |           2.29 |           0.8795 | 2026-09-23 19:59 UTC |
-| DRAMBUSDT | 1.01M        | LOW        | 65.05K           | 32.11K           |           2.03 |           0.946  | 2026-09-23 19:59 UTC |
-| SNDKBUSDT | 22.10M       | OK         | 1.79M            | 894.69K          |           2    |           0.906  | 2026-09-23 19:59 UTC |
+| CRCLBUSDT | 27.17M       | OK         | 1.97M            | 881.48K          |           2.23 |           1.1574 | 2026-09-23 22:59 UTC |
+| METUSDT   | 18.21M       | OK         | 300.98K          | 134.82K          |           2.23 |           0.7328 | 2026-09-23 22:59 UTC |
+| LITEBUSDT | 1.48M        | LOW        | 131.21K          | 65.18K           |           2.01 |           1.1001 | 2026-09-23 22:59 UTC |
