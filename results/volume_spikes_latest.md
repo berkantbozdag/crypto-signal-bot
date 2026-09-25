@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-24 22:23 UTC**
+Son tarama: **2026-09-25 01:30 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,14 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| RKLBBUSDT | 990.17K      | LOW        | 411.47K          | 25.72K           |          16    |           0.9439 | 2026-09-24 21:59 UTC |
-| KMNOUSDT  | 2.18M        | LOW        | 103.88K          | 15.30K           |           6.79 |           0.5221 | 2026-09-24 21:59 UTC |
-| FFUSDT    | 2.51M        | LOW        | 107.29K          | 28.21K           |           3.8  |           0.6883 | 2026-09-24 21:59 UTC |
+| symbol      | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| AAPLBUSDT   | 1.03M        | LOW        | 73.77K           | 5.96K            |          12.37 |           0.9886 | 2026-09-25 00:59 UTC |
+| NVDABUSDT   | 7.74M        | OK         | 197.92K          | 27.07K           |           7.31 |           1.088  | 2026-09-25 00:59 UTC |
+| MSTRBUSDT   | 9.29M        | OK         | 180.19K          | 57.94K           |           3.11 |           1.5275 | 2026-09-25 00:59 UTC |
+| UUSDT       | 24.00M       | OK         | 802.69K          | 313.21K          |           2.56 |           0.9998 | 2026-09-25 00:59 UTC |
+| SENTUSDT    | 1.66M        | LOW        | 62.82K           | 26.14K           |           2.4  |           0.7856 | 2026-09-25 00:59 UTC |
+| VIRTUALUSDT | 7.24M        | OK         | 401.56K          | 170.97K          |           2.35 |           1.3785 | 2026-09-25 00:59 UTC |
+| METUSDT     | 3.47M        | LOW        | 110.19K          | 47.23K           |           2.33 |           0.7071 | 2026-09-25 00:59 UTC |
+| KITEUSDT    | 1.66M        | LOW        | 125.00K          | 56.46K           |           2.21 |           1.4873 | 2026-09-25 00:59 UTC |
+| XAUTUSDT    | 29.83M       | OK         | 1.04M            | 515.63K          |           2.01 |           0.9552 | 2026-09-25 00:59 UTC |
