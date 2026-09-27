@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-26 22:47 UTC**
+Son tarama: **2026-09-27 01:26 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,17 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| SNDKBUSDT  | 1.10M        | LOW        | 55.71K           | 7.80K            |           7.14 |           0.8808 | 2026-09-26 21:59 UTC |
-| MORPHOUSDT | 4.56M        | LOW        | 306.47K          | 80.11K           |           3.83 |           1.4345 | 2026-09-26 21:59 UTC |
-| METUSDT    | 2.17M        | LOW        | 79.24K           | 35.34K           |           2.24 |           0.7503 | 2026-09-26 21:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ESPUSDT   | 3.48M        | LOW        | 1.34M            | 19.31K           |          69.17 |           1.6838 | 2026-09-27 00:59 UTC |
+| QQQBUSDT  | 1.12M        | LOW        | 71.74K           | 1.70K            |          42.2  |           1.0283 | 2026-09-27 00:59 UTC |
+| KMNOUSDT  | 4.69M        | LOW        | 375.40K          | 57.96K           |           6.48 |           0.6668 | 2026-09-27 00:59 UTC |
+| 币安人生USDT  | 740.58K      | LOW        | 77.49K           | 14.78K           |           5.24 |           3.5395 | 2026-09-27 00:59 UTC |
+| CRCLBUSDT | 7.50M        | OK         | 412.99K          | 97.38K           |           4.24 |           1.1106 | 2026-09-27 00:59 UTC |
+| SENTUSDT  | 2.02M        | LOW        | 68.29K           | 19.52K           |           3.5  |           0.8772 | 2026-09-27 00:59 UTC |
+| SPKUSDT   | 2.91M        | LOW        | 189.32K          | 56.80K           |           3.33 |           0.5793 | 2026-09-27 00:59 UTC |
+| MSTRBUSDT | 1.84M        | LOW        | 133.45K          | 47.16K           |           2.83 |           1.5    | 2026-09-27 00:59 UTC |
+| SPCXBUSDT | 2.68M        | LOW        | 83.74K           | 31.70K           |           2.64 |           0.8821 | 2026-09-27 00:59 UTC |
+| MUBUSDT   | 626.98K      | LOW        | 73.88K           | 28.66K           |           2.58 |           1.0929 | 2026-09-27 00:59 UTC |
+| CFGUSDT   | 1.98M        | LOW        | 109.50K          | 45.27K           |           2.42 |           1.2073 | 2026-09-27 00:59 UTC |
+| NIGHTUSDT | 1.59M        | LOW        | 51.58K           | 24.26K           |           2.13 |           0.5216 | 2026-09-27 00:59 UTC |
