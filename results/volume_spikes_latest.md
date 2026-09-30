@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-09-29 20:48 UTC**
+Son tarama: **2026-09-30 00:24 UTC**
 
 
 Volume spike kriteri:
@@ -12,4 +12,7 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| RKLBBUSDT | 303.54K      | LOW        | 51.35K           | 12.72K           |           4.04 |           0.8877 | 2026-09-29 19:59 UTC |
+| HUMAUSDT  | 3.39M        | LOW        | 1.07M            | 22.51K           |          47.47 |           0.5687 | 2026-09-29 23:59 UTC |
+| 币安人生USDT  | 2.77M        | LOW        | 122.66K          | 14.73K           |           8.33 |           3.6442 | 2026-09-29 23:59 UTC |
+| SPKUSDT   | 2.23M        | LOW        | 87.62K           | 31.62K           |           2.77 |           0.5512 | 2026-09-29 23:59 UTC |
+| SOXSBUSDT | 2.44M        | LOW        | 141.90K          | 67.02K           |           2.12 |           0.5219 | 2026-09-29 23:59 UTC |
