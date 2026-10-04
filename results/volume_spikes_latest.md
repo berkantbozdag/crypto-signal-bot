@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-04 00:35 UTC**
+Son tarama: **2026-10-04 06:52 UTC**
 
 
 Volume spike kriteri:
@@ -10,7 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| AMZNBUSDT  | 200.46K      | LOW        | 114.09K          | 1.59K            |          71.85 |           0.9319 | 2026-10-03 23:59 UTC |
-| GOOGLBUSDT | 233.55K      | LOW        | 106.49K          | 4.87K            |          21.85 |           0.938  | 2026-10-03 23:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| ESPUSDT   | 4.12M        | LOW        | 194.64K          | 3.87K            |          50.36 |           1.8597 | 2026-10-04 05:59 UTC |
+| HUMAUSDT  | 944.08K      | LOW        | 59.37K           | 5.68K            |          10.46 |           0.6624 | 2026-10-04 05:59 UTC |
+| SKYUSDT   | 3.71M        | LOW        | 631.72K          | 62.28K           |          10.14 |           1.2806 | 2026-10-04 05:59 UTC |
+| KITEUSDT  | 5.36M        | LOW        | 246.23K          | 26.52K           |           9.29 |           1.7569 | 2026-10-04 05:59 UTC |
+| UUSDT     | 14.24M       | OK         | 628.29K          | 97.29K           |           6.46 |           0.9994 | 2026-10-04 05:59 UTC |
+| CBRSBUSDT | 1.11M        | LOW        | 217.67K          | 42.34K           |           5.14 |           0.9212 | 2026-10-04 05:59 UTC |
+| SPKUSDT   | 1.27M        | LOW        | 74.25K           | 28.86K           |           2.57 |           0.5911 | 2026-10-04 05:59 UTC |
