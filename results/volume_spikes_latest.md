@@ -1,6 +1,8 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-07 17:51 UTC**
+Son tarama: **2026-10-07 23:08 UTC**
+
+Sonuç yok.
 
 
 Volume spike kriteri:
@@ -9,15 +11,3 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
-
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| IRENBUSDT | 791.37K      | LOW        | 132.18K          | 6.87K            |          19.24 |           0.9303 | 2026-10-07 16:59 UTC |
-| SKHYBUSDT | 3.96M        | LOW        | 524.07K          | 37.83K           |          13.85 |           1.0525 | 2026-10-07 16:59 UTC |
-| RKLBBUSDT | 590.69K      | LOW        | 56.54K           | 5.09K            |          11.12 |           0.9009 | 2026-10-07 16:59 UTC |
-| METUSDT   | 8.57M        | OK         | 1.39M            | 125.00K          |          11.11 |           0.8463 | 2026-10-07 16:59 UTC |
-| EWYBUSDT  | 793.34K      | LOW        | 83.34K           | 11.17K           |           7.46 |           0.8991 | 2026-10-07 16:59 UTC |
-| MSFTBUSDT | 534.06K      | LOW        | 54.94K           | 7.42K            |           7.4  |           1.3547 | 2026-10-07 16:59 UTC |
-| AVGOBUSDT | 2.20M        | LOW        | 202.66K          | 69.84K           |           2.9  |           0.9605 | 2026-10-07 16:59 UTC |
-| MUBUSDT   | 7.31M        | OK         | 829.09K          | 293.65K          |           2.82 |           1.0906 | 2026-10-07 16:59 UTC |
-| SNXXBUSDT | 4.83M        | LOW        | 290.27K          | 133.03K          |           2.18 |           0.9186 | 2026-10-07 16:59 UTC |
