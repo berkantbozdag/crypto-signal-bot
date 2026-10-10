@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-10 05:44 UTC**
+Son tarama: **2026-10-10 17:52 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| MORPHOUSDT | 2.43M        | LOW        | 105.52K          | 22.91K           |           4.61 |           1.2796 | 2026-10-10 04:59 UTC |
-| SKYUSDT    | 1.94M        | LOW        | 127.18K          | 31.51K           |           4.04 |           1.0318 | 2026-10-10 04:59 UTC |
-| KITEUSDT   | 1.61M        | LOW        | 66.92K           | 21.83K           |           3.07 |           1.4136 | 2026-10-10 04:59 UTC |
-| NIGHTUSDT  | 3.15M        | LOW        | 126.47K          | 44.19K           |           2.86 |           0.9915 | 2026-10-10 04:59 UTC |
-| GRAMUSDT   | 18.65M       | OK         | 424.19K          | 186.42K          |           2.28 |           0.8325 | 2026-10-10 04:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| CHIPUSDT | 4.55M        | LOW        | 1.25M            | 66.45K           |          18.74 |           0.5629 | 2026-10-10 16:59 UTC |
+| AEROUSDT | 8.06M        | OK         | 504.34K          | 133.14K          |           3.79 |           1.9062 | 2026-10-10 16:59 UTC |
+| SENTUSDT | 4.49M        | LOW        | 284.61K          | 96.07K           |           2.96 |           0.7451 | 2026-10-10 16:59 UTC |
+| PUMPUSDT | 15.98M       | OK         | 1.42M            | 510.12K          |           2.78 |           0.7467 | 2026-10-10 16:59 UTC |
+| CFGUSDT  | 1.36M        | LOW        | 90.39K           | 34.75K           |           2.6  |           1.0085 | 2026-10-10 16:59 UTC |
+| XAUTUSDT | 6.11M        | LOW        | 162.45K          | 76.11K           |           2.13 |           0.9324 | 2026-10-10 16:59 UTC |
