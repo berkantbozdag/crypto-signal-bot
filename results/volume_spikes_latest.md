@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-11 00:57 UTC**
+Son tarama: **2026-10-11 07:09 UTC**
 
 
 Volume spike kriteri:
@@ -10,9 +10,11 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| UUSDT    | 11.86M       | OK         | 268.16K          | 76.19K           |           3.52 |           1.0002 | 2026-10-10 23:59 UTC |
-| XAUTUSDT | 2.83M        | LOW        | 56.06K           | 16.51K           |           3.39 |           0.932  | 2026-10-10 23:59 UTC |
-| AEROUSDT | 11.22M       | OK         | 929.88K          | 379.81K          |           2.45 |           1.9801 | 2026-10-10 23:59 UTC |
-| SKYUSDT  | 1.67M        | LOW        | 85.40K           | 41.32K           |           2.07 |           1.0187 | 2026-10-10 23:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BFUSDUSDT | 500.78K      | LOW        | 53.85K           | 7.98K            |           6.75 |           0.9994 | 2026-10-11 06:59 UTC |
+| ZAMAUSDT  | 1.87M        | LOW        | 99.88K           | 17.89K           |           5.58 |           2.7208 | 2026-10-11 06:59 UTC |
+| GRAMUSDT  | 5.95M        | LOW        | 199.93K          | 53.23K           |           3.76 |           0.8212 | 2026-10-11 06:59 UTC |
+| 币安人生USDT  | 6.11M        | LOW        | 93.75K           | 29.21K           |           3.21 |           4.0646 | 2026-10-11 06:59 UTC |
+| SPCXBUSDT | 2.18M        | LOW        | 64.08K           | 20.94K           |           3.06 |           0.9725 | 2026-10-11 06:59 UTC |
+| METUSDT   | 5.61M        | LOW        | 94.38K           | 44.28K           |           2.13 |           0.8844 | 2026-10-11 06:59 UTC |
