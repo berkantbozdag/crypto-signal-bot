@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-11 07:09 UTC**
+Son tarama: **2026-10-11 14:03 UTC**
 
 
 Volume spike kriteri:
@@ -10,11 +10,13 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BFUSDUSDT | 500.78K      | LOW        | 53.85K           | 7.98K            |           6.75 |           0.9994 | 2026-10-11 06:59 UTC |
-| ZAMAUSDT  | 1.87M        | LOW        | 99.88K           | 17.89K           |           5.58 |           2.7208 | 2026-10-11 06:59 UTC |
-| GRAMUSDT  | 5.95M        | LOW        | 199.93K          | 53.23K           |           3.76 |           0.8212 | 2026-10-11 06:59 UTC |
-| 币安人生USDT  | 6.11M        | LOW        | 93.75K           | 29.21K           |           3.21 |           4.0646 | 2026-10-11 06:59 UTC |
-| SPCXBUSDT | 2.18M        | LOW        | 64.08K           | 20.94K           |           3.06 |           0.9725 | 2026-10-11 06:59 UTC |
-| METUSDT   | 5.61M        | LOW        | 94.38K           | 44.28K           |           2.13 |           0.8844 | 2026-10-11 06:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SNDKBUSDT  | 1.96M        | LOW        | 82.14K           | 10.94K           |           7.51 |           0.7994 | 2026-10-11 13:59 UTC |
+| SENTUSDT   | 8.12M        | OK         | 652.25K          | 93.76K           |           6.96 |           0.8356 | 2026-10-11 13:59 UTC |
+| 币安人生USDT   | 2.84M        | LOW        | 410.69K          | 93.75K           |           4.38 |           4.3092 | 2026-10-11 13:59 UTC |
+| SKYUSDT    | 1.55M        | LOW        | 118.14K          | 29.20K           |           4.05 |           1.0176 | 2026-10-11 13:59 UTC |
+| MORPHOUSDT | 1.92M        | LOW        | 71.25K           | 18.74K           |           3.8  |           1.2737 | 2026-10-11 13:59 UTC |
+| CRCLBUSDT  | 3.42M        | LOW        | 129.90K          | 35.37K           |           3.67 |           1.069  | 2026-10-11 13:59 UTC |
+| METUSDT    | 3.61M        | LOW        | 206.53K          | 94.38K           |           2.19 |           0.8861 | 2026-10-11 13:59 UTC |
+| ONDOUSDT   | 11.63M       | OK         | 632.56K          | 303.76K          |           2.08 |           0.5748 | 2026-10-11 13:59 UTC |
