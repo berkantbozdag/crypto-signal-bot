@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-13 10:32 UTC**
+Son tarama: **2026-10-13 18:14 UTC**
 
 
 Volume spike kriteri:
@@ -12,8 +12,7 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| NBISBUSDT | 1.17M        | LOW        | 164.29K          | 29.98K           |           5.48 |           0.9531 | 2026-10-13 09:59 UTC |
-| LITEBUSDT | 1.41M        | LOW        | 110.63K          | 24.42K           |           4.53 |           1.1628 | 2026-10-13 09:59 UTC |
-| AAOIBUSDT | 1.85M        | LOW        | 174.38K          | 41.30K           |           4.22 |           0.804  | 2026-10-13 09:59 UTC |
-| BFUSDUSDT | 2.27M        | LOW        | 151.61K          | 36.18K           |           4.19 |           0.9992 | 2026-10-13 09:59 UTC |
-| ZAMAUSDT  | 6.06M        | LOW        | 605.07K          | 229.67K          |           2.63 |           2.8927 | 2026-10-13 09:59 UTC |
+| PLTRBUSDT | 186.95K      | LOW        | 55.72K           | 209              |         266.79 |           1.6062 | 2026-10-13 17:59 UTC |
+| ARMBUSDT  | 208.03K      | LOW        | 57.18K           | 1.54K            |          37.08 |           0.9091 | 2026-10-13 17:59 UTC |
+| MRVLBUSDT | 1.38M        | LOW        | 117.12K          | 39.02K           |           3    |           1.2021 | 2026-10-13 17:59 UTC |
+| AMDBUSDT  | 4.57M        | LOW        | 251.97K          | 106.52K          |           2.37 |           1.1283 | 2026-10-13 17:59 UTC |
