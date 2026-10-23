@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-23 19:10 UTC**
+Son tarama: **2026-10-23 22:09 UTC**
 
 
 Volume spike kriteri:
@@ -12,4 +12,6 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ORCLBUSDT | 565.72K      | LOW        | 88.71K           | 43.59K           |           2.04 |            1.006 | 2026-10-23 18:59 UTC |
+| GRAMUSDT  | 7.63M        | OK         | 937.47K          | 194.23K          |           4.83 |           0.7357 | 2026-10-23 21:59 UTC |
+| TSLABUSDT | 4.82M        | LOW        | 102.05K          | 32.76K           |           3.11 |           0.9168 | 2026-10-23 21:59 UTC |
+| SOXSBUSDT | 2.46M        | LOW        | 70.83K           | 33.00K           |           2.15 |           0.8316 | 2026-10-23 21:59 UTC |
