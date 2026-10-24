@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-24 18:08 UTC**
+Son tarama: **2026-10-24 20:47 UTC**
 
 
 Volume spike kriteri:
@@ -10,20 +10,6 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| LITEBUSDT | 485.99K      | LOW        | 81.13K           | 586              |         138.34 |           0.8854 | 2026-10-24 17:59 UTC |
-| MRVLBUSDT | 570.88K      | LOW        | 51.60K           | 531              |          97.1  |           1.0178 | 2026-10-24 17:59 UTC |
-| XAUTUSDT  | 22.76M       | OK         | 2.28M            | 115.73K          |          19.67 |           0.8889 | 2026-10-24 17:59 UTC |
-| MSTRBUSDT | 11.12M       | OK         | 736.62K          | 37.98K           |          19.4  |           1.3427 | 2026-10-24 17:59 UTC |
-| MUBUSDT   | 6.18M        | LOW        | 221.73K          | 12.19K           |          18.19 |           0.8799 | 2026-10-24 17:59 UTC |
-| SKHYBUSDT | 4.80M        | LOW        | 130.45K          | 7.17K            |          18.18 |           0.8006 | 2026-10-24 17:59 UTC |
-| INTCBUSDT | 2.58M        | LOW        | 66.40K           | 5.38K            |          12.34 |           0.655  | 2026-10-24 17:59 UTC |
-| OPGUSDT   | 1.06M        | LOW        | 72.22K           | 6.64K            |          10.88 |           0.5222 | 2026-10-24 17:59 UTC |
-| AMDBUSDT  | 807.18K      | LOW        | 94.55K           | 9.26K            |          10.21 |           0.9734 | 2026-10-24 17:59 UTC |
-| CRCLBUSDT | 11.34M       | OK         | 913.94K          | 92.94K           |           9.83 |           1.0532 | 2026-10-24 17:59 UTC |
-| DRAMBUSDT | 989.39K      | LOW        | 69.06K           | 7.80K            |           8.85 |           0.7174 | 2026-10-24 17:59 UTC |
-| NBISBUSDT | 1.13M        | LOW        | 62.64K           | 7.90K            |           7.92 |           0.7253 | 2026-10-24 17:59 UTC |
-| KORUBUSDT | 2.89M        | LOW        | 111.25K          | 17.25K           |           6.45 |           0.5447 | 2026-10-24 17:59 UTC |
-| GRAMUSDT  | 17.91M       | OK         | 692.83K          | 301.24K          |           2.3  |           0.7051 | 2026-10-24 17:59 UTC |
-| SPCXBUSDT | 8.54M        | OK         | 300.08K          | 135.85K          |           2.21 |           0.8672 | 2026-10-24 17:59 UTC |
+| symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| MUBUSDT  | 6.23M        | LOW        | 551.51K          | 221.73K          |           2.49 |           0.8888 | 2026-10-24 19:59 UTC |
