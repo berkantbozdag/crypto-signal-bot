@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-23 22:09 UTC**
+Son tarama: **2026-10-24 00:42 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,19 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| GRAMUSDT  | 7.63M        | OK         | 937.47K          | 194.23K          |           4.83 |           0.7357 | 2026-10-23 21:59 UTC |
-| TSLABUSDT | 4.82M        | LOW        | 102.05K          | 32.76K           |           3.11 |           0.9168 | 2026-10-23 21:59 UTC |
-| SOXSBUSDT | 2.46M        | LOW        | 70.83K           | 33.00K           |           2.15 |           0.8316 | 2026-10-23 21:59 UTC |
+| symbol       | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-------------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| CRCLBUSDT    | 23.96M       | OK         | 1.04M            | 31.21K           |          33.24 |           1.0634 | 2026-10-23 23:59 UTC |
+| ALLOUSDT     | 555.15K      | LOW        | 80.13K           | 6.72K            |          11.93 |           0.7963 | 2026-10-23 23:59 UTC |
+| TQQQBUSDT    | 13.88M       | OK         | 94.81K           | 10.69K           |           8.87 |           0.9298 | 2026-10-23 23:59 UTC |
+| PUMPUSDT     | 19.45M       | OK         | 1.93M            | 254.13K          |           7.61 |           0.563  | 2026-10-23 23:59 UTC |
+| QQQBUSDT     | 6.03M        | LOW        | 172.76K          | 29.51K           |           5.85 |           0.9742 | 2026-10-23 23:59 UTC |
+| AIGENSYNUSDT | 821.84K      | LOW        | 70.35K           | 12.57K           |           5.6  |           0.5054 | 2026-10-23 23:59 UTC |
+| SPYBUSDT     | 694.27K      | LOW        | 81.73K           | 15.85K           |           5.16 |           1.014  | 2026-10-23 23:59 UTC |
+| UUSDT        | 43.40M       | OK         | 1.70M            | 447.99K          |           3.8  |           1.0003 | 2026-10-23 23:59 UTC |
+| AEROUSDT     | 6.83M        | LOW        | 254.55K          | 74.05K           |           3.44 |           1.5358 | 2026-10-23 23:59 UTC |
+| INTCBUSDT    | 5.99M        | LOW        | 96.57K           | 30.09K           |           3.21 |           0.6555 | 2026-10-23 23:59 UTC |
+| METUSDT      | 930.46K      | LOW        | 71.17K           | 25.64K           |           2.78 |           0.6749 | 2026-10-23 23:59 UTC |
+| KMNOUSDT     | 1.67M        | LOW        | 175.47K          | 69.43K           |           2.53 |           0.576  | 2026-10-23 23:59 UTC |
+| MUBUSDT      | 16.72M       | OK         | 154.45K          | 70.45K           |           2.19 |           0.8825 | 2026-10-23 23:59 UTC |
+| NIGHTUSDT    | 2.29M        | LOW        | 75.61K           | 35.59K           |           2.12 |           0.7813 | 2026-10-23 23:59 UTC |
