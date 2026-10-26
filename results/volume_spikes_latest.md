@@ -1,8 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-25 21:46 UTC**
-
-Sonuç yok.
+Son tarama: **2026-10-26 00:13 UTC**
 
 
 Volume spike kriteri:
@@ -11,3 +9,21 @@ Volume spike kriteri:
 - Son 1H hacim en az 50.00K USDT olmalı.
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
+
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| UUSDT      | 13.37M       | OK         | 2.94M            | 44.04K           |          66.85 |           1.0003 | 2026-10-25 23:59 UTC |
+| MUBUSDT    | 1.80M        | LOW        | 142.50K          | 12.41K           |          11.49 |           0.8947 | 2026-10-25 23:59 UTC |
+| NBISBUSDT  | 2.12M        | LOW        | 64.01K           | 5.62K            |          11.38 |           0.7349 | 2026-10-25 23:59 UTC |
+| KORUBUSDT  | 1.50M        | LOW        | 246.02K          | 22.02K           |          11.17 |           0.5653 | 2026-10-25 23:59 UTC |
+| SKHYBUSDT  | 1.18M        | LOW        | 229.72K          | 20.67K           |          11.12 |           0.8293 | 2026-10-25 23:59 UTC |
+| XAUTUSDT   | 18.95M       | OK         | 2.15M            | 232.01K          |           9.29 |           0.8894 | 2026-10-25 23:59 UTC |
+| TSLABUSDT  | 608.59K      | LOW        | 81.26K           | 10.93K           |           7.43 |           0.9174 | 2026-10-25 23:59 UTC |
+| MSTRBUSDT  | 4.03M        | LOW        | 173.98K          | 25.24K           |           6.89 |           1.3427 | 2026-10-25 23:59 UTC |
+| QQQBUSDT   | 947.25K      | LOW        | 56.47K           | 10.46K           |           5.4  |           0.9759 | 2026-10-25 23:59 UTC |
+| SNDKBUSDT  | 8.73M        | OK         | 895.36K          | 185.92K          |           4.82 |           0.6243 | 2026-10-25 23:59 UTC |
+| GRAMUSDT   | 5.47M        | LOW        | 232.12K          | 63.30K           |           3.67 |           0.708  | 2026-10-25 23:59 UTC |
+| AEROUSDT   | 3.09M        | LOW        | 251.98K          | 70.63K           |           3.57 |           1.4348 | 2026-10-25 23:59 UTC |
+| CRCLBUSDT  | 4.09M        | LOW        | 239.41K          | 68.40K           |           3.5  |           1.056  | 2026-10-25 23:59 UTC |
+| PUMPUSDT   | 8.04M        | OK         | 621.11K          | 284.37K          |           2.18 |           0.5673 | 2026-10-25 23:59 UTC |
+| MORPHOUSDT | 1.13M        | LOW        | 66.41K           | 32.83K           |           2.02 |           1.0934 | 2026-10-25 23:59 UTC |
