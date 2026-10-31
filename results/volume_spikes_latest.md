@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-10-30 23:42 UTC**
+Son tarama: **2026-10-31 05:27 UTC**
 
 
 Volume spike kriteri:
@@ -12,4 +12,6 @@ Volume spike kriteri:
 
 | symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| ESPUSDT  | 1.83M        | LOW        | 63.19K           | 26.96K           |           2.34 |            1.432 | 2026-10-30 22:59 UTC |
+| ZAMAUSDT | 6.97M        | LOW        | 1.99M            | 147.14K          |          13.53 |           2.2333 | 2026-10-31 04:59 UTC |
+| AMDBUSDT | 1.50M        | LOW        | 92.36K           | 10.02K           |           9.21 |           0.9623 | 2026-10-31 04:59 UTC |
+| 币安人生USDT | 2.08M        | LOW        | 213.74K          | 43.41K           |           4.92 |           3.7001 | 2026-10-31 04:59 UTC |
