@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-11-01 15:05 UTC**
+Son tarama: **2026-11-01 19:37 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,10 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BMNRBUSDT | 164.27K      | LOW        | 59.13K           | 565              |         104.61 |           1.0887 | 2026-11-01 14:59 UTC |
-| SKYUSDT   | 666.92K      | LOW        | 106.56K          | 8.81K            |          12.1  |           0.9152 | 2026-11-01 14:59 UTC |
-| AWEUSDT   | 1.42M        | LOW        | 83.85K           | 20.74K           |           4.04 |           0.9208 | 2026-11-01 14:59 UTC |
+| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| PUMPUSDT   | 3.94M        | LOW        | 265.51K          | 78.62K           |           3.38 |           0.5535 | 2026-11-01 18:59 UTC |
+| MSTRBUSDT  | 3.22M        | LOW        | 406.66K          | 131.81K          |           3.09 |           1.2523 | 2026-11-01 18:59 UTC |
+| QQQBUSDT   | 1.21M        | LOW        | 75.63K           | 26.09K           |           2.9  |           0.9607 | 2026-11-01 18:59 UTC |
+| GOOGLBUSDT | 1.87M        | LOW        | 111.61K          | 40.40K           |           2.76 |           0.7741 | 2026-11-01 18:59 UTC |
+| HUMAUSDT   | 1.07M        | LOW        | 153.69K          | 60.64K           |           2.53 |           0.5374 | 2026-11-01 18:59 UTC |
