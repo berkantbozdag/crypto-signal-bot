@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-11-01 19:37 UTC**
+Son tarama: **2026-11-01 23:37 UTC**
 
 
 Volume spike kriteri:
@@ -10,10 +10,9 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| PUMPUSDT   | 3.94M        | LOW        | 265.51K          | 78.62K           |           3.38 |           0.5535 | 2026-11-01 18:59 UTC |
-| MSTRBUSDT  | 3.22M        | LOW        | 406.66K          | 131.81K          |           3.09 |           1.2523 | 2026-11-01 18:59 UTC |
-| QQQBUSDT   | 1.21M        | LOW        | 75.63K           | 26.09K           |           2.9  |           0.9607 | 2026-11-01 18:59 UTC |
-| GOOGLBUSDT | 1.87M        | LOW        | 111.61K          | 40.40K           |           2.76 |           0.7741 | 2026-11-01 18:59 UTC |
-| HUMAUSDT   | 1.07M        | LOW        | 153.69K          | 60.64K           |           2.53 |           0.5374 | 2026-11-01 18:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| BNCBUSDT  | 1.10M        | LOW        | 118.65K          | 6.61K            |          17.95 |           0.9407 | 2026-11-01 22:59 UTC |
+| CRCLBUSDT | 4.51M        | LOW        | 295.43K          | 75.63K           |           3.91 |           0.9138 | 2026-11-01 22:59 UTC |
+| SPCXBUSDT | 3.49M        | LOW        | 308.36K          | 115.96K          |           2.66 |           0.8178 | 2026-11-01 22:59 UTC |
+| ZAMAUSDT  | 4.41M        | LOW        | 232.73K          | 98.40K           |           2.37 |           2.4108 | 2026-11-01 22:59 UTC |
