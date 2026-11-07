@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-11-07 16:25 UTC**
+Son tarama: **2026-11-07 20:55 UTC**
 
 
 Volume spike kriteri:
@@ -12,4 +12,5 @@ Volume spike kriteri:
 
 | symbol   | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:---------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| 币安人生USDT | 1.29M        | LOW        | 54.95K           | 21.76K           |           2.53 |           3.6098 | 2026-11-07 15:59 UTC |
+| AEROUSDT | 2.01M        | LOW        | 268.38K          | 37.78K           |           7.1  |           1.2896 | 2026-11-07 19:59 UTC |
+| METUSDT  | 5.28M        | LOW        | 723.82K          | 259.49K          |           2.79 |           0.6897 | 2026-11-07 19:59 UTC |
