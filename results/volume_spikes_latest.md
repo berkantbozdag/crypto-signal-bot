@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-11-08 15:07 UTC**
+Son tarama: **2026-11-08 19:37 UTC**
 
 
 Volume spike kriteri:
@@ -10,8 +10,12 @@ Volume spike kriteri:
 - Sadece ATH-body filtresinden geçen coinlerde aranır.
 
 
-| symbol     | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
-|:-----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| GOOGLBUSDT | 937.55K      | LOW        | 201.41K          | 9.11K            |          22.11 |           0.778  | 2026-11-08 14:59 UTC |
-| 币安人生USDT   | 638.47K      | LOW        | 96.79K           | 9.63K            |          10.05 |           3.5588 | 2026-11-08 14:59 UTC |
-| CRCLBUSDT  | 2.49M        | LOW        | 84.53K           | 36.14K           |           2.34 |           0.8435 | 2026-11-08 14:59 UTC |
+| symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
+|:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
+| SKHYBUSDT | 698.56K      | LOW        | 96.38K           | 8.05K            |          11.97 |           0.768  | 2026-11-08 18:59 UTC |
+| LITEBUSDT | 147.18K      | LOW        | 55.68K           | 6.40K            |           8.7  |           0.6353 | 2026-11-08 18:59 UTC |
+| MUBUSDT   | 1.96M        | LOW        | 375.48K          | 56.21K           |           6.68 |           0.7073 | 2026-11-08 18:59 UTC |
+| QQQBUSDT  | 1.77M        | LOW        | 194.52K          | 56.01K           |           3.47 |           0.9104 | 2026-11-08 18:59 UTC |
+| NVDABUSDT | 2.56M        | LOW        | 228.71K          | 66.93K           |           3.42 |           0.9099 | 2026-11-08 18:59 UTC |
+| AVGOBUSDT | 120.60K      | LOW        | 62.53K           | 19.92K           |           3.14 |           0.7649 | 2026-11-08 18:59 UTC |
+| TQQQBUSDT | 396.75K      | LOW        | 57.71K           | 23.03K           |           2.51 |           0.7402 | 2026-11-08 18:59 UTC |
