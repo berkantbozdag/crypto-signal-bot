@@ -1,6 +1,6 @@
 # Volume Spike Scan
 
-Son tarama: **2026-11-09 06:08 UTC**
+Son tarama: **2026-11-10 00:16 UTC**
 
 
 Volume spike kriteri:
@@ -12,6 +12,11 @@ Volume spike kriteri:
 
 | symbol    | volume_24h   | priority   | last_1h_volume   | prev_1h_volume   |   volume_ratio |   ath_body_ratio | last_1h_close        |
 |:----------|:-------------|:-----------|:-----------------|:-----------------|---------------:|-----------------:|:---------------------|
-| BABABUSDT | 428.18K      | LOW        | 58.93K           | 6.06K            |           9.72 |           0.9307 | 2026-11-09 05:59 UTC |
-| SPCXBUSDT | 14.52M       | OK         | 2.12M            | 916.29K          |           2.32 |           0.8098 | 2026-11-09 05:59 UTC |
-| MRVLBUSDT | 570.89K      | LOW        | 61.43K           | 28.61K           |           2.15 |           0.6235 | 2026-11-09 05:59 UTC |
+| EWYBUSDT  | 1.87M        | LOW        | 310.41K          | 56.53K           |           5.49 |           0.699  | 2026-11-09 23:59 UTC |
+| NBISBUSDT | 2.03M        | LOW        | 59.93K           | 17.73K           |           3.38 |           0.6674 | 2026-11-09 23:59 UTC |
+| QQQBUSDT  | 9.20M        | OK         | 223.11K          | 72.14K           |           3.09 |           0.9407 | 2026-11-09 23:59 UTC |
+| GRAMUSDT  | 9.96M        | OK         | 443.77K          | 175.27K          |           2.53 |           0.5869 | 2026-11-09 23:59 UTC |
+| SOXSBUSDT | 5.80M        | LOW        | 169.95K          | 67.75K           |           2.51 |           0.8554 | 2026-11-09 23:59 UTC |
+| HOODBUSDT | 729.50K      | LOW        | 62.15K           | 26.33K           |           2.36 |           0.7371 | 2026-11-09 23:59 UTC |
+| TSLABUSDT | 6.34M        | LOW        | 165.93K          | 72.02K           |           2.3  |           0.9328 | 2026-11-09 23:59 UTC |
+| SKHYBUSDT | 10.76M       | OK         | 836.14K          | 396.47K          |           2.11 |           0.7963 | 2026-11-09 23:59 UTC |
